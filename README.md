@@ -1,0 +1,1 @@
+# kerygmat-apostolski-dzisiaj
