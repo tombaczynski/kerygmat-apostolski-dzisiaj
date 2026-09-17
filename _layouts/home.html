@@ -1,0 +1,46 @@
+---
+layout: default
+---
+
+<div style="margin-bottom: 20px; display: flex; gap: 10px; flex-wrap: wrap;">
+  <a href="{{ site.baseurl }}/" class="btn btn-outline">🏠 Początek</a>
+</div>
+
+<hr>
+
+<div class="main-content">
+  {{ content }}
+</div>
+
+<h2>Spis treści</h2>
+<ul>
+  {% for chapter in site.pages %}
+    {% if chapter.name == 'index.md' and chapter.url != '/' and chapter.url != '/index.html' %}
+      {% assign chapter_path = chapter.url | split: '/' %}
+      {% if chapter_path.size == 3 and chapter_path[1] != '' %}
+        <li>
+          <strong><a href="{{ site.baseurl }}{{ chapter.url }}">{{ chapter.title | default: chapter_path[1] }}</a></strong>
+
+          {% assign children = '' | split: '' %}
+          {% for doc in site.pages %}
+            {% unless doc.name == 'index.md' %}
+              {% assign relative = doc.url | remove_first: chapter.url | strip %}
+              {% assign relative_parts = relative | split: '/' %}
+              {% if relative != '' and relative_parts.size == 1 and relative_parts[0] != '' %}
+                {% assign children = children | push: doc %}
+              {% endif %}
+            {% endunless %}
+          {% endfor %}
+
+          {% if children.size > 0 %}
+            <ul style="margin-top: 6px; margin-left: 20px;">
+              {% for child in children %}
+                <li><a href="{{ site.baseurl }}{{ child.url }}">{{ child.title | default: child.name }}</a></li>
+              {% endfor %}
+            </ul>
+          {% endif %}
+        </li>
+      {% endif %}
+    {% endif %}
+  {% endfor %}
+</ul>
