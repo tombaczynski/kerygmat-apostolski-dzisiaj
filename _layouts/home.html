@@ -13,35 +13,41 @@ layout: default
 </div>
 
 <h2>Spis treści</h2>
-<ul>
-  {% for chapter in site.pages %}
-    {% if chapter.name == 'index.md' and chapter.url != '/' and chapter.url != '/index.html' %}
-      {% assign chapter_parts = chapter.url | split: '/' %}
-      {% if chapter_parts.size == 3 and chapter_parts[1] != '' %}
-        <li>
-          <strong><a href="{{ site.baseurl }}{{ chapter.url }}">{{ chapter.title | default: chapter_parts[1] }}</a></strong>
 
-          {% assign children = '' | split: '' %}
-          {% for doc in site.pages %}
-            {% unless doc.name == 'index.md' %}
-              {% assign relative = doc.url | remove_first: chapter.url | strip %}
-              {% unless relative contains '/' %}
-                {% if relative != '' %}
-                  {% assign children = children | push: doc %}
-                {% endif %}
-              {% endunless %}
+{% comment %}
+  Grupujemy wszystkie strony według folderu, w którym się znajdują
+{% endcomment %}
+{% assign grouped_pages = site.pages | group_by_exp: "page", "page.path | split: '/' | first" %}
+
+<ul>
+  {% for group in grouped_pages %}
+    {% comment %} Ignorujemy pliki znajdujące się w głównym katalogu (np. główny index.md, 404.md itp.) {% endcomment %}
+    {% unless group.name contains '.' or group.name == '' %}
+      
+      {% comment %} Szukamy pliku index.md danego rozdziału {% endcomment %}
+      {% assign chapter_index = group.items | where: "name", "index.md" | first %}
+      
+      <li>
+        <strong>
+          {% if chapter_index %}
+            <a href="{{ chapter_index.url | relative_url }}">{{ chapter_index.title | default: group.name }}</a>
+          {% else %}
+            {{ group.name }}
+          {% endif %}
+        </strong>
+
+        {% comment %} Wyświetlamy podrozdziały (wszystkie pliki poza index.md) {% endcomment %}
+        <ul style="margin-top: 6px; margin-left: 20px;">
+          {% for child in group.items %}
+            {% unless child.name == 'index.md' %}
+              <li>
+                <a href="{{ child.url | relative_url }}">{{ child.title | default: child.name }}</a>
+              </li>
             {% endunless %}
           {% endfor %}
+        </ul>
 
-          {% if children.size > 0 %}
-            <ul style="margin-top: 6px; margin-left: 20px;">
-              {% for child in children %}
-                <li><a href="{{ site.baseurl }}{{ child.url }}">{{ child.title | default: child.name }}</a></li>
-              {% endfor %}
-            </ul>
-          {% endif %}
-        </li>
-      {% endif %}
-    {% endif %}
+      </li>
+    {% endunless %}
   {% endfor %}
 </ul>
