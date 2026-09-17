@@ -1,6 +1,6 @@
 ---
 layout: katalog
-title: "7.0 Zesłał od Ciebie, Ojcze, Ducha Świętego"
+title: "7. Zesłał od Ciebie, Ojcze, Ducha Świętego"
 ---
 
 ## 7. Zesłał od Ciebie, Ojcze, Ducha Świętego
