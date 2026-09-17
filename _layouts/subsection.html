@@ -1,0 +1,40 @@
+---
+layout: default
+---
+
+<div style="margin-bottom: 20px; display: flex; gap: 10px; flex-wrap: wrap;">
+  <a href="{{ site.baseurl }}/" class="btn btn-outline">🏠 Początek</a>
+  {% assign current_url = page.url | replace: 'index.html', '' %}
+  {% assign parent_url = current_url | split: '/' | pop | join: '/' %}
+  {% if parent_url == '' %}
+    {% assign parent_url = '/' %}
+  {% else %}
+    {% assign parent_url = parent_url | append: '/' %}
+  {% endif %}
+  <a href="{{ site.baseurl }}{{ parent_url }}" class="btn btn-outline">⬆️ Rozdział</a>
+</div>
+
+<hr>
+
+<div class="main-content">
+  {{ content }}
+</div>
+
+{% assign chapter_clean = page.url | split: '/' | pop | join: '/' %}
+{% if chapter_clean == '' %}
+  {% assign chapter_clean = '/' %}
+{% endif %}
+
+{% assign sibling_pages = site.pages | where_exp: "doc", "doc.url contains chapter_clean and doc.name != 'index.md'" | sort: "url" %}
+{% if sibling_pages.size > 0 %}
+  <h3>Inne podrozdziały</h3>
+  <ul>
+    {% for sibling in sibling_pages %}
+      {% assign relative_path = sibling.url | remove_first: chapter_clean %}
+      {% assign relative_parts = relative_path | split: '/' %}
+      {% if relative_parts.size == 1 and relative_parts[0] != "" %}
+        <li><a href="{{ site.baseurl }}{{ sibling.url }}">{{ sibling.title | default: sibling.name }}</a></li>
+      {% endif %}
+    {% endfor %}
+  </ul>
+{% endif %}

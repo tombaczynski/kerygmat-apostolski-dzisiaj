@@ -1,0 +1,65 @@
+---
+layout: default
+---
+
+{% assign is_home = false %}
+{% if page.url == "/" or page.url == "/index.html" %}
+  {% assign is_home = true %}
+{% endif %}
+
+<div style="margin-bottom: 20px; display: flex; gap: 10px; flex-wrap: wrap;">
+  <a href="{{ site.baseurl }}/" class="btn btn-outline">🏠 Początek</a>
+  {% unless is_home %}
+    <a href="{{ site.baseurl }}/" class="btn btn-outline">📚 Spis treści</a>
+  {% endunless %}
+</div>
+
+<hr>
+
+<div class="main-content">
+  {{ content }}
+</div>
+
+{% if is_home %}
+  <h2>Spis treści</h2>
+  <ul>
+    {% assign chapter_pages = site.pages | where: "name", "index.md" | sort: "url" %}
+    {% for chapter in chapter_pages %}
+      {% assign chapter_clean = chapter.url | replace: 'index.html', '' %}
+      {% assign chapter_parts = chapter_clean | split: '/' %}
+      {% if chapter_clean != "/" and chapter_parts.size == 2 and chapter_parts[1] != "" %}
+        <li>
+          <strong><a href="{{ site.baseurl }}{{ chapter.url }}">{{ chapter.title | default: chapter_clean }}</a></strong>
+
+          {% assign subsection_pages = site.pages | where_exp: "doc", "doc.url contains chapter_clean and doc.name != 'index.md'" | sort: "url" %}
+          {% if subsection_pages.size > 0 %}
+            <ul style="margin-top: 6px; margin-left: 20px;">
+              {% for subsection in subsection_pages %}
+                {% assign relative_path = subsection.url | remove_first: chapter_clean %}
+                {% assign relative_parts = relative_path | split: '/' %}
+                {% if relative_parts.size == 1 and relative_parts[0] != "" %}
+                  <li><a href="{{ site.baseurl }}{{ subsection.url }}">{{ subsection.title | default: subsection.name }}</a></li>
+                {% endif %}
+              {% endfor %}
+            </ul>
+          {% endif %}
+        </li>
+      {% endif %}
+    {% endfor %}
+  </ul>
+{% else %}
+  {% assign chapter_clean = page.url | replace: 'index.html', '' %}
+  {% assign section_pages = site.pages | where_exp: "doc", "doc.url contains chapter_clean and doc.name != 'index.md' and doc.url != page.url" | sort: "url" %}
+  {% if section_pages.size > 0 %}
+    <h3>Podrozdziały</h3>
+    <ul>
+      {% for subsection in section_pages %}
+        {% assign relative_path = subsection.url | remove_first: chapter_clean %}
+        {% assign relative_parts = relative_path | split: '/' %}
+        {% if relative_parts.size == 1 and relative_parts[0] != "" %}
+          <li><a href="{{ site.baseurl }}{{ subsection.url }}">{{ subsection.title | default: subsection.name }}</a></li>
+        {% endif %}
+      {% endfor %}
+    </ul>
+  {% endif %}
+{% endif %}

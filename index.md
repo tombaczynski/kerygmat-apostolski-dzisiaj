@@ -1,4 +1,4 @@
 ---
-layout: katalog
+layout: chapter
 title: "Kerygmat apostolski dzisiaj"
 ---

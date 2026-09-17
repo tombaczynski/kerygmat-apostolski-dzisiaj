@@ -1,5 +1,5 @@
 ---
-layout: katalog
+layout: chapter
 title: "7. Zesłał od Ciebie, Ojcze, Ducha Świętego"
 ---
 

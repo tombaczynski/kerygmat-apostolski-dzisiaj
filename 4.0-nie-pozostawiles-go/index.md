@@ -1,5 +1,5 @@
 ---
-layout: katalog
+layout: chapter
 title: "4. Nie pozostawiłeś go pod władzą śmierci"
 ---
 
