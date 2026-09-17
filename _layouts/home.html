@@ -16,19 +16,20 @@ layout: default
 <ul>
   {% for chapter in site.pages %}
     {% if chapter.name == 'index.md' and chapter.url != '/' and chapter.url != '/index.html' %}
-      {% assign chapter_path = chapter.url | split: '/' %}
-      {% if chapter_path.size == 3 and chapter_path[1] != '' %}
+      {% assign chapter_parts = chapter.url | split: '/' %}
+      {% if chapter_parts.size == 3 and chapter_parts[1] != '' %}
         <li>
-          <strong><a href="{{ site.baseurl }}{{ chapter.url }}">{{ chapter.title | default: chapter_path[1] }}</a></strong>
+          <strong><a href="{{ site.baseurl }}{{ chapter.url }}">{{ chapter.title | default: chapter_parts[1] }}</a></strong>
 
           {% assign children = '' | split: '' %}
           {% for doc in site.pages %}
             {% unless doc.name == 'index.md' %}
               {% assign relative = doc.url | remove_first: chapter.url | strip %}
-              {% assign relative_parts = relative | split: '/' %}
-              {% if relative != '' and relative_parts.size == 1 and relative_parts[0] != '' %}
-                {% assign children = children | push: doc %}
-              {% endif %}
+              {% unless relative contains '/' %}
+                {% if relative != '' %}
+                  {% assign children = children | push: doc %}
+                {% endif %}
+              {% endunless %}
             {% endunless %}
           {% endfor %}
 
