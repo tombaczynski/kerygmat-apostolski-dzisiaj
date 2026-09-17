@@ -1,0 +1,32 @@
+---
+layout: default
+---
+
+<!-- 1. Nawigacja na górze pliku -->
+<div style="margin-bottom: 20px; display: flex; gap: 10px;">
+  <!-- Przycisk Powrót do Strony Głównym -->
+  <a href="{{ site.baseurl }}/" class="btn btn-outline">🏠 Początek</a>
+
+  <!-- Przycisk W Górę (do katalogu nadrzędnego) -->
+  {% assign url_parts = page.url | split: '/' %}
+  {% assign parts_size = url_parts.size | minus: 1 %}
+  {% assign parent_url = "" %}
+  
+  {% for i in (1..parts_size) %}
+    {% assign idx = i | minus: 1 %}
+    {% if url_parts[idx] != "" %}
+      {% capture parent_url %}{{ parent_url }}/{{ url_parts[idx] }}{% endcapture %}
+    {% endif %}
+  {% endfor %}
+  
+  {% if parent_url == "" %}{% assign parent_url = "/" %}{% else %}{% capture parent_url %}{{ parent_url }}/{% endcapture %}{% endif %}
+
+  <a href="{{ site.baseurl }}{{ parent_url }}" class="btn btn-outline">⬆️ W górę</a>
+</div>
+
+<hr>
+
+<!-- 2. Właściwa treść pliku Markdown -->
+<div class="main-content">
+  {{ content }}
+</div>

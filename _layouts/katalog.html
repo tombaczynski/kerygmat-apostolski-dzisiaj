@@ -1,0 +1,111 @@
+---
+layout: default
+---
+
+<!-- 1. Nawigacja na górze katalogu (Pojawia się tylko w podfolderach) -->
+{% if page.url != "/" and page.url != "/index.html" %}
+  <div style="margin-bottom: 20px; display: flex; gap: 10px;">
+    <!-- Przycisk Powrót do Strony Głównym -->
+    <a href="{{ site.baseurl }}/" class="btn btn-outline">🏠 Początek</a>
+
+    <!-- Wyliczanie adresu nadrzędnego dla przycisku "W górę" -->
+    {% assign url_parts = page.url | split: '/' %}
+    {% assign parts_size = url_parts.size | minus: 1 %}
+    {% assign parent_url = "" %}
+    {% for i in (1..parts_size) %}
+      {% assign idx = i | minus: 1 %}
+      {% if url_parts[idx] != "" %}
+        {% capture parent_url %}{{ parent_url }}/{{ url_parts[idx] }}{% endcapture %}
+      {% endif %}
+    {% endfor %}
+    {% if parent_url == "" %}{% assign parent_url = "/" %}{% else %}{% capture parent_url %}{{ parent_url }}/{% endcapture %}{% endif %}
+
+    <a href="{{ site.baseurl }}{{ parent_url }}" class="btn btn-outline">⬆️ W górę</a>
+  </div>
+{% endif %}
+
+<hr>
+
+<!-- 2. Zawartość bieżącego pliku index.md -->
+<div class="main-content">
+  {{ content }}
+</div>
+
+<hr style="margin-top: 30px;">
+
+<!-- Obliczanie struktury folderów -->
+{% assign is_root = false %}
+{% if page.url == "/" or page.url == "/index.html" %}
+  {% assign is_root = true %}
+{% endif %}
+
+{% assign current_clean_url = page.url | replace: 'index.html', '' %}
+
+<!-- 3. Lista KATALOGÓW (tylko bezpośrednie podfoldery) -->
+<h3>Katalogi:</h3>
+<ul>
+  {% assign has_subfolders = false %}
+  {% for doc in site.pages %}
+    {% if doc.name == "index.md" and doc.url != page.url and doc.url != "/" and doc.url != "/index.html" %}
+      {% assign doc_clean_url = doc.url | replace: 'index.html', '' %}
+      
+      {% if is_root %}
+        <!-- Na stronie głównej szukamy tylko folderów 1. poziomu (np. /folder/) -->
+        {% assign parts = doc_clean_url | split: '/' %}
+        {% if parts.size == 2 %}
+          {% assign has_subfolders = true %}
+          <li>
+            📁 <a href="{{ site.baseurl }}{{ doc.url }}">{{ doc.title | default: parts[1] }}</a>
+          </li>
+        {% endif %}
+      {% else %}
+        <!-- W podfolderach sprawdzamy czy katalog leży dokładnie 1 poziom niżej -->
+        {% if doc_clean_url contains current_clean_url %}
+          {% assign rel_path = doc_clean_url | replace_first: current_clean_url, '' %}
+          {% assign rel_parts = rel_path | split: '/' %}
+          {% if rel_parts.size == 1 and rel_parts[0] != "" %}
+            {% assign has_subfolders = true %}
+            <li>
+              📁 <a href="{{ site.baseurl }}{{ doc.url }}">{{ doc.title | default: rel_parts[0] }}</a>
+            </li>
+          {% endif %}
+        {% endif %}
+      {% endif %}
+    {% endif %}
+  {% endfor %}
+  {% if has_subfolders == false %}
+    <li><em>Brak podkatalogów</em></li>
+  {% endif %}
+</ul>
+
+<!-- 4. Lista PLIKÓW (tylko pliki z tego samego poziomu) -->
+<h3>Pliki:</h3>
+<ul>
+  {% assign has_files = false %}
+  {% for doc in site.pages %}
+    {% assign doc_parts = doc.url | split: '/' %}
+    {% assign doc_file_name = doc_parts.last %}
+    
+    {% if is_root %}
+      <!-- Pliki w katalogu głównym (np. /sample.html) -->
+      {% if doc_parts.size == 2 and doc.name != "index.md" and doc_file_name != "index.html" %}
+        {% assign has_files = true %}
+        <li>
+          📄 <a href="{{ site.baseurl }}{{ doc.url }}">{{ doc.title | default: doc.name }}</a>
+        </li>
+      {% endif %}
+    {% else %}
+      <!-- Pliki w podfolderach -->
+      {% assign doc_folder = doc.url | replace: doc_file_name, '' %}
+      {% if doc_folder == current_clean_url and doc.name != "index.md" and doc_file_name != "index.html" %}
+        {% assign has_files = true %}
+        <li>
+          📄 <a href="{{ site.baseurl }}{{ doc.url }}">{{ doc.title | default: doc.name }}</a>
+        </li>
+      {% endif %}
+    {% endif %}
+  {% endfor %}
+  {% if has_files == false %}
+    <li><em>Brak plików w tym katalogu</em></li>
+  {% endif %}
+</ul>

@@ -1,0 +1,13 @@
+title: Kerygmat apostolski dzisiaj
+description: Repo z książką ks. Roberta Pisuli "Kerygmat apostolski dzisiaj" - której nakład się wyczerpał i jest niedostępny w sklepach.
+
+# Włączenie motywu Just the Docs (natywnie wspieranego przez GitHub Pages)
+# plugins:
+#  - just-the-docs
+
+# Adres URL Twojej strony
+url: "https://tombaczynski.github.io"
+baseurl: "/kerygmat-apostolski-dzisiaj"
+
+# Włączenie wbudowanej wyszukiwarki
+search_enabled: true

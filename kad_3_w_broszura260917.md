@@ -1,0 +1,1541 @@
+**PY**
+
+**wu**
+
+**oi**
+
+**Gr**
+
+ra
+
+**W5**
+
+# O
+
+**k**
+
+**Gr**
+
+_(t)_
+
+# Oe
+
+W.
+
+# Spis treści
+
+[O 1](#_Toc204885160)
+
+[Oe 2](#_Toc204885161)
+
+[Spis treści 2](#_Toc204885162)
+
+[Bi 3](#_Toc204885163)
+
+[1\. Li 3](#_Toc204885164)
+
+[2\. Li 3](#_Toc204885165)
+
+[2.1. Dzi 3](#_Toc204885166)
+
+[2.2. Książki 3](#_Toc204885167)
+
+[3\. Liteza 3](#_Toc204885168)
+
+[Netografia… 4](#_Toc204885169)
+
+[Wstęp 4](#_Toc204885170)
+
+[R I Rw 4](#_Toc204885171)
+
+[1\. Nauka 4](#_Toc204885172)
+
+[1.1. Bib 4](#_Toc204885173)
+
+[1.1.1. Grie 4](#_Toc204885174)
+
+[1.2. Pierwsze próby formułowania nauczania o grzechu pierworodnym 5](#_Toc204885175)
+
+[1.2.1. Antropologiczne tło powstawania nauki o grzechu pierworodnym 5](#_Toc204885176)
+
+[1.2.2. Etapy kryzysu pelagiańskiego 5](#_Toc204885177)
+
+[R II Psy 5](#_Toc204885178)
+
+[1\. Geneza pytania o grzech pierworodny u S. Kierkegaarda 5](#_Toc204885179)
+
+[RoI Antro 5](#_Toc204885180)
+
+[Zakończenie 6](#_Toc204885181)
+
+# Bi
+
+## Li
+
+_Pismo_, w. 5, Poznań 2003, Wydawnictwo Pallotinum.
+
+Nestle, _Novum_, wyd. 27, Stuttgart 2005, Deutsche Bibelgesellschaft.
+
+Synod w Kartaginie (1 maja 418), w: A. Baron, H. Pietras (opr.), Dokumenty synodów od 381 do 431 roku, Kraków 2010, Wydawnictwo WAM, s. 246-252\*.
+
+Jan Paweł II, Encyklika „Redemptor hominis". 04.03.1979 r., w: _Encykliki Ojca Świętego Jana Pawła II_, Kraków 1996, Wydawnictwo św. Stanisława B.M Archidiecezji Krakowskiej, Wydawnictwo M, t. 1., s. 1-53.
+
+## Li
+
+### Dzi
+
+Kierk, S., _Albo_, Warszawa 1982, Państwowe Wydawnictwo Naukowe, t. 2.
+
+Kierk, S., _Bojaźń i drżenie. Liryka dialektyczna. Napisał Johannes de Silentio_, w: S. Kierkegaard, _Bojaźń i drżenie. Choroba na śmierć_, Warszawa 1982, Państwowe Wydawnictwo Naukowe, s. 1-137.
+
+### Książki
+
+Dud, J., _Samobójstwo jako wyraz buntu przeciwko Bogu. Szkic z filozofii człowieka Sørena Kierkegaarda_, w: A. Szwed (red.), _W kręgu Kierkegaarda_, Kęty 2014, Wydawnictwo Marek Derewiecki, s. 257-269.
+
+## Liteza
+
+_Artykuły Szmalkaldzkie_, w: _Wybrane księgi symboliczne Kościoła ewangelicko-augsburskiego_, Warszawa 1980, Wydawnictwo „Zwiastun".
+
+_Kościoła ewangelicko-augsburskiego_, Warszawa 1980, Wydawnictwo „Zwiastun".
+
+# Netografia…
+
+Augustyn, _De gratia et libero arbitrio liber unus. Ad Valentinum et cum illo monachos_, PL 44, za: <http://www.augustinus.it/latino/grazia_libero_arbitrio/index.htm> (dostęp: 20.08.2015).
+
+# Wstęp
+
+„Z pewnością nic nas bardziej nie razi niż ta nauk napisał inne przekłady wyraźnie to zaznaczono.
+
+# R I
+
+Rw
+
+Pojęcie „grzech pierworodny" pojawia się w Kościele łacińskim w okresie działalności Augus
+
+ń
+
+**KERYGMAT APOSTOLSKI DZISIAJ**
+
+Ks. Robert Pisula
+
+Kerygmat apostolski dzisiaj. Biblijno-teologiczna synteza dla nowej ewangelizacji
+
+Norbertinum
+
+Lublin 2005
+
+© Copyright by Norbertinum, 2005
+
+Na s. 1 okładki reprodukcja ikony
+
+Austin Kachek _Saints Peter and Paul_ (Elizabeth, New Jersey, USA)
+
+Na s. 4 okładki
+
+Welon na pulpit Słowa Bożego według projektu Kiko Argüello
+
+Opracowanie redakcyjne
+
+_Anna Dobak_
+
+Projekt okładki
+
+_Agnieszka Smreczyńska-Gąbka_
+
+_Przemysław Gąbka_
+
+Skład, łamanie, formatowanie _Piotr Sykuła_
+
+ISBN 83-7222-217-7
+
+czterysta siedemnasty tytuł Norbertinum
+
+„Norbertinum" spółka z o.o.
+
+Wydawnictwo-Drukarnia-Księgarnia
+
+ul. Długa 5, 20-346 Lublin
+
+tel. (0-81) 744-11-58, fax (0-81) 744-11-48
+
+e-mail: [norbertinum@norbertinum.com.pl](mailto:norbertinum@norbertinum.com.pl)
+
+[http://www.norbertinum.com.pl](http://www.norbertinum.com.pl/)
+
+_Dla tych, którzy głosili mi Dobrą Nowinę_
+
+\[7\]
+
+# Czego brakuje nowej ewangelizacji?
+
+Mówi się dzisiaj w Kościele dużo o ewangelizacji, która powinna być _nowa_ w _metodzie,_ w _środkach_ i w _zapale,_ przy czym milcząco zakłada się, że jej _treść_ jest oczywista i powszechnie znana. Ośmielam się jednak podawać to przekonanie w poważną wątpliwość - to, co powinno się przepowiadać _nową_ metodą, _nowymi_ środkami i z _nowym_ zapałem jako _Dobrą Nowinę_ wcale nie jest aż tak ewidentne, także dla ludzi, którzy bardzo mocno identyfikują się z Kościołem. Pozwolę sobie nawet twierdzić, że główny problem z ewangelizacją dzisiaj nie leży ani w niewłaści­wej metodzie, ani w ubogich czy tradycyjnych środkach, ani na­wet w braku zapału, ale właśnie w niewystarczającym zrozumie­niu egzystencjalnego wymiaru Ewangelii, od początku istnienia chrześcijaństwa określanego mianem „kerygmat". Można tu­taj przywołać obraz, którego używa Jezus w przypowieści o siew­cy: „Do każdego, kto słucha słowa o królestwie, a nie rozumie go, przychodzi Zły i porywa to, co zasiane jest w jego sercu. Takiego człowieka oznacza ziarno posiane na drodze" (Mt 13,19). Wiele podejmowanych dzisiaj prób ewangelizacji przypomina bezna­dziejny siew na asfalcie, gdzie Słowo nie ma żadnych szans na wzrost, gdyż pozostaje po prostu niezrozumiałe, to znaczy uzna­ne za nieprzydatne do życia.
+
+Jest bezsporne, że w centrum chrześcijańskiego przesłania stoi zawsze osoba Jezusa: Jego słowa i czyny, znaki i cuda, a zwłasz­cza \[8\] śmierć, zmartwychwstanie i zesłanie Ducha prawdy (por. DV 4). Kościół głosi Chrystusa jako pełnię Objawienia Bożego i je­dynego Zbawiciela świata. Czy jednak ci, do których w Kościele – z racji powołania i urzędu - należy głoszenie _Dobrej Nowiny,_ naprawdę wiedzą i potrafią wyrazić to, co ona oznacza dla kon­kretnego człowieka w jego równie konkretnej życiowej sytuacji? Czy jako odpowiedzialni za ewangelizację wystarczająco zdajemy sobie sprawę z tego, że takie teologiczne pojęcia jak: _objawie­nie, odkupienie, zbawienie, łaska,_ dla ogromnej większości tzw. współczesnych ludzi należą do czysto wirtualnej rzeczywistości, która nie ma nic (albo prawie nic) wspólnego z tym, w jaki spo­sób przeżywają swoją codzienność. I rzecz nie tylko w braku umiejętności przełożenia ewangelicznego orędzia na język pod­stawowych ludzkich doświadczeń. Tu chodzi przede wszystkim o takie najbardziej podstawowe odniesienie Ewangelii do ludz­kiego życia, które uczyni ją _skuteczną_ i będzie w stanie przełamać schizofreniczny podział na nierealny świat religijnych idei (_sa­crum_) i rzeczywisty świat ludzkich problemów (_profanum_)_._ Zasadniczym wyrazem _nowości_ głoszenia Ewangelii w XXI wie­ku musi być wprowadzanie człowieka _w umiejętność przeżywa­nia swojego życia na ziemi jako życia wiecznego,_ a nie tylko jako czasu zasługiwania na ewentualne przyszłe (i lepsze) życie.
+
+W tym studium pytamy zatem o podstawową treść Ewangelii i szukamy odpowiedzi na pytanie, jaka jest owa _Dobra Nowina,_ którą chrześcijanie mają dla świata, oraz co ją wyróżnia spośród wielu innych religijnych propozycji?[^1] Praktyka pokazuje, że czę­sto ludzie Kościoła stają bezradni wobec tych pytań, a proponowane \[9\] odpowiedzi pozostają zasadniczo w sferze intelektualnej abstrakcji, nie dotykają egzystencji człowieka i nieodmiennie kończą się jakimś rodzajem umoralniania, z jego ulubionymi wezwaniami: _musimy, powinniśmy, mamy obowiązek...,_ itp. Nie negując bynajmniej wymiaru zobowiązania zawartego w chrześcijańskim orędziu, należy przyznać tu całkowite pierwszeństwo bezinteresownej łasce Boga, który nigdy nie wymaga od człowieka tego, czego by sam mu uprzednio nie ofiarował[^2]. Ewangeliczną ilustracją tej prawdy może być przypowieść o miłosiernym Samarytaninie (por. Łk 10,25-37), zakończona chwytliwym moralizatorsko wezwaniem: „Idź i ty czyń podobnie!". Przed powierzchownym jej wykorzystaniem broni nas jednak patrystyczna egzegeza, która widzi w tej paraboli streszczenie całej historii zbawienia, gdzie Samarytaninem jest Chrystus, który pochyla się nad zranionym i obrabowanym człowiekiem, powierzając go opiece Kościoła aż do swego powrotu. W tej perspektywie wezwanie moralne sprowadza się do darmowego dawania tego, co się darmo otrzymało, i musi ono być poprzedzone rozpoznaniem siebie jako bezsilnego wobec zła i zdanego całkowicie na miłosierdzie Boga.
+
+Niniejsza książka stanowi jednocześnie rodzaj świadectwa, które narodziło się pod wpływem osobistego przeżycia mocy ke­rygmatu, odkrytego w ramach rzeczywistości kościelnej, określa­nej dzisiaj jako „Droga Neokatechumenalna". Niedawne zatwierdzenie przez Stolicę Apostolską statutu Drogi[^3] przynagli­ło mnie do podzielenia się własnym doświadczeniem, które po­twierdza, \[10\] że oryginalna synteza teologiczna wypracowana na Drodze, wraz z jej charakterystycznym językiem, zdają się prze­mawiać i docierać do wielu ludzi, niezależne od ich wieku, wy­kształcenia czy pozycji społecznej. Moją intencją nie było jednak propagowanie czy popularyzacja tego _itinerarium_ formacji kato­lickiej, które działa w sposób sobie właściwy; praca ta nie jest także jakimś kompendium katechetycznym Drogi, która ma swo­je oficjalne dokumenty, uznane przez kompetentny autorytet Kościoła. Wszystko, co znajduje się w tej książce, stanowi zapis ustnej tradycji, katechez, konferencji oraz owoc własnej medyta­cji Słowa Bożego; myśli zapożyczone z innych opracowań sta­ram się rzetelnie dokumentować w przypisach, zgodnie z wymo­gami krytyki naukowej. Adresatami tej pozycji są wszyscy zain­teresowani dziełem ewangelizacji w jej nieodzownej nowości, a zwłaszcza prezbiterzy oraz świeccy katecheci i katechiści, któ­rym może ona służyć pomocą w głoszeniu _Dobrej Nowiny_ i sta­nowić impuls do osobistej refleksji.
+
+Przy tej okazji składam serdeczne podziękowania mojemu pierwszemu katechiście w Neokatechumenacie, księdzu biskupo­wi Zbigniewowi Kiernikowskiemu, któremu zawdzięczam wiele zawartych tutaj inspiracji.
+
+\[11\]
+
+# Prolog: Struktura apostolskiego kerygmatu
+
+W niniejszym wstępie postaramy się ukazać najbardziej pod­stawowe elementy Dobrej Nowiny głoszonej przez Apostołów. Jako podstawę do naszych poszukiwań wybraliśmy trzy fragmen­ty z Dziejów Apostolskich (Pismo św. cytuję według _Biblii Tysiąclecia_, wyd. 4, Poznań 1991), które zawierają kerygmat pierwot­nego Kościoła. Są to syntezy przepowiadania św. Piotra: Dz 2,14-36; 3,12-26, oraz św. Pawła: Dz 13,16-39. Przeanalizujemy naj­pierw powyższe teksty od strony ich podstawowej struktury, co pozwoli odsłonić układ i dynamikę tego studium.
+
+Pierwsze wystąpienie Piotra (por. Dz 2,14-36) ma miejsce w dzień Pięćdziesiątnicy, kiedy Apostołowie opuszczają Wieczer­nik, gdzie ukrywali się powodowani lękiem. Jego drugie przemó­wienie (por. Dz 3,12-26) zostało wygłoszone w kontekście uzdro­wienia chromego w Świątyni. Oba fragmenty kerygmatu Piotrowego mają taką samą strukturę wewnętrzną, którą można zaniknąć w czterech punktach:
+
+1. Ogłoszenie _kairos_ historii zbawienia, w którym realizują się Boże obietnice, przekazane przez proroków:
+
+– „spełnia się przepowiednia proroka Joela" (Dz 2,16);
+
+– „A Bóg w ten sposób spełnił to, co zapowiedział przez usta wszystkich proroków, że Jego Mesjasz będzie cierpiał" (Dz 3,18); „Powiedział przecież Mojżesz: _Proroka jak ja wzbudzi_ \[12\] _wam Pan, Bóg nasz, spośród braci waszych. Słuchajcie Go we wszystkim, co wam powie. A każdy, kto nie posłucha tego Proroka, zostanie usunięty z ludu._ Zapowiadali te dni także pozostali prorocy, którzy przemawiali od czasów Samuela i jego następców" (Dz 3,22-24).
+
+2\. Postawienie słuchaczy wobec prawdy o sprawiedliwości ukrzyżowanego Chrystusa, która demaskuje ich jako grzeszni­ków:
+
+– „Męża, który z woli, postanowienia i przewidzenia Bożego został wydany, przybiliście rękami bezbożnych do krzyża i zabiliście" (Dz 2,23);
+
+– „Zaparliście się Świętego i Sprawiedliwego, a wyprosiliście ułaskawienie dla zabójcy. Zabiliście Dawcę życia" (Dz 3,14- 15).
+
+3\. Proklamacja zmartwychwstania Chrystusa jako odpowiedzi Boga na grzech człowieka:
+
+– „Lecz Bóg wskrzesił Go, zerwawszy więzy śmierci, gdyż nie­możliwe było, aby ona panowała nad Nim" (Dz 2,24); „Tego właśnie Jezusa wskrzesił Bóg, a my wszyscy jesteśmy tego świadkami" (Dz 2,32); „Niech więc cały dom Izraela wie z niewzruszoną pewnością, że tego Jezusa, którego wyście ukrzyżowali, uczynił Bóg i Panem, i Mesjaszem" (Dz 2,36);
+
+– „ale Bóg wskrzesił Go z martwych, czego my jesteśmy świad­kami" (Dz3,15).
+
+4\. Wezwanie do nawrócenia i chrztu na odpuszczenie grze­chów, związane z darem Ducha Bożego, który przywraca życie i odnawia je:
+
+– „Nawróćcie się – powiedział do nich Piotr – i niech każdy z was ochrzci się w imię Jezusa Chrystusa na odpuszczenie grzechów waszych, a weźmiecie w darze Ducha Świętego" (Dz 2,38);
+
+\[13\]
+
+– „Pokutujcie więc i nawróćcie się, aby grzechy wasze zostały zgładzone" (Dz 3,19); „Dla was w pierwszym rzędzie wskrze­sił Bóg Sługę swego i posłał Go, aby błogosławił każdemu z was w odwracaniu się od grzechów" (Dz 3,26).
+
+Kerygmat, który św. Paweł wygłosił podczas pierwszej wy­prawy misyjnej w Antiochii Pizydyjskiej (por. Dz 13,16-39), ma analogiczną czteropunktową konstrukcję:
+
+1. Streszczenie historii zbawienia, której szczytem i pełnią _(kairos)_ jest osoba Chrystusa:
+
+– „Z jego to potomstwa, stosownie do obietnicy, wyprowadził Bóg Izraelowi Zbawiciela Jezusa" (chodzi o potomstwo Dawida; Dz 13,23).
+
+1. Wykazanie grzechu Izraela na tle niewinności Jezusa:
+
+– „mieszkańcy Jerozolimy i ich zwierzchnicy nie uznali Go, i potępiając Go wypełnili głosy Proroków, odczytywane co szabat. Chociaż nie znaleźli w Nim żadnej winy zasługującej na śmierć, zażądali od Piłata, aby Go stracił" (Dz 13,27-28).
+
+1. Proklamacja zmartwychwstania Chrystusa jako Dobrej Nowiny o wierności Boga wobec własnych obietnic:
+
+– „Ale Bóg wskrzesił Go z martwych, a On ukazywał się przez wiele dni tym, którzy z Nim razem poszli z Galilei do Jerozolimy, a teraz dają świadectwo o Nim przed ludem. My właśnie głosimy wam Dobrą Nowinę o obietnicy danej ojcom: że Bóg spełnił ją wobec nas jako ich dzieci, wskrzesiwszy Jezusa" (Dz 13,30-33).
+
+1. Wezwanie do wiary w odpuszczenie grzechów dzięki zmar­twychwstaniu Chrystusa, wobec których bezsilne okazało się Prawo Mojżesza:
+
+– „Lecz nie uległ skażeniu Ten, którego Bóg wskrzesił. Niech więc będzie wam wiadomo, bracia, że zwiastuje się wam od­puszczenie grzechów przez Niego: każdy, kto uwierzy, jest \[14\] przez Niego usprawiedliwiony ze wszystkich \[grzechów\], z których nie mogliście zostać usprawiedliwieni w Prawie Mojżeszowym" (Dz 13,37-39).
+
+Jak widać z powyższej analizy, we wszystkich trzech tekstach apostolskiego kerygmatu powtarza się podobny schemat:
+
+1. Boży plan zbawienia wypełnia się ostatecznie w Jezusie Chrystusie z rodu Dawida, zgodnie z obietnicą przekazaną przez proroków.
+2. W krzyżu Chrystusa objawia się w pełni Jego świętość, a na jej tle ukazuje się prawda o ludzkim grzechu.
+3. Zmartwychwstanie Chrystusa jest Dobrą Nowiną o tym, że grzechy zostały ludziom odpuszczone.
+4. Wezwanie do wiary, nawrócenia i chrztu, czyli osobistego wejścia człowieka w dzieło odkupienia, dzięki darowi Ducha Świętego.
+
+Struktura pierwotnego kerygmatu
+
+| Św. Piotr: Dz 2,14-36; 3,12-26                                                                                                                                 | Św. Paweł: Dz 13,16-39                                                                                                                   |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
+| 1.<br><br>Ogłoszenie _kairos_ historii zba­wienia, w którym wypełniają się Boże obietnice, zapowie­dziane przez proroków (por. Dz 2,16; 3,22-24).              | Streszczenie historii zbawie­nia, której szczytem i pełnią _(kairos)_ jest osoba Jezusa Chrystusa - Zbawiciela (por. Dz 13,23).          |
+| 2.<br><br>Postawienie słuchaczy wobec prawdy o sprawiedliwości Chrystusa - Jego krzyż de­maskuje ich jako grzeszników (por. Dz2,23; 3,14-15).                  | Wykazanie niewinności Jezusa i na jej tle ukazanie prawdy o grzechu Izraela (por. Dz 13,27-28).                                          |
+| \[15\]                                                                                                                                                         |                                                                                                                                          |
+| 3.<br><br>Proklamacja zmartwychwstania Chrystusa jako odpowiedzi Boga na grzech człowieka (por. Dz 2,24; 2,32; 2,36; 3,15).                                    | Proklamacja zmartwychwsta­nia Chrystusa jako Dobrej No­winy o wierności Boga wobec własnych obietnic (por. Dz 13,30-33).                 |
+| 4.<br><br>Wezwanie do nawrócenia i chrztu na odpuszczenie grze­chów, związane z darem Ducha Bożego, który wskrzesza i od­nawia człowieka (por. Dz 2,38; 3,26). | Wezwanie do wiary w od­puszczenie grzechów dzięki zmartwychwstaniu Chrystusa, wobec których bezsilne było Prawo Mojżesza (Dz 13,37- 39). |
+
+Cztery ukazane tu elementy starożytnego kerygmatu zasadni­czo wyznaczają układ naszej pracy, która będzie polegała na biblijno-teologicznym rozwinięciu i pogłębieniu każdego z tych punktów, sięgając zarówno do ich patrystycznej, jak też do współczesnej interpretacji. Poszczególne punkty powyższego schematu zostaną rozwinięte i zaprezentowane odpowiednio w rozdziałach IV (Obietnica), V (Krzyż), VI (Zmartwychwstanie) i VII (Dar Ducha Świętego). Dla właściwego i pogłębionego zro­zumienia podstawowych elementów Dobrej Nowiny konieczne jest obszerne rozwinięcie punktu pierwszego, który syntetycznie obejmuje dramat człowieka uwikłanego w _tajemnicę nieprawości_ (2 Tes 2,7) oraz przygotowanie do jego wyzwolenia. Trzy pierw­sze rozdziały pracy poświęciliśmy tematom: Boży plan wyrażony w dziele stworzenia (I), zaprzeczające mu doświadczenie zła (II) i jego źródło, czyli grzech pierworodny (III). W celu podkreślenia ich ścisłego związku z liturgią Kościoła tytuł każdego rozdziału został wzięty z fragmentu Prefacji IV Modlitwy Eucharystycznej, \[16\] która zawiera streszczenie apostolskiego kerygmatu: Ojcze, stworzyłeś człowieka (I), a gdy utracił Twoją przyjaźń (II) przez nieposłuszeństwo (III), nie pozostawiłeś go pod władzą śmierci (IV), zesłałeś Syna na śmierć krzyżową (V); zmartwychwstając zwyciężył śmierć i odnowił życie (VI), zesłał od Ciebie, Ojcze, Ducha Świętego (VII).
+
+## Ojcze stworzyłeś człowieka
+
+W pierwszym rzędzie pragniemy spojrzeć na pierwotny plan Boga wobec ludzkości, ukazany przede wszystkim w dwóch opi­sach stworzenia człowieka, które znajdujemy w pierwszych roz­działach Księgi Rodzaju[^4].
+
+### Zdany na Stwórcę
+
+Wszystko było bardzo dobre (Rdz 1,31)
+
+Zatrzymajmy się najpierw na pierwszej i młodszej relacji o stworzeniu, która powstała jako próba teologicznej refleksji \[18\] Izraela nad doświadczeniem Boga w historii narodu. Opis ten jest wkomponowany w siedmiodniowy schemat tygodnia, w którym stworzenie człowieka przypada na dzień szósty i stanowi ukoro­nowanie całego dzieła Bożego (por. Rdz 1,26-31). Możemy obra­zowo powiedzieć, że ten biblijny opis stworzenia ukazuje Boga, który przygotował się na przyjście człowieka podobnie jak matka oczekująca dziecka przygotowuje całą wyprawkę na jego przyję­cie. Według innej interpretacji można na stworzenie świata spoj­rzeć w świetle obyczaju związanego z obrzędem zaślubin w Izra­elu, według którego pan młody przygotowywał dla swojej wybranki specjalną komnatę, gdzie wprowadzał ją po zawarciu związku małżeńskiego. Piękno całego kosmosu jest - w tym sen­sie - znakiem oraz dowodem oblubieńczej miłości Boga do czło­wieka i może być odczytywane jako wezwanie ze strony Stwórcy do zachwytu i rozmiłowania w Sobie stworzenia. Dochodzą tutaj do głosu odpowiednio rys macierzyńskiej i oblubieńczej miłości Boga względem człowieka.
+
+Fakt, że człowiek zajmuje ściśle określone przez Boga miej­sce w dziele stworzenia jest niezwykle doniosły - do istoty człowieczeństwa należy bowiem zgoda na to, że w porządku ustalonym przez Stwórcę każdy ma swoje własne miejsce, wy­znaczone właśnie i tylko dla niego. Tak więc podstawowym zadaniem człowieka, w świetle pierwszego opisu stworzenia, jest uznanie odwiecznego planu, który Bóg realizuje w jednej, konkretnej i niepowtarzalnej ludzkiej historii. Harmonia ko­smosu polega na tym, że każdy element stworzonej natury w pełni akceptuje własne miejsce i nie buntuje się przeciwko \[19\] swojej pozycji[^5]. Wypełnienie Bożego zamysłu, dotyczącego wła­ściwej relacji człowieka do otaczającej go rzeczywistości, dobrze wyraża psalm 131:
+
+Panie, moje serce się nie pyszni
+
+i oczy moje nie są wyniosłe.
+
+Nie gonię za tym, co wielkie,
+
+albo co przerasta moje siły.
+
+Przeciwnie: wprowadziłem ład
+
+i spokój do mojej duszy.
+
+Jak niemowlę u swej matki,
+
+jak niemowlę - tak we mnie jest moja dusza.
+
+Izraelu, złóż w Panu nadzieję
+
+odtąd i aż na wieki!
+
+Jest tu opisana świadomość dziecka czy raczej człowieka doj­rzałego, który świadomie przyjmuje postawę dziecka. Tym, co charakterystyczne dla dziecięctwa, nie jest wcale (wbrew temu, co się potocznie sądzi) niewinność czy łagodność. Każdy, kto miał do czynienia z dziećmi dłużej niż przez kilka godzin, wie doskonale, że nawet najmilsze dziecko potrafi być w pewnych okolicznościach uparte, złośliwe, a nawet okrutne. Nie w bez­grzeszności leży bowiem istota bycia dzieckiem, które (jak każ­dy człowiek) jest dobre i złe, ale w jego szczególnie otwartym i ufnym odniesieniu do rodziców czy opiekunów. Właśnie owo naturalne _zdanie się_ na tego, który daje i chroni życie, stanowi o postawie określanej jako dziecięctwo. Dziecko jest zadowolo­ne ze swojego statusu społecznego, potrzebuje jedynie oparcia w kimś silniejszym i domaga się pewności, że jest ktoś, kto je kocha.
+
+\[20\]
+
+W tym sensie możemy mówić także o _dziecięctwie Bożym_ jako postawie wyrażającej całkowite i ufne przylgnięcie do Boga Stwórcy, który wie najlepiej, czego naprawdę potrzebuje czło­wiek, i daje mu _to, co dobre_ (Mt 7,10; por. Rdz 1,1-25), także wtedy, gdy nie od razu jest to dla niego oczywiste. Z pierwszego opisu stworzenia wynika, że Bóg stworzył zarówno jasność, jak i ciemność, a obie są dla człowieka dobre[^6]. Należy przy tym zwrócić uwagę na świadomą niekonsekwencję, zawartą w tym opisie stworzenia - całe dzieło Boże zostało określone jako _dobre_ albo _bardzo dobre, z_ wyjątkiem dwóch rzeczy: ciemności (zob. 1,4) oraz wód ponad sklepieniem (zob. 1,6-8), które potem stały się źródłem potopu. Są to dwa biblijne symbole opisujące śmierć, która sama w sobie nie jest przecież _dobra_ dla człowieka. Dopiero w Jezusie Chrystusie dokonuje się jej przezwyciężenie i tylko dzięki Niemu także ciemności i woda stają się dla człowieka _do­bre_ (por. Tt 3,4-5). Ten, kto jest dzieckiem Boga, będzie zawsze pytał za Hiobem: „Dobro przyjęliśmy z ręki Boga. Czemu zła przyjąć nie możemy?" (Hi 2,10).
+
+### Stworzony w Chrystusie
+
+Na obraz Boży go stworzył (Rdz 1,27)
+
+Relacja o stworzeniu człowieka w pierwszym opisie zaczyna się następującym zdaniem: „Uczyńmy człowieka na Nasz obraz, podobnego Nam" (Rdz l,26a). Warto najpierw zwrócić uwagę na to, że w odróżnieniu od form używanych do opisu stworzenia wszystkich innych bytów („niechaj się stanie..."), mamy tu \[21\] do czynienia z trybem rozkazującym, i to w liczbie mnogiej. Według powszechnej opinii egzegetów wskazuje ona na tzw. _wewnętrzną deliberację,_ czyli dialog Boga z Sobą samym. Podczas gdy wszystkie inne byty zostały stworzone niejako _poza_ Bogiem, tylko człowiek ma od początku wewnętrzne i konstytuujące go odniesienie do Stwórcy. Boże „uczyńmy" wyraża zatem osobo­we zaangażowanie się Stwórcy w człowieka - jedyną istotę nie­jako _poczętą_ w Bogu i dlatego uzdolnioną do wchodzenia z Nim w relację[^7].
+
+Tę szczególną zdolność, wyróżniającą człowieka pośród in­nych stworzeń, określa się jako _obraz (selem)_ i _podobieństwo (demut)_ Boga. Dla wielu Ojców Kościoła (zwłaszcza greckich) logiczne i realne odróżnienie tych dwóch rzeczywistości w czło­wieku stanowiło fundament, na którym zbudowali dynamiczną wizję antropologii. Pojęcie _obrazu_ Boga w człowieku opisuje obiektywną strukturę natury ludzkiej - to, co stanowi niezmien­ny fundament jej bytu jako bezwarunkowy dar stwórczy, który nie może przestać istnieć. Tak rozumiany _obraz_ Boży w człowie­ku realizuje się w relacji do swego Pierwowzoru, czyli domaga się subiektywnego _podobieństwa_ do Boga. Powstałą w ten spo­sób przestrzeń pomiędzy _obrazem_ a _podobieństwem_ wypełnia ludzka wolność, tożsama ze zdolnością do osobistego potwier­dzenia (lub zaprzeczenia), poprzez akty rozumu i woli człowie­ka, tego kim jest.
+
+Dynamiczna koncepcja stworzonej ludzkiej natury zakłada, że podstawowym powołaniem człowieka jest objawianie w swoim życiu, czynach i wyborach _obrazu_ Boga, ukazującego się jako \[22\] _podobieństwo_ Boże. A zatem, człowiek stworzony na _obraz_ Boga jest wezwany, aby poprzez wolną odpowiedź na ten dar zrealizo­wać w sobie _podobieństwo_ Boże; najprościej mówiąc: człowiek jako _obraz_ Boga, dzięki dobremu użyciu swej wolności, ma być _podobny_ do Niego. Ta pozornie zhellenizowana idea znajduje potwierdzenie w rabinackim judaizmie I wieku, który komentu­jąc Rdz 1,26, twierdzi, że tylko naród wybrany jest prawdziwym _obrazem_ Boga, ponieważ ma Torę. Z tego wyciąga się wniosek o charakterze etycznym: zadaniem narodu jest _podobieństwo_ do Boga, które realizuje się poprzez wierność otrzymanemu Prawu[^8]. Tak więc relacja pomiędzy _obrazem_ i _podobieństwem_ wyraża uniwersalną ideę napięcia pomiędzy darem ze strony Boga i od­powiedzią ze strony człowieka.
+
+Teologiczne oparcie dla powyżej nakreślonej antropologii stanowi prawda o pośrednictwie Chrystusa w dziele stworzenia[^9]. \[23\] W największym skrócie, jest to wizja historii zbawienia opierają­ca się na źródłach biblijnych (por. J 1,1-3; 17,24; Flp 2,6-11; 1 Kor 8,6; Rz 8,29; Kol 1,15-17; Hbr 1,2-3; Ap 3,14), patrystycz­nych (m.in. św. Ignacy z Antiochii, św. Polikarp, św. Ireneusz, Tertulian) i scholastycznych (św. Bonawentura i szkoła francisz­kańska), która sytuuje dzieło stworzenia w bezpośredniej pers­pektywie wcielenia, podkreślając wewnętrzną jedność całej Bożej ekonomii. W takim ujęciu, Jezus Chrystus to „Pierworodny wobec każdego stworzenia" (Kol 1,15b), „Archetyp pierwszego Adama" (św. Ireneusz)[^10], „Przyczyna wzorcowa stworzenia" (Leon XIII)[^11].
+
+### Kochany za darmo
+
+Bóg ulepił człowieka (Rdz 2,7)
+
+W drugim, starszym i bardziej obrazowym opisie stworzenia (por. Rdz 2,4b-25), Jahwe jest ukazany jako garncarz, lepiący człowieka z ziemi i ożywiający go własnym oddechem (por. Iz 64,7; Jr 18,1-12; Ps 119,73). Ten antropomorficzny obraz przeka­zuje fundamentalną prawdę o Bogu - jedynym Źródle życia dla Adama: _Ten, który jest,_ pozwala _być_ drugiemu, daje mu byt, za­pewnia istnienie. Człowiek może żyć tylko i wyłącznie pozosta­jąc w tej darmowej, stwórczej relacji do Boga. Hebrajski termin \[24\] _adama_ oznacza _ziemię, z_ której Bóg modeluje Adama - w pierw­szej części tego opisu stworzenia nie można jeszcze mówić o człowieku jako mężczyźnie czy kobiecie, ale o człowieku – Adamie, ukształtowanym z ziemi, któremu Bóg dał życie, o człowieku _istocie żywej_ (_nefesz hajjah_)[^12].
+
+Życiodajny stosunek Stwórcy do stworzenia widać w obrazie ogrodu Eden, który człowiek-Adam otrzymał jako swoje dzie­dzictwo. W tym obdarowaniu _poznaje_[^13] on Jahwe jako Tego, któ­ry całkowicie niezasłużenie daje mu życie w obfitości i dlatego stanowi jedyny fundament jego egzystencji. Właśnie całkowita darmowość jest tym doświadczeniem, które najpełniej opisuje pierwotny stan szczęścia człowieka oraz jego relację do Boga. Adam, posiadając wszystko jako bezwarunkowy dar, żyje całko­wicie w darmowości wobec Boga, którego zna jako szczodrego Dawcę i łaskawego Dobroczyńcę.
+
+Owo doświadczenie _bycia obdarowanym za darmo_ jako całko­wicie pierwotne wpisuje się tak głęboko w ontyczną strukturę człowieka, że określa go i konstytuuje wewnętrznie wobec Boga jako osobę - stanowi o jego człowieczeństwie, które w ten sposób jest zakorzenione w Stwórcy. Dzięki temu doświadczeniu Adam w głębinach swego bytu słyszy _Słowo,_ które poświadcza mu, że jest kochany przez Stwórcę i chciany przez Niego taki, jaki jest[^14]. Naturalna odpowiedź człowieka na sytuację, w jakiej się znalazł w Edenie, to bezgraniczna ufność wobec swego Stworzyciela \[25\] i zdolność do opierania swego życia na Nim. Właśnie owo całko­wite zaufanie do Jahwe i najgłębsze przeświadczenie o Jego nie­zawodnej troskliwości stanowiły trwały fundament egzystencji człowieka-Adama. Na tym fundamencie, sięgającym samych ko­rzeni jego egzystencji, opierał się jego pierwotny stan szczęścia[^15].
+
+Szczegółowy wgląd w ten stan, określany jako _pierworodny,_ daje nam (już z perspektywy jego odnowienia) Nowy Testament w Kazaniu na Górze (por. Mt 5-7), które jest swego rodzaju iko­ną nowego, odkupionego człowieka-Chrystusa w jego relacji do Boga i bliźniego[^16]. Wystarczy tu przytoczyć fragment o nieza­chwianej pewności opartej na Opatrzności Bożej: „Nie troszcz­cie się zbytnio o swoje życie, o to, co macie jeść i pić, ani o swo­je ciało, czym się macie przyodziać" (Mt 6,25nn). Te słowa od­krywają przed nami plan, który od stworzenia w Edenie Bóg podejmuje wobec ludzkości, aby ostatecznie objawić go i zreali­zować w Jezusie Chrystusie. On właśnie jest _Pierwszym i Ostat­nim_ (Ap 1,17), którego wizerunek zawiera Ewangelia i który ukazuje w sobie tę najbardziej pierwotną relację człowieka do Boga, jaką Stwórca zamierzył _od początku._ Należy podkreślić, że jeżeli mówimy o _przywróceniu_ człowieka do pierwotnej relacji z Bogiem czy też o _powrocie_ człowieka do stanu pierwotnego, \[26\] to nie chodzi nam o powrót do pewnej konkretnej, historycznej sy­tuacji, lecz o realizację Bożego projektu dla ludzkości, który symbolicznie odsłania przed nami drugi opis stworzenia, a jego pełną realizację znajdujemy w Jezusie Chrystusie.
+
+### Powołany do wspólnoty
+
+Nie jest dobrze, żeby był sam (Rdz 2,18)
+
+Kolejną istotną prawdą, odkrywaną przed nami w drugim opi­sie stworzenia człowieka, jest określenie go jako bytu, który ze swej istoty wchodzi w relacje: „Nie jest dobrze, żeby mężczyzna był sam" (Rdz 2,18n). Nie wolno zawężać interpretacji tych słów wyłącznie do idei małżeństwa (nawet jeżeli historycznie taka była intencja redaktora Księgi Rodzaju), lecz należy je rozumieć w szerszej perspektywie - jako uniwersalny opis każdej relacji międzyosobowej. Człowiek-Adam, będąc sam, nie jest bowiem jeszcze dopełniony - obrazowo ukazuje tę prawdę biblijny opis nadawania przez niego imion każdej istocie żywej, ale wśród nich nie znajduje on jednak pomocy dla siebie (por. Rdz 2,19-20). Chodzi tutaj o taką _pomoc_, która pozwoli mu być nie tylko czło­wiekiem-Adamem, ale dzięki której i z którą mógłby stać się ob­razem Boga, to znaczy nie być tylko dla siebie, lecz być sobą w relacji do drugiego i z drugim[^17]. Czyni to możliwym dopiero kolejna interwencja stwórcza Boga, który z boku człowieka-Adama zbudował _drugi bok, drugą stronę,_ to znaczy istotę tej \[27\] samej natury i jemu odpowiadającą, choć różną od niego. Wyraża to okrzyk Adama: „Ta dopiero jest kością z moich kości i ciałem z mego ciała! Ta będzie się zwała niewiastą, bo ta z mężczyzny została wzięta" (niewiasta – _iszsza,_ mężczyzna – _isz_; Rdz 2,23).
+
+Dopiero po stworzeniu Ewy Adam zostaje dopełniony i uzdol­niony do tego, by się stać obrazem i podobieństwem Boga, to znaczy _odzwierciedlać_ w rzeczywistości stworzonej wewnętrzne życie Trójcy. Jego istotę stanowi relacja miłości, czyli dynamika _dawania_ Siebie i _przyjmowania_ Siebie w sposób całkowicie bez­warunkowy, jaka istnieje pomiędzy Osobami Boskimi. Hipostaza w Trójcy istnieje na sposób daru z Siebie dla Drugiego, to znaczy dla tego, który jest Inny, Różny. Dając Siebie, każda Osoba rów­nocześnie odnajduje Siebie w Drugim i tak właśnie jest Sobą. W ten sposób każda z Osób _posiada_ Siebie nie inaczej, jak tylko _dając_ Siebie. Skutkiem _dawania_ Siebie Drugiemu i _przyjmowa­nia_ Siebie od Drugiego jest całkowita jedność z Nim. Tak więc, jedność Trójcy jest owocem zupełnego i wzajemnego Daru z Sie­bie ze strony Trzech Osób, działających według wspólnej Im na­tury, którą jest miłość.
+
+Boży plan zakłada _odtwarzanie_ w relacjach międzyludzkich dynamiki miłości trynitarnej, a zatem obdarowanie człowieka-Adama umiejętnością kochania, to znaczy posiadania siebie w dawaniu siebie drugiemu, aby być z nim w jedności. Jest to podstawowe powołanie każdego człowieka, wpisane od początku w jego stworzoną naturę i stanowiące ostateczny warunek jego spełnienia się, które potocznie nazywamy szczęściem. Oznacza to, że każdy człowiek może być szczęśliwy tylko wtedy, gdy wy­chodzi z siebie ku drugiemu, który jest różny od niego, i _dopełnia się_ w jedności z nim. Ludzkie _ja_ realizuje się i odnajduje siebie, kiedy staje się _ty_ w drugim i pozostaje z nim we wspólnocie. Należy więc przyjąć, że ludzkość stanowi stworzoną manifesta­cję \[28\] trynitarnego życia Boga, który jest Jednością w wielości, Wspólnotą w różnorodności i Miłością, wychodzącą poza siebie, aby udzielać się innemu, różnemu i wchodzić z nim w jedność.
+
+Na ten ostateczny wymiar powołania i spełnienia się człowie­ka w miłości i jedności z drugim, wskazuje wyraźnie Chrys­tus: „Jak Mnie umiłował Ojciec, tak i Ja was umiłowałem. \[...\] abyście się wzajemnie miłowali" (J 15,9.12). Podobnie w swo­jej modlitwie arcykapłańskiej, która ogarnia całą ekonomię Bożą: „\[...\] aby wszyscy stanowili jedno, jak Ty, Ojcze, we Mnie, a Ja w Tobie, \[...\], aby stanowili jedno, tak jak My jedno stanowimy" (J 17,21.22). Sobór Watykański II, odwołując się do tego ostatniego tekstu, mówi wyraźnie o „pewnym podo­bieństwie między jednością Osób boskich i jednością synów Bożych zespolonych w prawdzie i miłości". Właśnie to podo­bieństwo ukazuje - według Soboru - tę podstawową prawdę, że człowiek „nie może odnaleźć się w pełni inaczej, jak tylko po­przez bezinteresowny dar z siebie samego" (KDK 24). „Człowiek bowiem z głębi swej natury jest istotą społeczną, toteż bez stosunków z innymi ludźmi nie może ani żyć, ani roz­wijać swoich uzdolnień" (KDK 14).
+
+### Zdolny do miłości
+
+Dlatego opuszcza i łączy się (Rdz 2,24)
+
+Opisany powyżej sposób istnienia człowieka w miłości, czy­li posiadanie siebie w bezinteresownym dawaniu siebie, ma za­wsze dwa bieguny: z jednej strony (jako punkt wyjścia) wiąże się on z _traceniem_ siebie dla innego, z drugiej strony (jako punkt dojścia) jest _zjednoczeniem_ z innym. Aby osobowe _ja_ sta­ło się _ty_ w drugim i odnalazło siebie w jedności z drugim \[29\] (aby istniało w nim i dla niego), _ja_ musi umrzeć dla siebie, musi _zo­stawić_ siebie dla drugiego. W tym świetle możemy rozumieć słowa, które podsumowują drugi opis stworzenia człowieka: „Dlatego to mężczyzna opuszcza ojca swego i matkę swoją i łączy się ze swą żoną tak ściśle, że stają się jednym ciałem" (Rdz 2,24).
+
+Dynamikę _wychodzenia z siebie_ ku drugiemu, ukazaną w dru­gim opisie stworzenia człowieka, możemy określić, używając języka biblijnego, jako _paschę._ To nieprzypadkowe skojarzenie, ponieważ owa zdolność do _opuszczania_ siebie, aby _jednoczyć się_ z drugim (według Bożego zamysłu stanowi to pierwotne _wyposa­żenie_ człowieka), objawia swoją pełnię w tajemnicy paschalnej Chrystusa: „Jeżeli ziarno pszenicy wpadłszy w ziemię nie ob­umrze, zostanie tylko samo, ale jeżeli obumrze, przynosi plon obfity. Ten, kto kocha swoje życie, traci je, a kto nienawidzi swe­go życia na tym świecie, zachowa je na życie wieczne" (J 12,24-25; por. Mt 16,25; Łk 17,33)[^18]. Taki sposób posiadania życia w całkowicie darmowym traceniu go dla drugiego, ukazany przez Chrystusa, stanowi objawienie trynitarnej miłości Boga i jedno­cześnie urzeczywistnienie Bożego planu wobec rodzaju ludzkiego \[30\] Każdy człowiek stworzony na obraz Chrystusa, swego _arche­typu,_ w Nim odnajduje ostateczne powołanie do bycia _bezintere­sownym darem z samego siebie_, przez co realizuje się w pełni jako człowiek.
+
+Powyższą prawdę o człowieku i jego powołaniu w sposób bezpośredni wyraża Chrystus w _największym przykazaniu,_ na którym „opiera się całe Prawo i Prorocy" (Mt 22,40; por. J 13,34), stanowiącym pełny zamysł Boży wobec ludzkości. Przykazanie miłości zatem to nie norma moralna, dodatkowo _zadana_ człowiekowi jako owoc dzieła Odkupienia, lecz stanowi ono wyraz najbardziej pierwotnego porządku i określa relacjonalną strukturę bytu człowieka, którą ten otrzymał w akcie stworzenia: „Umiłowani, nie piszę do was o nowym przykaza­niu, ale o przykazaniu istniejącym od dawna, które mieliście od samego początku" (1 J 2,7). Z tego wynika, że miłość, jako bez­interesowny dar z samego siebie, jest tym fundamentalnym _Prawem,_ które każdy bez wyjątku człowiek nosi w głębi swego jestestwa.
+
+O tym Prawie Apostoł mówi, że jest wypisane w sercu czło­wieka (por. Rz 2,15). To życiodajne Prawo miłości każdy czło­wiek odkrywa w sobie, ono kieruje jego myśleniem i działaniem, także wtedy, gdy nie jest świadomy jego istnienia i nie potrafi go wypowiedzieć: „W głębi sumienia człowiek odkrywa prawo, którego sam sobie nie nakłada, lecz któremu winien być posłusz­ny i którego głos wzywający go zawsze tam, gdzie potrzeba, do miłowania i czynienia dobra a unikania zła, rozbrzmiewa w ser­cu nakazem: czyń to, tamtego unikaj. Człowiek bowiem ma w swym sercu wypisane przez Boga prawo, wobec którego posłu­szeństwo stanowi o jego godności i według którego będzie są­dzony" (KDK 16).
+
+\[31\]
+
+### Wolny od lęku
+
+Byli nadzy, nie odczuwali wstydu (Rdz 2,25)
+
+Na koniec tego rozdziału zatrzymajmy się jeszcze przez chwi­lę nad ostatnim zdaniem drugiego opisu stworzenia człowieka: „Chociaż mężczyzna i jego żona byli nadzy, nie odczuwali wobec siebie wstydu" (Rdz 2,25), aby rozważyć, co oznaczają te słowa dla rozumienia człowieka jako stworzonego na obraz i podobień­stwo Boga. Także w tym przypadku pojęcia nagości i wstydu nie należy zacieśniać do wymiaru wizualno-cielesnego w relacji mężczyzna-kobieta, ale traktować jako uniwersalne kategorie ludzkiej egzystencji. Przede wszystkim trzeba zauważyć, że uka­zane w tych słowach bycie nagim i wolność od wstydu nie odno­szą się tylko do wzajemnej relacji tych dwojga, ale dotyczą przede wszystkim ich stosunku do Boga. Wynika to z oczywiste­go dla nich faktu, że drugi nosi w sobie Boży obraz i dlatego jest niejako przedstawicielem Stwórcy - tym, który Go reprezentuje. To wobec Boga przede wszystkim _isz_ oraz _iszsza_ pozostają nadzy i początkowo nie odczuwają wstydu.
+
+Nagość człowieka, zawsze wyrażająca stan pewnego braku, nie jest tu jednak przedstawiona jako coś negatywnego, lecz ma dla człowieka istotną wartość. Co mianowicie nadaje pozytywny sens doświadczeniu nagości? W szerokim kontekście biblijnym może­my stwierdzić, że wyraża ono zaakceptowanie przez człowieka własnej ograniczoności i skończoności, czyli jego „stworzoności" przed Bogiem, oraz przeświadczenie o własnej nicości bez Niego i poza Nim. Od strony pozytywnej, nagość oznacza świadomość pełnego istnienia tylko dzięki Stwórcy i w jedności z Nim[^19]. \[32\] W tym rozumieniu pierwotny brak poczucia wstydu opisuje do­świadczenie całkowitej darmowości w relacji do Boga i drugiego człowieka, jak też głęboką świadomość podstawowej prawdy, że nie należy mu się nic z tego, co posiada, lecz wszystko jest dla niego bezinteresownym darem.
+
+Z doświadczenia bycia obdarowanym wyrasta i towarzyszy mu niezachwiane poczucie bezpieczeństwa, tak w stosunku do Boga, jak i do drugiego człowieka[^20]. Z pierwotnym brakiem wstydu wiąże się zatem także brak doświadczenia strachu, który pojawia się zawsze wtedy, gdy występuje perspektywa utraty czegoś. Tymczasem w swym naturalnym stanie człowiek nie musi się bać, że utraci cokolwiek, skoro wszystko hojnie otrzy­muje od Boga[^21]. Konsekwencja tej dziewiczej nagości to zdol­ność człowieka do stawania - i przed Stwórcą i przed bliźnim - _nieodzianym_ we własne zasługi i całkowicie bezbronnym, \[33\] nie musiał bowiem bronić siebie, aby w ten sposób uzasadniać swoje prawo do istnienia i zdobywać poczucie własnej wartości, ponie­waż wszystko to było mu ofiarowane za darmo. Księga Rodzaju w opisie _bezwstydu_ wobec nagości przedstawia zatem przyro­dzony stan _obnażenia_ człowieka z własnej chwały, to znaczy z czegokolwiek, co pochodziłoby tylko od niego i było powo­dem do _chlubienia się._ Pierwsi ludzie - używając określenia św. Pawła - _ogołoceni_ z własnej chwały _byli przyodziani chwalą Boga_ (Rz 3,23).
+
+Także ta biblijna wizja człowieka, która dochodzi do głosu w słowach o jego nagości i braku wstydu, znajduje swoje ostateczne wypełnienie w osobie Jezusa Chrystusa. To On dobrowolnie _ogo­łocił samego siebie z_ wszelkiej chwały (Flp 2,7a), „jak ktoś, przed kim się twarze zakrywa" (Iz 53,3). Czynił to jednak z pełną ufnością, czekając na przyobleczenie Go chwałą przez Ojca (por. J 8) i ostatecznie nie zostaje zawstydzony (por. Iz 28,16). W ten sposób, po raz kolejny, w Chrystusie objawia się nam doskona­łość Bożego planu wobec każdego człowieka.
+
+Można powiedzieć, że w sformułowaniu: _byli nadzy, nie od­czuwali wstydu,_ biblijny opis stworzenia człowieka osiąga swój punkt kulminacyjny, słowa te bowiem ukazują ostateczne konse­kwencje, wynikające z prawdy o stworzeniu człowieka na obraz i podobieństwo Boga, oraz stanowią streszczenie całej antropolo­gii biblijnej[^22]. Wypowiedzmy ją raz jeszcze w syntetycznym skrócie jako podsumowanie pierwszego rozdziału.
+
+Człowiek został stworzony przez Trójjedynego Boga na obraz Jezusa Chrystusa i jest ze swej natury powołany, aby się stać bez­interesownym darem z siebie dla drugiego (a przez niego w nim \[34\] także dla samego Boga) i w relacji z nim być odbiciem miłości trynitarnej. Człowiek ma taką zdolność dzięki doświadczeniu bezwarunkowej miłości ze strony Stwórcy, które konstytuuje go ontycznie i stanowi dla niego niewyczerpane źródło egzystencji oraz trwały fundament, na którym może oprzeć swoje życie. Podstawowe doświadczenie darmowości w poznaniu Boga kształtuje relację całkowitego zaufania człowieka do Boga, wyra­żającą się w wolności od strachu przed traceniem samego siebie dla drugiego.
+
+Taka i tak wielka godność została złożona w ręce człowieka jako dar, który ze swej istoty domaga się od niego potwierdzenia i akceptacji, a zatem jest narażony na odmowę i odrzucenie. Człowiek wobec swego Stwórcy ostatecznie pozostaje prawdzi­wie wolny i wolność ta „to szczególny znak obrazu Bożego w człowieku" (KDK 17). Jest to jedyne w swoim rodzaju spotka­nie daru i wezwania, godności i wolności, właściwe każdemu człowiekowi, można zatem powiedzieć, że jego bycie na obraz i podobieństwo Boże jest mu równocześnie _dane_ i _zadane_: „Bóg bowiem zechciał człowieka pozostawić w ręku rady jego (por. Syr 17,7-8), żeby Stworzyciela swego szukał z własnej ochoty i Jego się trzymając, dobrowolnie dochodził do pełnej i błogosła­wionej doskonałości" (KDK 17). Tak oto otwiera się przed nami tragiczna możliwość złego użycia wolności, stajemy też wobec rzeczywistości zła i grzechu, które rozważymy w kolejnych czę­ściach pracy.
+
+\[35\]
+
+## A gdy utracił Twoją przyjaźń
+
+Zarysowana tu biblijna antropologia, ukazująca Boży projekt wobec rodzaju ludzkiego, zderza się dotkliwie z konkretnym i co­dziennym doświadczeniem każdego człowieka, ono bowiem jest boleśnie naznaczone przez rzeczywistość, którą Nowy Testament nazywa _tajemnicą nieprawości_ (2Tes 2,7). Wybraliśmy niektóre biblijne obrazy, aby pomogły nam przeanalizować owo tragiczne doświadczenie i wyrazić je za pomocą kilku egzystencjalnych kategorii.
+
+### Zagrożenie przez innego
+
+Czyż jestem stróżem brata mego? (Rdz 4,9)
+
+Najpierw pochylimy się nad historią Kaina i Abla (por. Rdz 4,1-16). Sytuacja tam opisana stanowi radykalne przeciwieństwo i całkowite zaprzeczenie Bożego zamysłu wobec człowieka, który rozważaliśmy dotąd. Pierwszy zasadniczy element tej zmienionej rzeczywistości to brak doświadczenia darmowości w relacji do Stwórcy, czego wyrazem jest pojawienie się po raz pierwszy ob­rzędu ofiary (por. Rdz 4,3-5). Ryt ten należy do podstawowej i uniwersalnej struktury religijności, charakterystycznej po grze­chu pierworodnym dla ludzi w każdym czasie i we wszystkich \[36\] kulturach[^23]. Religijność ta wyraża się w dążeniu człowieka do podporządkowania sobie tego, co rozpoznaje jako wyższe, tajem­nicze czy niebezpieczne dla siebie - w tym celu używa najrozma­itszych środków, takich, jak: zaklęcia, amulety, modlitwy, gesty, obrzędy. Najważniejszym z nich jest jednak ofiara, rozumiana jako złożenie określonego daru po to, aby wpłynąć na boga, bó­stwo, siłę wyższą i zapewnić sobie tym samym poczucie bezpie­czeństwa wobec domniemanego zagrożenia. Środki, którymi posługuje się naturalna religijność, zmieniają się zależnie od kultury oraz stopnia jej rozwoju (może ona być nawet bardzo wyrafinowana intelektualnie i pogłębiona duchowo), ale jej me­chanizm a także wewnętrzna logika pozostają bez zmian. Inicjatywa należy tutaj zawsze do człowieka, który stara się na­kłonić Boga (bożka), aby wypełniał jego wolę, posłużyć się nim dla swoich celów, także tych dobrych i szlachetnych (np. zdro­wie, pieniądze, sukces)[^24].
+
+Taka postawa była całkowicie obca pierwotnemu zamysłowi Boga, według którego człowiek miał żyć w doświadczeniu bez­warunkowej miłości, stanowiącej dla niego całkowite oparcie. Bez tego doświadczenia można polegać tylko na sobie i na włas­nych \[37\] siłach, wykorzystywanych po to, aby zapewnić sobie kon­trolę nad swoim życiem, właśnie poprzez składanie różnych ofiar. Bóg w historii zbawienia powoli zmieniał tę ofiarniczą mental­ność[^25], przygotowując ludzkość na przyjście swojego Syna, który przywróci pierwotną relację człowieka do Boga: „Niemożliwe jest bowiem, aby krew cielców i kozłów usuwała grzechy. Przeto przychodząc na świat, mówi: _Ofiary ani daru nie chciałeś, aleś Mi utworzył ciało; całopalenia i ofiary za grzech nie podobały się Tobie. Wtedy rzekłem: Oto idę – w zwoju księgi napisano o Mnie - abym spełniał wolę Twoją, Boże"_ (Hbr 10,4-7).
+
+W tej nowej sytuacji, naznaczonej brakiem doświadczenia dar­mowej miłości Boga jako jedynego oparcia istnienia, drugi czło­wiek w sposób nieunikniony jawi się jako zagrożenie. Nie znajdu­jąc fundamentu dla swej egzystencji w Stwórcy, czuje się zmuszo­ny zwracać się do stworzenia, aby w nim szukać źródła swojego życia, co oznacza nieuniknioną konieczność wykorzystywania drugiego dla siebie. Człowiek nie znający już Boga jako Ojca, któ­ry bez żadnych warunków daje mu życie i przyjmuje go takim, jaki jest, w konsekwencji nie może też kochać, to znaczy dawać swego życia drugiemu bez żadnych warunków. Odkąd drugi prezentuje się jako konkurent, pojawia się wewnętrzny przymus obrony sie­bie \[38\] i zachowywania siebie dla siebie. Tak rodzi się zazdrość, w sposób konieczny popychająca do rywalizacji, walki o pierwszeństwo za każdą cenę, aż do zabójstwa brata (por. 4,4-7).
+
+I tak odsłania się przed nami stała oraz powszechna, charakterystyczna dla człowieka po upadku _mentalność Kaina,_ który pragnie realizować siebie w odłączeniu od drugiego, w konkurencji z drugim, w odróżnieniu od drugiego. Jest to w pełnym tego słowa znaczeniu mentalność zabójcy, gotowego odłączyć od wspólnoty ze sobą każdego, kto nie odpowiada jego projektowi na życie[^26]. Tak oto dokonało się całkowite odwrócenie pierwotnego zamysłu Boga - drugi człowiek, pomyślany i dany jako _pomoc_ w spełnianiu się jako obraz i podobieństwo Stwórcy, teraz jest uznawany za przeszkodę w samorealizacji, w osiągnięciu życia i jego zachowaniu, według własnych koncepcji. Do zbrodni bratobójstwa dochodzi bowiem na _polu_ (Rdz 4,8), to znaczy poza Edenem, czyli poza stwórczym porządkiem ustanowionym przez Boga, a zatem w miejscu, skąd pochodził wąż (por. Rdz 3,1). Właśnie tę tragiczną świadomość Kaina, że jego brat jest dla niego bezwartościowy, niepotrzebny, nieużyteczny, wyraża jego odpowiedź na pytanie Boga o zabitego Abla: „Czyż jestem stróżem brata mego?" (Rdz 4,9).
+
+### Przymus porównywania
+
+Niech Kanaan będzie sługą Sema! (Rdz 9,26)
+
+Powiedzieliśmy poprzednio, że ze względu na relacjonalną strukturę swego bytu człowiek nie może żyć bez odniesienia do \[39\] drugiego człowieka - jest niejako _skazany_ na innego. Po zburzeniu stwórczego porządku człowiek żyje zatem w stanie wewnętrznego rozdwojenia, swoistej schizofrenii: z jednej strony bliźni jawi mu się jako konkurent i przeszkoda na drodze do życia w obfitości, natomiast z drugiej bezwzględnie go do tego życia potrzebuje. Jedynym kompromisowym wyjściem z tej sytuacji jest używanie drugiego dla siebie, skoro bowiem nie można pominąć obecności innego człowieka w swoim życiu, należy się nim posłużyć i wykorzystać go dla siebie lub - inaczej mówiąc - złożyć go sobie na ofiarę[^27]. Dokonuje się to, w sposób najbardziej powszechny, poprzez różnoraki proces _porównywania_ siebie z innymi, który staje się ostatecznym kryterium tzw. udanego życia. Według tej logiki, człowiek czerpie niezbędne przekonanie o własnej dobroci już nie z ufnej i dziecięcej relacji do kochającego Boga, ale z faktu, że w konfrontacji z innymi wypada _lepiej,_ ma _więcej,_ jest _bardziej_ itd. Tę mentalność demaskuje Apostoł: „Niech każdy bada własne postępowanie, a wtedy powód do chluby znajdzie tylko w sobie samym, a nie w zestawieniu siebie z drugim" (Ga 6,4).
+
+\[40\]
+
+Jednym z podstawowych dynamizmów, który kieruje ludźmi zarażonymi tą mentalnością jest wysiłek zdobycia i obrony jakiegoś rodzaju prymatu oraz wyższości względem drugiego, przy czym nie chodzi tu tylko o _pierwsze miejsca_ w życiu społecznym i ekonomicznym, ale także (albo przede wszystkim) o te małe i codzienne, jak pierwszeństwo w porannej toalecie, w rodzinnej kłótni czy na liście zaproszonych gości. Tu mają swoje zatrute źródło: wszelka pogoń za sukcesem, _wyścigi szczurów,_ każda idolatria i zniewolenie, które są próbami zabezpieczenia sobie życia na własną rękę, w oderwaniu od Stwórcy. W tej perspektywie przyzwolenie na bycie _ostatnim_ wydaje się aktem samobójczym, gdyż podcina same korzenie istnienia i jest nie do przyjęcia. Ten aspekt ludzkiej kondycji po upadku mogą symbolicznie opisać słowa pierwszego ojcowskiego przekleństwa, które rzucił Noe z powodu wykroczenia swego syna Chama: „Niech Kanaan będzie sługą Sema!" (Rdz 9,26). Zauważmy po raz kolejny, jak karykaturalnie zostaje wykrzywiony zamiar Boga: człowiek realizuje się poprzez relację do drugiego, różnego od siebie, ale nie jest to już relacja miłości, czyli tracenia siebie dla drugiego, lecz jej przeciwieństwo, czyli budowanie siebie kosztem drugiego przez wykorzystanie jego słabości. Składając drugiego w ofierze samemu sobie, człowiek zawłaszcza pozycję należną Bogu, uzurpując sobie Jego miejsce.
+
+Właśnie w kontekście składania ofiary, opisaną powyżej egzystencjalną sytuację człowieka, który żyje według logiki i mentalności Kaina-zabójcy, bardzo dobitnie wyrażają słowa Jezusa zawarte w Mt 5,21-25: „Słyszeliście, że powiedziano przodkom: _Nie zabijaj!;_ a kto by się dopuścił zabójstwa, podlega sądowi. A Ja wam powiadam: Każdy, kto się gniewa na swego brata, podlega sądowi. A kto by rzekł swemu bratu: _Raka,_ podlega Wysokie Radzie. A kto by mu rzekł: «Bezbożniku», podlega karze piekła \[41\] ognistego. Jeśli więc przyniesiesz dar swój przed ołtarz i tam wspomnisz, że brat twój ma coś przeciw tobie, zostaw tam dar swój przez ołtarzem, a najpierw idź i pojednaj się z bratem swoim! Potem przyjdź i dar swój ofiaruj!" Słowa te w sposób radykalny ukazują prawdę o tym, jak życiodajna jest dla człowieka relacja miłości do bliźniego i jak zabójczy - jej brak[^28]. Jednocześnie odsłania się tutaj działanie mechanizmu obronnego, który ma na celu ominięcie tej fundamentalnej relacji miłości za pomocą nieprawdziwych ofiar, jeśli bowiem człowiek nie ma mocy składać siebie w ofierze, wtedy składa inne dary, są to jednak ofiary zastępcze - wyraz owej niemocy człowieka, który nie potrafi ofiarować Bogu samego siebie. Łatwiej chwycić barana za rogi i doprowadzić go do ołtarza, niż dać się pochwycić Bogu i zgodzić się na prowadzenie tam, dokąd chce Bóg i jak On chce, to znaczy do miłości i przebaczenia bratu[^29].
+
+\[42\]
+
+Niezdolność człowieka do akceptacji _ostatniego miejsca_ Nowy Testament demaskuje wielokrotnie; wystarczy wspomnieć choćby apostolskie spory o pierwszeństwo (por. Mt 20,20-27; 22,24-26), w których kontekście Jezus wspomina o właściwej, zgodnej z Bożym zamysłem postawie człowieka: „Jeśli kto chce być pierwszym, niech będzie ostatnim ze wszystkich i sługą wszystkich!" (Mk 9,35). Logika Ewangelii jest bowiem zupełnie odwrotna: „Ci ostatni jedną godzinę pracowali, a zrównałeś ich z nami, którzyśmy znosili ciężar dnia i spiekoty \[...\]. Tak ostatni będą pierwszymi, a pierwsi ostatnimi" (Mt 20,12.16) - „\[...\] gdy będziesz zaproszony, idź i usiądź na ostatnim miejscu" (Łk 14,10; por. 1 Kor 4,9). To, co świat uważa za defekt (być ostatnim i słabym), ostatecznie okazuje się pierwszeństwem i siłą: „To bowiem, co jest głupstwem u Boga, przewyższa mądrością ludzi, a co jest słabe u Boga, przewyższa mocą ludzi. \[...\] Bóg wybrał właśnie to, co głupie w oczach świata \[...\] to, co niemocne \[...\]; i to, co nie jest szlachetnie urodzone według świata i wzgardzone, i to, co nie jest, wyróżnił Bóg \[...\]" (1 Kor 1,25.27-28). Ostatnim miejscem, uznanym przez ten świat za największą głupotę, był krzyż Chrystusa, ale właśnie on stał się „mocą Bożą i mądrością Bożą" (1 Kor 1,24)[^30].
+
+\[43\]
+
+### Walka o pierwszeństwo
+
+Jakie masz imię? (Rdz 32,28)
+
+Następnym biblijnym obrazem, wybranym w celu wypowiedzenia doświadczenia zła w ludzkim życiu, jest historia patriarchy Jakuba, opisana w Rdz 25-35. Jakub, syn Izaaka, miał w swoim życiu właściwie tylko jeden wielki problem - był nim jego starszy brat-bliźniak Ezaw, który jako pierworodny miał pierwszeństwo przed Jakubem we wszystkim, co istotne: to jego Izaak bardziej kochał, jemu przysługiwało ojcowskie błogosławieństwo i prawo do dziedziczenia całego majątku. Jakub nie mógł znieść tego, że był zawsze na drugim miejscu, cierpiał bardzo z tego powodu i przez całe swoje życie robił wszystko, aby odwrócić tę sytuację, to znaczy wyprzedzić brata i być wreszcie pierwszym[^31]. Tak właśnie postępował Jakub z Ezawem: wykorzystał jego zmęczenie, aby za miskę soczewicy wyłudzić od brata pierworództwo (por. Rdz 25,29-34) i podstępnie - wykorzystując ślepotę ojca Izaaka - wykradł od niego błogosławieństwo przysługujące starszemu bratu (por. Rdz 27,1-45).
+
+Jakub ponosi jednak konsekwencje swojego postępowania: musi uciekać z ziemi Kanaan przed zemstą brata i trafia do swego krewnego Labana, gdzie zostaje wykorzystany - podobnie, jak on niegdyś wykorzystał Ezawa - do niewolniczej pracy dla zdobycia Racheli. Laban nie wywiązuje się jednak ze swojej obietnicy i podstępnie, w ciemności - tak samo, jak wcześniej Jakub oszukał ojca - podsuwa mu swoją drugą córkę i tak zmusza go do kolejnych lat \[44\] ciężkiej pracy. Jakub, zgodnie ze znaczeniem swego imienia, mści się na Labanie i _jakubuje_ go, pomnażając swoje trzody jego kosztem. To jednak jest powodem kolejnych kłopotów: musi wraz ze swoją rodziną i dobytkiem uciekać przed zemstą krewnego do ziemi Kanaan, gdzie czeka na niego znienawidzony brat Ezaw.
+
+Tak dochodzi do kluczowego wydarzenia w historii Jakuba - nad potokiem Jabbok, za którym rozciąga się jego ojczysta zie­mia. W tym właśnie miejscu Jakub dostaje się w potrzask: z tyłu ściga go Laban, z naprzeciwka nadciąga Ezaw. Oto ten człowiek, który całe życie usiłował zdobyć sobie pierwszeństwo swoim sprytem i brawurą, teraz doświadcza całkowitej bezradności: za­wiodła cała jego życiowa strategia i Jakub nie ma w nikim opar­cia - w nikim, poza Bogiem. W całym życiu patriarchy widzimy niewidzialną rękę Boga Abrahama i Izaaka, który tak kierował historią Jakuba, aby wykazać mu całkowitą zawodność jego za­mysłów i bezsilność wobec własnego życia. To Bóg zapędził Jakuba w tę pułapkę i przyparł go do muru, nie za karę, ale z mi­łości, i wybrał go na ojca przyszłego narodu, w którym miała się realizować historia zbawienia.
+
+W tej pozornie beznadziejnej sytuacji, w rozpaczy i niemocy, Jakub zdaje sobie sprawę, że całe jego życie było zbudowane na oszustwie, ponieważ wykradł błogosławieństwo ojcowskie. Wtedy z głębokości swojej udręki krzyczy do Boga: „Nie puszczę cię, dopóki mi nie pobłogosławisz!" (Rdz 32,27). Jakub, który w porządku naturalnym był pozbawiony pierwszeństwa i związanych z nim przywilejów, teraz prosi o nie Boga: błaga o ojcowską miłość, której całe życie pragnął, którą chciał kupić, na która chciał sobie zasłużyć i o którą walczył. W odpowiedzi Bóg - zgodnie z ówczesnym rytem uroczystego błogosławieństwa - zadaj e mu pytanie: „«Jakie masz imię?» On zaś rzekł: «Jakub»" (Rdz 32,28). Po raz pierwszy młodszy syn Izaaka nie kombinuje, lecz \[45\] wyznaje, kim jest naprawdę: „Jestem oszustem i kłamcą, który podkładał nogę swemu bratu, aby zająć jego miejsce". W ten sposób Jakub staje wreszcie w prawdzie o swoim życiu, dlatego otrzymuje od Boga zewnętrzny znak swojej słabości - wywichnięty stan biodrowy. Odtąd Jakub będzie kulał, aby pamiętał, że jak długo pozostanie _Jakubem,_ to znaczy, dopóki w życiu będzie się opierał tylko na sobie i szukał pierwszeństwa na własną rękę, będzie upadał, lecz jeżeli w swojej słabości oprze się na Bogu, wtedy zostanie pierworodnym synem dla Boga, będzie _mocny z Bogiem -_ taki właśnie sens ma jego nowe imię _Izrael_ (Rdz 32,29)[^32].
+
+O wschodzie słońca Jakub, który stał się Izraelem, stanął wobec swojego bliźniaka Ezawa, ten „objąwszy go za szyję ucałował go; i rozpłakali się obaj" (Rdz 33,4). Cud tego spotkania polega na wewnętrznej przemianie spojrzenia Jakuba na Ezawa, którego przez całe dotychczasowe życie uważał za przeszkodę w swojej relacji do Boga, natomiast teraz Jakub dostrzega w swoim bracie pomoc w spotkaniu z Nim; co więcej, w Ezawie odkrywa Jego obecność: „\[...\] gdym ujrzał twe oblicze, było ono obliczem jakby istoty nadziemskiej" (Rdz 33,10). W ten sposób Bóg pozwolił doświadczyć Jakubowi, że jego prawdziwym problemem nie jest - jak od początku myślał - jego zawsze pierwszy brat. W historii patriarchy Jakuba ukazuje się ponownie _mentalność Kaina,_ która charakteryzuje się niezdolnością do akceptacji \[46\] ostatniego miejsca. Powoduje ją przekonanie, że źródłem warto­ści jest dla człowieka bycie lepszym w konfrontacji z innym, czyli _bycie pierwszym_ w porównaniu z nim i w odróżnieniu od niego. Wtedy kołem zamachowym w życiu staje się wysiłek zdo­bycia i obrony jakiegoś rodzaju pierwszeństwa wobec innych oraz utrwalenia pozycji wyższości względem drugiego[^33].
+
+Kolejnym biblijnym obrazem, przywołanym tu dla teologicz­nego zilustrowania doświadczenia zła w ludzkim życiu, jest synte­tyczny opis czterdziestoletniej wędrówki narodu wybranego przez pustynię, podany w następnych księgach Pisma świętego. Podczas niej Izrael, po przejściu przez Morze Czerwone, doznaje potrójne­go kuszenia, które znajduje odpowiednik w opisie kuszenia Jezusa w czasie Jego czterdziestodniowego pobytu na pustyni po chrzcie w Jordanie[^34]. Tu pragniemy ukazać, że pokusy te mają charakter uniwersalny i dotykają każdego człowieka bez wyjątku.
+
+### Odrzucenie niepewności
+
+Nie ma chleba, a uprzykrzył się nam ten pokarm (Lb 21,5)
+
+Pierwsza fundamentalna pokusa dotyczy nasycenia głodu i dlatego można ją nazwać _pokusą chleba._ Wiąże się ona ze \[47\] spo­życiem pokarmu wbrew woli Boga, zatem przywołuje tę pierw­szą pokusę, której ulegli Adam i Ewa. Tej samej pokusie poddał się Izrael, szemrzący na pustyni, która jest w Biblii symbolicz­nym miejscem, gdzie Bóg wyprowadza człowieka, aby badać jego serce (por. Oz 2,16). Na pustyni dominuje bowiem poczucie niepewności, nie można tam zabezpieczyć sobie życia na własną rękę i dlatego człowiek jest skazany na bycie całkowicie zależ­nym od Boga i od innych ludzi. W surowych warunkach, gdzie nie można liczyć na własne możliwości, ujawnia się to, na kim naprawdę człowiek opiera swoje życie, ukazują się jasno postawy braku zaufania do Boga i wychodzą na jaw zamysły ludzkich serc. Dlatego pustynia jest miejscem kuszenia i próby, na którym Bóg wychowując swoje dzieci, najpierw naród Izraela, a potem samego Jezusa i każdego, kto pragnie być synem w Synu.
+
+Izrael (podobnie jak każdy człowiek) nie potrafił zaakcepto­wać sytuacji bezradności wobec własnego życia i nie chciał ocze­kiwać na spełnienie Bożych obietnic, ale domagał się od Boga nasycenia na własnych warunkach: tutaj, natychmiast i całkowi­cie: „Obyśmy pomarli z ręki Pana w ziemi egipskiej, gdzieśmy zasiadali przed garnkami mięsa i jadali chleb do sytości! Wyprowadziliście nas na tę pustynię, aby głodem umorzyć całą tę rzeszę" (Wj 16,3). Nie chodzi tu wyłącznie o głód biologiczny, ale o wszelkie jego rodzaje, których doświadcza człowiek, także w wymiarze duchowym: głód sensu własnej egzystencji, głód bezwarunkowej akceptacji, a przede wszystkim głód miłości w pełni bezinteresownej - każdy w swej najgłębszej istocie chce być kochany _za darmo,_ całkowicie bezwarunkowo. Chleb więc to tutaj synonim tych potrzeb człowieka, których spełnienie stanowi warunek jego życia i szczęścia.
+
+Takiej samej _pokusie chleba_ zostaje poddany Chrystus: „Wtedy Duch wyprowadził Jezusa na pustynię, aby był kuszony \[48\] przez diabła. A gdy przepościł czterdzieści dni i czterdzieści nocy, odczuł w końcu głód. Wtedy przystąpił kusiciel i rzekł do Niego: «Jeśli jesteś Synem Bożym, powiedz, żeby te kamienie stały się chlebem»" (Mt 4,1-3). Pokusa ta stanowi potężny atak szatana na stwórczy porządek świata, w którym to Bóg jest po­czątkiem i kresem ludzkiej egzystencji, Źródłem życia i szczęścia człowieka - także Jezusa. W istocie chodzi tu o odwrócenie tego porządku i o zniszczenie synowskiego oddania Ojcu, czyli Temu, który jedyny daje człowiekowi prawdziwy chleb w czasie sto­sownym. Pokusa chleba jest zatem obliczona na podważenie za­ufania do Boga jako Ojca, który zawsze wie lepiej, co i kiedy jest człowiekowi naprawdę potrzebne. _Ojciec kłamstwa_ (J 8,44) pod­stępnie wykorzystuje ograniczenie wynikające z ludzkiej natury Jezusa, jakim jest głód, aby dowieść, że Bóg nie troszczy się o Niego: przecież gdyby Bóg istniał i był Ojcem, to Jego Syn nie cierpiałby głodu! Takiemu Bogu nie wolno ufać i nie można na Nim opierać swego życia, ale trzeba liczyć tylko na siebie i na swoje możliwości. Wobec tego Jezus powinien zabezpieczyć so­bie życie bez Boga i nasycić się samodzielnie - kusiciel proponu­je Mu sięgnięcie po chleb (czyli po życie, którego chleb jest znakiem) na własną rękę, z pominięciem woli Ojca.
+
+Z tą samą pokusą ma do czynienia każdy człowiek, kiedy w stworzeniu szuka nasycenia wszystkich swoich głodów. Za każdym takim poszukiwaniem kryje się nieufność do Ojca, który – jak zawsze sugeruje szatan – zapomniał o ludzkich potrzebach, te zaś _teraz_ (a nie _później)_ człowiek _sam_ (a nie _On)_ musi zaspokoić wszelkimi dostępnymi środkami, także wbrew Jego woli. Jeżeli bowiem naprawdę człowiek nie ma kochającego Ojca, wtedy wszystko zależy tylko od niego samego, a życie nie jest darem, lecz jego wyłączną własnością, którą musi wciąż na nowo zdobywać i której musi bronić. Każdy jest wtedy skazany na walkę \[49\] o swój _powszedni chleb_: o miłość, o akceptację, o poczucie wła­snej wartości i sens swego istnienia. Każdego dnia czuje się zmu­szony do porównywania się i rywalizowania z innymi, gonienia za sukcesem, potwierdzania siebie poprzez to, co robi dla bliźnich i dla Boga. To jest życie człowieka wewnętrznie wydziedziczone­go, człowieka bez Ojca - każdego, kto ulega pokusie chleba[^35].
+
+### Niezgoda na historię
+
+Czy też Pan jest rzeczywiście wśród nas, czy nie? (Wj 17,7)
+
+Druga pokusa, z którą miał do czynienia Izrael, dotyka akcep­tacji rzeczywistości swojego życia i dlatego nazywać ją będziemy _pokusą historii._ Także ona towarzyszy człowiekowi _od początku_ jako propozycja skierowana do Adama i Ewy, aby nie akceptowa­li swej ludzkiej kruchości i stwórczej zależności od Boga: „Na pewno nie umrzecie!" (Rdz 3,4). Tej samej pokusie uległ Izrael, kiedy nie godził się na sposób, w jaki Bóg prowadził go na pusty­ni i „kłócił się lud z Mojżeszem mówiąc: «Daj nam wody do pi­cia!» \[...\]. I nazwał to miejsce Massa i Meriba, ponieważ tutaj kłócili się Izraelici i wystawiali Pana na próbę, mówiąc: «Czy też Pan jest rzeczywiście wśród nas, czy nie?»" (Wj 17,2.7).
+
+Wobec Pana pokusa historii przybiera następującą formę: „Wtedy wziął Go diabeł do Miasta Świętego, postawił na narożniku świątyni i rzekł Mu: «Jeśli jesteś Synem Bożym, rzuć się \[50\] w dół, jest przecież napisane: _Aniołom swoim rozkaże o tobie, a na rękach nosić cię będą, byś przypadkiem nie uraził swej nogi o kamień»"_ (Mt 4,5-6). Demon próbuje wykazać niewykonalność posłannictwa, które Chrystus otrzymał od Ojca, wskazując na konkretne uwarunkowania Jego ludzkiej egzystencji: pochodzenie z okrytej niesławą miejscowości[^36], niski stan społeczny, ubóstwo, brak wykształcenia itp.: „któż zechce pójść za tobą i słuchać twojej nauki?!". Wobec tych ograniczeń kusiciel proponuje Jezusowi samodzielną modyfikację własnej historii poprzez spektakularny cud, potwierdzający Jego tożsamość i gwarantujący Mu autorytet konieczny do wypełnienia misji. Takim gestem byłoby z pewnością pojawienie się w wypełnionej wiernymi świątyni Mesjasza, który przychodzi z nieba, realizując proroctwa. Celem kuszenia jest tutaj niezgoda na określoną historię życia, przewidzianą przez Ojca dla Syna i dla wypełnienia zbawczego planu. Tak więc pokusa historii (podobnie jak pokusa chleba) jest ostatecznie skierowana wprost przeciwko synowskiej ufności Jezusa do Boga. Tak jak poprzednio, _ojciec kłamstwa_ (J 8,44) przebiegle wykorzystuje słabość ludzkiej natury Jezusa, aby udowodnić Mu, że nie może polegać na Bogu, który tak poprowadził Jego historię, i aby skłonić Go do zapewnienia sobie sukcesu na własną rękę, z pominięciem woli Ojca. Ta sama pokusa powróci do Chrystusa w godzinie śmierci, wypowiedziana ustami arcykapłanów i uczonych w Piśmie: „\[...\] jeśli jesteś Synem Bożym, zejdź z krzyża!" (Mt 27,40), „żebyśmy widzieli i uwierzyli" (Mk 15,32).
+
+Z tą samą pokusą ma do czynienia codziennie każdy człowiek, gdy nie chce zgodzić się na swoje życie (całe i takie, jakie jest) jako na historię zbawienia, którą Bóg z nim realizuje, zły duch tak bowiem interpretuje człowiekowi fakty życia, aby zgorszyć go \[51\] i przekonać, że nie istnieje Bóg, który go kocha i zabiega o jego dobro - dotyczy to zwłaszcza doświadczenia porażki, cierpienia i śmierci. Jeżeli naprawdę życie jest tylko rezultatem ludzkich wysiłków, ślepym splotem przypadków czy bezlitosnym prze­znaczeniem, to człowiek nie potrafi go akceptować, lecz szemrze przeciwko sobie, ludziom i Bogu. Wówczas każdy pozostaje ska­zany na ucieczkę od swojego krzyża i na wszelkie sposoby zmu­szany do alienacji z własnej rzeczywistości. Nigdy wtedy nie żyje realnie - w konkretnym miejscu i czasie - i dlatego nigdy nie może naprawdę spotkać Boga, który czeka na niego tylko _tu i te­raz._ Takie kuszenie za pomocą historii jest powszechne i ogrom­nie skuteczne, chociaż najczęściej nieuświadomione[^37].
+
+### Idolatria stworzenia
+
+Uczyń nam boga, który by szedł przed nami (Wj 32,1)
+
+Trzecia pokusa, której doświadczył Izrael, dotyczy służenia fałszywym bogom, czyli bałwochwalstwa, dlatego można ją nazywać _pokusą bożków._ Także _ona -_ podobnie jak dwie poprzednie - nie jest nowa, lecz była już _na początku_ jako zwodnicze zapew­nienie szatana, dane pierwszym rodzicom: „jak Bóg będziecie" (Rdz 3,4). Tej pokusie uległ Izrael na Synaju, kiedy uczynił sobie złotego cielca, bo nie chciał więcej służyć Bogu niewidzialnemu i nieprzewidywalnemu, lecz tęsknił za bożkiem dotykalnym \[52\] i _oswojonym,_ który daje się kontrolować i którym można się po­sługiwać: „Uczyń nam boga, który by szedł przed nami, bo nie wiemy, co się stało z Mojżeszem, tym mężem, który nas wypro­wadził z ziemi egipskiej" (Wj 32,1). Jest to bóg na ludzką miarę, który pozwala człowiekowi panować nad własną rzeczywistością i zyskiwać w ten sposób pozorne poczucie bezpieczeństwa.
+
+Jezus na pustyni jest kuszony w taki sam sposób: „Jeszcze raz wziął Go diabeł na bardzo wysoką górę, pokazał Mu wszystkie królestwa świata oraz ich przepych i rzekł do Niego: «Dam Ci to wszystko, jeśli upadniesz i oddasz mi pokłon»" (Mt 4,8-9). Szatan próbuje raz jeszcze oszukać Chrystusa - podobnie jak w przypadku dwóch poprzednich pokus - posługując się znie­kształconym obrazem Boga jako Tego, który zwodzi perspekty­wą przyszłej i nieokreślonej nagrody, domagając się wiary i służ­by bez doraźnej i sprawdzalnej gratyfikacji. Nie bez powodu Ewangelia przy opisie tej pokusy wskazuje wprost na zmysł wzroku: diabeł _pokazał_ Jezusowi przepych tego, co Mu propono­wał - to nie była tylko enigmatyczna obiecanka, ale konkret, który ma swoją siłę przyciągania, bo można go dotknąć i od razu zagarnąć dla siebie. Jak zawsze, _ojciec kłamstwa_ (J 8,44) pod­stępnie wykorzystuje ograniczenia wynikające z ludzkiej natury Jezusa, a mianowicie, że także dla niego Bóg pozostaje ukryty i niewidzialny. W zamian za odmowę _ślepego_ posłuszeństwa Ojcu, kusiciel oferuje Jezusowi bezzwłocznie dwie jasno określo­ne rzeczy, które zawsze idą w parze i wzajemnie się uzupełniają: bogactwo oraz władzę. Zamiast oczekiwać, aż Ojciec sam Go _nad wszystko wywyższy_ (Flp 2,9) a także uczyni _i Panem, i Mesja­szem_ (Dz 2,36) poprzez cierpienie i śmierć, Jezus powinien sięg­nąć po panowanie nad światem natychmiast i samodzielnie, wbrew woli Ojca. Ta sama pokusa powróciła do Chrystusa raz jeszcze po cudownym rozmnożeniu chleba, jako propozycja \[53\] ziemskiego panowania, kiedy tłum chciał „przyjść i porwać Go, aby Go obwołać królem" (J 6,15).
+
+Z tą samą pokusą ma do czynienia codziennie każdy człowiek, kiedy uznaje kogokolwiek lub cokolwiek poza Bogiem za abso­lutnie konieczne dla siebie do życia. To, co _absolutnie_ konieczne, staje się bowiem _absolutem,_ czyli właśnie bożkiem, do którego człowiek się zwraca, aby ten spełnił wszystkie jego pragnienia. W ten sposób ludzie po grzechu wybierają sobie „boga", by po­służyć się nim dla zdobycia złudnego panowania nad własnym życiem, podporządkować sobie innych i osiągnąć iluzoryczną kontrolę nad otaczającą rzeczywistością. Takim idolem mogą być pieniądze i prestiż, ale także drugi człowiek (mąż, żona, dzieci, chłopak, dziewczyna, przyjaciel...), własne zdrowie, ciało, praca lub kariera: to wszystko, co obiecuje szczęście na wyciągnięcie ręki i od zaraz. Nie bez znaczenia pozostaje tu namacalna kon­kretność, oferowana przez bożki, tak atrakcyjna dla człowieka, dla którego słowo obietnicy z ust Boga utraciło już aktualność. A ponieważ człowiek nie chce nigdy naprawdę zaakceptować, że można utracić to, co wydaje mu się niezbędne, jego egzystencja jest podszyta nieustannym lękiem. Jednak idole to tylko stworze­nia nieme i głuche na ludzkie pragnienia („robota rąk ludzkich, \[...\] nie mówią, \[...\] nie widzą, \[...\] nie słyszą" - Ps 115,4-6), których nie potrafią zaspokoić, a często okazują się krwawymi molochami, pożerającymi własnych czcicieli. Każdy człowiek przekonuje się ciągle na nowo i boleśnie, że to, co uznaje za tak nieodzowne, nie czyni go szczęśliwym, lecz zawsze pozostawia po sobie niedosyt, rozczarowanie, głęboki smutek i samotność[^38].
+
+\[54\]
+
+### Strach przed umieraniem
+
+Aż do tego dnia trzymają w niewoli (1 Mch 8,10)
+
+Podstawowy tekst natchniony, opisujący doświadczenie zła, to fragment Listu do Rzymian (7,18-24), który możemy uznać za syntezę aktualnej kondycji ludzkości[^39]. Punkt wyjścia to stwier­dzenie, że człowiek w swoim duchowym centrum (biblijnym _sercu)_, na poziomie określanym przez Apostoła jako _wewnętrzny człowiek,_ ma świadomość istnienia _Prawa_ pochodzącego od Boga, w którym znajduje _upodobanie_ (dosłownie: _radość)._ W kontekście naszych poprzednich rozważań możemy powie­dzieć, że istotę tego Prawa stanowi miłość, to znaczy bezintere­sowny dar z samego siebie, który jest konsekwencją stworzenia człowieka na obraz Boga. A zatem, w głębinach swojego bytu każdy człowiek odkrywa prawdę, że _dobre_ (dosłownie: _piękne)_ \[55\] dla niego jest opuszczenie siebie i tracenie siebie dla drugiego, aby w jedności z nim odnajdywać siebie. Wobec tego dobra, które jawi się człowiekowi jako droga do _spełnienia siebie_ (KDK 24), rodzi się w nim naturalne: _chcę!_ (7,19). Właśnie to wewnętrzne rozpoznanie i pragnienie _tego, co dobre,_ to znaczy Prawa miłości, stanowi niezacieralny ślad obrazu Bożego w człowieku.
+
+W tej perspektywie prawdziwy dramat ludzkości polega na tym, że człowiek nie może (choć bardzo tego chce) odpowiedzieć na wezwanie do miłości wypisane w jego sercu. Powyższy tekst przedstawia głęboką przepaść, istniejącą w człowieku pomiędzy świadomością powinności wobec _dobra-miłości_ a możliwością jego realizacji. Człowiek nie potrafi bezinteresownie tracić siebie dla drugiego - nie jest w stanie kochać innego (_różnego_ od siebie) za darmo. Św. Paweł ukazuje w sposób dramatyczny tę niemoc człowieka jako rzeczywistość całkowicie go przekraczającą i pa­raliżującą, jako przemożne _prawo grzechu_ (7,23), które stojąc w opozycji do Prawa miłości, _narzuca się_ (7,21) człowiekowi ze zniewalającą siłą i sprawia, że czyni on to, czego _nie chce_ (7,19). Zupełną bezradność człowieka w tej sytuacji wyraża termin _niewola -_ ta tak głęboko w nim _mieszka_ (7,23), że Apostoł nie waha się mówić o pewnym ubezwłasnowolnieniu wobec grzechu: „już nie ja to czynię" (7,20). Tak opisana kondycja człowieka czyni go, w najgłębszym tego słowa znaczeniu, _nieszczęśliwym_ (7,24), odkrywa on bowiem w sobie _tajemnicę nieprawości_ (dosłownie: _bezprawia_!), to znaczy własną niemożność wypełnienia życio­dajnego Prawa posiadania siebie w dawaniu siebie, które nosi w sercu jako warunek osobistego szczęścia[^40].
+
+\[56\]
+
+Nie możemy nie pytać o przyczynę takiego stanu rzeczy: jak człowiek, noszący obraz i podobieństwo Boga, a więc uzdolnio­ny do miłości, znalazł się w sytuacji, którą Pismo określa jako _niewolę grzechu_ (Rz 6,6; 8,21; Ga 5,1)? „Człowiek bowiem wglądając w swoje serce dostrzega, że jest skłonny także do złe­go i pogrążony w wielorakim złu, które nie może pochodzić od dobrego Stwórcy" (KDK 13). Poszukując odpowiedzi na powyż­sze pytanie, sięgamy do podstawowego tekstu soteriologicznego, który znajduje się w Liście do Hebrajczyków 2,14-15: „Ponieważ zaś dzieci uczestniczą we krwi i ciele, dlatego i On także bez żadnej różnicy stał się ich uczestnikiem, aby przez śmierć poko­nać tego, który dzierżył władzę nad śmiercią, to jest diabła, i aby uwolnić tych wszystkich, którzy całe życie przez bojaźń śmierci podlegli byli niewoli". Pomińmy pierwszą, kerygmatyczną, część tego fragmentu (2,14a), do której wrócimy później, i spójrzmy, w jaki sposób w jego drugiej części (2,14b-15) został ukazany wewnętrzny mechanizm niewoli grzechu, o której wspominał św. Paweł.
+
+Tekst odsłania przede wszystkim prawdę o tym, że za tą nie­wolą stoi byt osobowy, określony jako _diabolos_ (_oszczerca_), \[57\] który ma władzę nad człowiekiem[^41]. _Narzędziem_ służącym szatano­wi do sprawowania tej władzy, jest _strach przed śmiercią_ (2,15). Właśnie to określenie stanowi klucz do zrozumienia egzysten­cjalnej sytuacji człowieka, opisanej za pomocą kategorii niewoli. Nie chodzi tutaj ojej wymiar biologiczny, rozumiany jako ustanie procesów organicznych ludzkiego ciała (_sen śmierci_ - J 11,13), ani o jej charakter eschatologiczny jako tragicznego zakończenia historii ludzkiej wolności (_śmierć druga_ - Ap 21,8), ale o egzy­stencjalne doświadczenie śmierci, które zakłada (i jakoś ogarnia) dwa poprzednie znaczenia. W tym sensie jest to powszechne, dotykające każdego człowieka bez wyjątku i obecne przez całe jego życie doświadczenie radykalnego tracenia oparcia w tym, co subiektywnie jest uznawane za fundamentalne dla własnej egzy­stencji, np. zdrowie, relacje międzyludzkie, więzi uczuciowe, szacunek dla siebie, uznanie w oczach innych, kariera, prestiż, pieniądze). Jest to przeżycie porównywalne do usuwania się gruntu spod nóg i zapadania w otchłań, bez możliwości znalezie­nia punktu oparcia (kto choć raz tonął, wie o czym mowa).
+
+To doświadczenie śmierci, czy raczej _umierania,_ dotyka czło­wieka w jego najgłębszym wymiarze, ponieważ odbiera to, co mu się jawi jako ostateczna racja jego istnienia, i usuwa to, co uznaje on za fundamentalne dla swojej egzystencji - z tego powodu do­świadczenie to nazwać możemy także _śmiercią egzystencji._ Każdy człowiek ma z nią do czynienia wtedy, gdy znajduje się \[58\] w sytuacji nie odpowiadającej temu, co on sam uważa za podsta­wowe dla swojego życia i niezbędne do realizacji siebie. Wszyscy umieramy w tym sensie, kiedy stajemy wobec rzeczywistości (rzeczy, sytuacji lub osoby), której nie postrzegamy jako _dobrej_ dla nas, która występuje przeciwko naszemu obrazowi świata, burzy nasze zasadnicze projekty życiowe i dlatego subiektywnie nas niszczy. Wówczas człowiek w oczywisty sposób czuje się skazany na nieustanne odsuwanie od siebie tych sytuacji, które niosą w sobie doświadczenie śmierci. Jest to zatem ciągłe ucieka­nie od tego wszystkiego, co lapidarnie zwykliśmy nazywać _krzy­żem._ W rezultacie każdy człowiek jest zmuszony do _zdobywania_ życia na własną rękę i do jego obrony przed tym wszystkim, co jawi się jako jego zagrożenie[^42].
+
+W tej perspektywie możemy dostrzec centralną myśl zawartą w przytoczonym fragmencie Listu do Hebrajczyków. Tym, co trzyma każdego człowieka przez _całe życie_ (2,15) w niewoli dia­bła (to znaczy nie pozwala mu spełniać się i dopełniać poprzez realizację Prawa miłości), jest paraliżujący strach przed egzysten­cjalną śmiercią jego _ja,_ obezwładniający lęk o swoje istnienie, który nie pozwala _umierać_ dla siebie i żyć dla drugiego. Tak więc \[59\] człowiek znajduje się w niewoli szatana wtedy, gdy boi się śmier­ci, kiedy lęka się o swoje istnienie i nie chce umierać dla siebie. Wobec tej śmiercionośnej grozy każdy człowiek staje całkowicie bezsilny, czyni go ona bowiem bytowo niezdolnym do tego, by kochał, czyli sprawia, że nie „czyni \[...\] tego dobra, którego chce, ale czyni to zło, którego nie chce" (Rz 7,19). Dlatego właśnie ten zniewalający strach jest _instrumentem_[^43], przez który zły duch „dzierżył władzę nad śmiercią" (dosłownie: „był mającym siłę śmierci" - Hbr 2,14) człowieka i „podbija go w niewolę pod pra­wo grzechu" (Rz 7,23)[^44].
+
+Na tym etapie naszych rozważań kolejnym krokiem będzie odszukanie praprzyczyny tej egzystencjalnej trwogi, która jest korzeniem niewoli człowieka i jednocześnie stanowi rzeczywistą naturę grzechu. W tym celu musimy powrócić do punktu wyjścia naszych rozważań, czyli do Księgi Rodzaju.
+
+\[60\]
+
+## Przez nieposłuszeństwo
+
+Trzeci rozdział Księgi Rodzaju opisuje obrazowo i symbolicz­nie wydarzenie leżące u korzeni historii ludzkości, zwane w języku teologicznym _grzechem pierworodnym._ Wymiar historiozbawczy tego tekstu (por. KKK 390) pozwala przyjąć, że grzech pierwo­rodny to prawzór każdego grzechu i dlatego jego analiza jest nie­zbędna dla poznania ukrytego mechanizmu _tajemnicy bezbożności_ (2 Tes 2,7), jej struktury i tragicznych dla człowieka skutków.
+
+### Życiodajny zakaz
+
+Drzewo poznania dobra i zła (Rdz 2,9)
+
+Dla zrozumienia genezy grzechu musimy jeszcze na chwilę wrócić do rozdziału drugiego Księgi Rodzaju, gdzie mowa o dwóch drzewach rosnących w ogrodzie Eden: o _drzewie życia_ i o _drzewie poznania dobra i zła._ Trzeba zauważyć przede wszyst­kim, że o drzewie życia powiedziano, że rosło ono _w środku ogro­du,_ natomiast brak wzmianki o usytuowaniu drugiego drzewa (por. Rdz 2,9). Bóg nie zakazał człowiekowi spożywać owoców z drzewa życia, które było dla niego znakiem komunikacji istnie­nia od Boga, jedynego _Źródła_ jego bytu. Bóg nie zabronił dostę­pu do życia, lecz dla dobra człowieka uzależnił od Siebie możli­wość korzystania z niego, aby ten mógł się cieszyć życiem, uży­wać go zgodnie z Jego wolą i składać Mu dziękczynienie za ten \[61\] dar. Inaczej mówiąc, Bóg chce, aby człowiek był w pełni szczęś­liwy żyjąc tym życiem, które pochodzi tylko i wyłącznie od Niego. Ten udział człowieka w życiu Boga - jak wiemy - polega na zdolności i mocy komunikowania się z drugim na obraz i po­dobieństwo Boga, czyli jedność w wielości, komunię w różno­rodności, życie w umieraniu. Było (i ciągle pozostaje) to możliwe jednak tak długo i na tyle, na ile człowiek trwa w rzeczywistej relacji do Boga jako Stwórcy.
+
+W tej perspektywie można odkryć duchowy sens centralnego umieszczenia _drzewa życia_ w raju - wszędzie tam, gdzie Bóg pozostaje w centrum, a człowiek akceptuje swoją zależność od Niego i własną stworzoność, tam człowiek ma życie w obfitości i bez ograniczeń, z wyjątkiem jednego: że nie jest Bogiem. To jedyne _ograniczenie_ człowieka zostało wyrażone w zakazie spo­żywania owoców z drzewa poznania dobra i zła (por. Rdz 2,17), o którym nie powiedziano, gdzie się znajduje, jego miejsce jest bowiem wszędzie tam, gdzie Bóg nie pozostaje w centrum, w tych wszystkich sytuacjach, gdzie człowiek będzie usiłował poznać dobro i zło niezależnie od Boga, to znaczy stać się wła­snym _stwórcą,_ protagonistą swego życia. Takie postawienie sie­bie na miejscu Boga jest jednak dla człowieka zawsze i niechyb­nie śmiercionośne (por. Rdz 2,17), ponieważ ograniczenie, za­wierające ten zakaz, wynika z podstawowej prawdy, że poza Bogiem nie ma życia[^45].
+
+Człowiek w ogrodzie Eden nie potrzebował poznawać dobra i zła na własną rękę, to znaczy w oderwaniu od Stwórcy, ponie­waż cała jego egzystencja i wszystko, co przyjmował zgodnie z zamysłem Boga, było dla niego dobre. W swojej pierwotnej kondycji człowiek nie znał więc zła jako rzeczywistości, która (sprzeciwiając się projektom Bożym) zagrażała także jego szczę­ściu, lecz poznawał wszystko przez pryzmat Bożej woli, którą przyjmował z pełnym zaufaniem jako dla siebie zasadniczo do­brą[^46]. Właśnie taka znajomość dobra i zła, odłączająca stworze­nie od Boga i zamykająca je we własnej autonomii była tym za­kazanym przez Stwórcę _owocem,_ po który Adam i Ewa dla włas­nego dobra nie powinni wyciągać ręki.
+
+Ten sam zakaz, widziany spoza horyzontu mądrej Bożej mi­łości, wydaje się ograniczeniem człowieka. W rzeczywistości jednak stanowi najbardziej podstawowe określenie prawdy o człowieku jako istocie stworzonej na obraz Boga i jest wyra­zem \[63\] właściwego wymiaru ludzkiej egzystencji, możliwej tylko w odniesieniu do Stwórcy. Zakaz spożywania owoców drzewa poznania dobra i zła wyrażał łaskawość i dobroć Boga, zmie­rzając do tego, by spełniło się całkowicie odniesienie stworze­nia do Stwórcy[^47]. Właśnie to pozorne ograniczenie człowieka stało się przedmiotem kuszenia, które doprowadziło do jego upadku. Zanim zajmiemy się jednak analizą tego biblijnego wydarzenia, zatrzymajmy się na chwilę przy jego sprawcy: _kusicielu_.
+
+### Ojciec kłamstwa
+
+A wąż był bardziej przebiegły (Rdz 3,1)
+
+Trzeci rozdział Księgi Rodzaju do pełnego ładu i poddanego Bogu raju wprowadza rzeczywistość Jemu przeciwną pod posta­cią węża. W odróżnieniu od innych stworzeń przedstawia się go jako przychodzącego z zewnątrz (_z pola_), to znaczy z terenu dzi­kiego, gdzie nie ma stwórczej harmonii[^48]. Już sama nazwa _wąż,_ w którego skórze przychodzi kusiciel, wskazuje na jego dwu­znaczny charakter jako stworzenia zbuntowanego, nie akceptują­cego faktu bycia stworzeniem, to znaczy bycia zależnym od Stwórcy. Jest on określony jako _przebiegły (arum),_ co w logice języka hebrajskiego wskazuje na inteligentną umiejętność docho­dzenia do celu, wyznaczonego z własnego punktu widzenia, za pomocą zręcznie dobranych środków.
+
+\[64\]
+
+W kontekście całej Biblii wąż z Księgi Rodzaju jest ukazany jako _przeciwnik_ (_satan_) planów Bożych w stosunku do ludzkości i do poszczególnych ludzi[^49], jako _diabeł,_ który się sprzeciwia woli Stwórcy[^50], w taki jednak sposób, że kategorycznie wyklucza wszelki dualizm dobra i zła[^51]. Inne biblijne terminy, określające to stworzenie, wyrażają jego pochodzenie i misję: _Belzebub_, w trzech brzmieniach: _Beelezebub_, _Beelzebul_ i _Beezebul_, czyli _pan ofiar bałwochwalczych_, _pan much_(?), _pan gnoju_(?)[^52], oraz _Lucyfer_ (gr. _Phosphoros_, łac. _Lucifer - niosący światło, jutrzen­ka_) - wódz zbuntowanych aniołów, _strącony do Szeolu_ (Iz 14,15), \[65\] _pierworodny stworzenia światła,_ lecz obalony z nieba do piekieł z powodu pychy (por. 2 P 2,4; Jud 6; Ap 9,1; 12,8-10)[^53].
+
+Dla opisania tego metahistorycznego wydarzenia w tradycji chrześcijańskiej symbolicznie interpretowano tekst z księgi pro­roka Ezechiela, mówiący o upadku Tyru: „Tak mówi Pan Bóg: Byłeś odbiciem doskonałości, pełen mądrości i niezrównanie piękny. Mieszkałeś w Edenie, ogrodzie Bożym; okrywały cię wszelkiego rodzaju szlachetne kamienie: rubin, topaz, diament, tarszisz, onyks, beryl, szafir, karbunkuł, szmaragd[^54], a ze złota wykonano okrętki i oprawy na tobie, przygotowane w dniu twego stworzenia. Jako wielkiego cheruba opiekunem ustanowiłem cię na świętej górze Bożej, chadzałeś pośród błyszczących kamieni. Byłeś doskonały w postępowaniu swoim od dni twego stworze­nia, aż znalazła się w tobie nieprawość. Pod wpływem rozkwitu twego handlu wnętrze twoje napełniło się uciskiem i zgrzeszy­łeś, wobec czego zrzuciłem cię z góry Bożej i jako cherub opie­kun zniknąłeś spośród błyszczących kamieni. Serce twoje stało się wyniosłe z powodu twej piękności, zanikła twoja przezor­ność z powodu twego blasku. Rzuciłem cię na ziemię, wydałem cię królom na widowisko. Mnóstwem twoich przewin, nieuczci­wością twego handlu zbezcześciłeś swoją świątynię. \[...\] Przestałeś istnieć na zawsze" (Ez 28,11-19). Ostatnie słowa tego fragmentu mogą zostać zinterpretowane jako zaprzeczenie i ne­gatyw imienia Boga, objawionego Mojżeszowi: „Jestem, który jestem" (Wj 3,14).
+
+\[66\]
+
+Zły duch więc to stworzenie będące w konflikcie ze Stwórcą, zazdroszczące człowiekowi jego szczęścia (por. Mdr 2,24; Dz 5,3; 1 Kor 7,5; 1 Tes 3,5) i działające na jego szkodę. Działa pod­stępnie, z ukrycia i w momencie niespodziewanym, kiedy czło­wiek cieszy się pozornym bezpieczeństwem[^55]. Zasadniczym ce­lem tego działania jest to, co stanowi największe nieszczęście dla człowieka, czyli zerwanie relacji z Bogiem, a głównym środkiem do osiągnięcia tego celu jest kłamstwo. Przy czym nie chodzi tu­taj tylko o zgubny wpływ na sferę intelektualną człowieka, aby ten myślał niewłaściwie o Bogu, lecz o takie oddziaływanie na całość ludzkich władz poznawczych, które zmierza do ogólnego stanu _zamętu,_ to znaczy do utraty przez człowieka jego życiodaj­nej orientacji na Stwórcę. W tym kontekście, trafiającym w sed­no, jawi się określenie _oszczerca -_ ten, który fałszywie oskarża Boga wobec człowieka, ale także człowieka wobec samego sie­bie. W tym sensie Nowy Testament nazywa węża z raju _kłamcą i ojcem kłamstwa_ (J 8,44) oraz tym, który _zwodzi_ człowieka (por. Rz 7,11 ; 2Kor 2,11 ; Ef 6,11 ; 1 Tm 3,7; Ap 12,9; 20,8). Właśnie to szatańskie dzieło, polegające na oszukaniu człowieka co do jego prawdziwej relacji do Boga, stanowi klucz do zrozumienia całej dynamiki kuszenia, przedstawionej w Księdze Rodzaju[^56].
+
+\[67\]
+
+### Pierwotne oszczerstwo
+
+Czy rzeczywiście Bóg powiedział? (Rdz 3,1)
+
+Opis kuszenia rozpoczyna się od pytania, które ukrywa w sobie samą istotę przebiegłości szatana: „Czy rzeczywiście Bóg powie­dział: «Nie jedzcie owoców ze wszystkich drzew tego ogrodu?»" Zwróćmy najpierw uwagę na pozorną nieświadomość kusiciela, który rozszerza zakaz spożywania owoców z jednego tylko drzewa dobra i zła na wszystkie drzewa Edenu i przypisuje go Bogu. Nie jest to jednak nieświadoma pomyłka, lecz potężna insynuacja, któ­ra ma ukazać zakaz, otrzymany przez człowieka w raju, jako wyraz ograniczenia ze strony Stwórcy, jeżeli bowiem nie można spoży­wać owoców choćby z jednego drzewa, to tak, jakby wszystko było zabronione. Ostatecznym celem ataku nieprzyjaciela jest tutaj obraz Boga, jaki nosili w sobie pierwsi rodzice. W człowieku, któ­ry do tego momentu znał Boga jako troskliwego, bezinteresowne­go Dawcę życia, ufał Mu bezgranicznie i opierał się całkowicie na Nim, oszczerca chce wzbudzić cień podejrzenia, że Stwórca może go zniewala i ogranicza. Działanie szatana jest obliczone na wzbu­dzenie w człowieku nieufności w stosunku do Boga - istoty kapryś­nej, zazdrośnie strzegącej swojej władzy i wrogiej rodzajowi ludz­kiemu. Ukrytym żądłem kuszenia złego ducha jest więc _pierwo­rodne oszczerstwo,_ że Stwórca nie kocha człowieka, nie pragnie jego dobra i nie troszczy się o niego. Z tego powodu Bogu nie moż­na ufać, nie można na Nim opierać swego życia - w konsekwencji można i trzeba liczyć tylko na siebie i na swoje możliwości.
+
+\[68\]
+
+Taka jest treść pierwszej anty katechezy ojca kłamstwa, która pozostaje wzorem i korzeniem kuszenia człowieka w dowolnym momencie jego historii. Każda pokusa szatańska polega bowiem na tym, aby w taki sposób zinterpretować człowiekowi tę rzeczy­wistość, która go w jakikolwiek sposób ogranicza, aby przekonać go o tym, że na horyzoncie jego życia nie ma Boga, który go ko­cha i zabiega o jego dobro. Wszędzie, gdzie pojawia się _diabolos_ i jego oszczerstwa, mamy do czynienia z tym fundamentalnym przekręceniem prawdy o Bogu; zawsze będzie tam obecne to ory­ginalne oszustwo, które stanowi podstawę wszelkiego działania złego ducha. Dotyczy to zwłaszcza tych momentów życia ludz­kiego, kiedy w sposób szczególny dotyka człowieka cierpienie w swojej różnorakiej postaci. Właśnie ono jest przede wszystkim przedmiotem takiej interpretacji demona, która zmierza do uka­zania Boga jako odpowiedzialnego za cierpienie lub obojętnego wobec niego i dlatego niegodnego wiary i zaufania. Takie kusze­nie to rzeczywistość powszechna, chociaż najczęściej przeżywa­na nieświadomie, jest ono jednak naprawdę potężne w swoim oddziaływaniu i niezwykle skuteczne.
+
+W dalszej kolejności Księga Rodzaju ukazuje sposób, w jaki posiana przez węża wątpliwość w stosunku do Boga wydaje w człowieku zatrute owoce. Ewa, zwiedziona podstępnym pyta­niem, daje odpowiedź, która na pozór broni Stwórcy, ale w rze­czywistości kobieta ulega szatańskiej wizji: „Owoce z drzew tego ogrodu jeść możemy, tylko o owocach z drzewa, które jest w środku ogrodu, Bóg powiedział: Nie wolno wam jeść z niego, a nawet go dotykać, abyście nie pomarli" (Rdz 3,3). W środku ogrodu stało jednak drzewo życia, do którego nie odnosił się za­kaz spożywania owoców! Jeśli pamiętamy o głębokiej symbolice centralnego umieszczenia tego drzewa w raju, rozumiemy także istotny sens tej odpowiedzi. Ewa, idąc za insynuacją złego ducha, \[69\] zaczyna sądzić, że przedmiotem zakazu jest życie jako takie, a Bóg zabronił człowiekowi dostępu do tego, co fundamentalne: do pełni życia, którą rezerwuje tylko dla siebie. Skoro bowiem Bóg nie pozwala na coś, co jest centralne, najważniejsze, to nie pozwala na życie[^57].
+
+W ten sposób staje się widoczne, jak człowiek, pod wpływem zwodziciela, zaczyna przyjmować fałszywą wizję Boga, traci orientację i popada w zamęt. Podstawową sprawą w tej nowej orientacji nie jest już stosunek człowieka do Boga (skoro ten jawi się jako nieprzyjaciel), ale relacja do życia samego w sobie, bez odniesienia do Boga jako do jego Źródła. W centrum staje zatem samo ludzkie życie, które nie jest już dla człowieka darmowym darem Stwórcy, lecz czymś, co człowiek zdobywa na własną rękę, a zatem czymś, co należy tylko do niego[^58].
+
+### Nieodwracalny egoizm
+
+Na pewno nie umrzecie! (Rdz 3,4)
+
+Tracąc odniesienie do woli Boga, które wyobrażało drzewo poznania dobra i zła, człowiek widzi w centrum drzewo życia – \[70\] _swego_ życia. Gdy używamy tutaj terminu _życie,_ mamy na myśli to, co stanowi i wypełnia ludzką egzystencję we wszystkich jej przejawach i jest skierowane ku szczęściu człowieka. Język bi­blijny wyraża to w pojęciach: _pokój_ i _błogosławieństwo,_ zawsze i nieodłącznie pojmowanych w ścisłej łączności z Bogiem jako jego dary. Tak rozumiane życie człowieka jest więc przede wszystkim owocem relacji do Boga, a bez niej samo życie ukazu­je się człowiekowi jako _absolut,_ to znaczy jako coś, co jest abso­lutnie dla niego konieczne. W tej perspektywie śmierć, czyli brak życia, jest czymś nie do przyjęcia dla człowieka. Z tego powodu szatan pieczętuje swoje dzieło kuszenia obietnicą nieśmiertelno­ści: „Na pewno nie umrzecie! Ale wie Bóg, że gdy spożyjecie owoc z tego drzewa, otworzą się wam oczy i tak jak Bóg będzie­cie znali dobro i zło" (Rdz 3,5).
+
+Gdy przeanalizujemy te słowa w kontekście naszych poprzed­nich rozważań, zobaczymy, jak bardzo prawda o człowieku w je­go relacji do Boga została zniekształcona przez tego, który jest _zabójcą od początku_ (por. J 8,44; 1 J 3,8), powiedzieliśmy bo­wiem, że człowiek, stworzony na obraz i podobieństwo Boga, realizuje się tylko poprzez bezinteresowny dar z samego siebie, to znaczy przez miłość, która ze swej istoty domaga się tracenia siebie. Jest to ten szczególny rodzaj egzystencji, której wzór znaj­dujemy w samej Trójcy Świętej, gdzie posiadanie siebie jest moż­liwe tylko w bezinteresownym dawaniu siebie. Tymczasem dia­beł proponuje człowiekowi, aby _był jak Bóg_ nie dzięki komuni­kowaniu życia, lecz poprzez egocentryczne zatrzymanie go dla \[71\] siebie, zamknięcie i skoncentrowanie na sobie i odmowę umiera­nia, czyli dawania tego życia drugiemu. W ten sposób zostaje całkowicie odwrócona prawda o Bogu i człowieku stworzonym na Jego obraz - szatan przedstawia człowiekowi jego rzeczywi­stość całkowicie _na opak_[^59]. W efekcie to, co stanowi dla niego śmiercionośną pułapkę (pragnienie zachowania swego życia tyl­ko dla siebie) człowiek zaczyna _postrzegać jako dobre_ dla siebie, a szatański sposób widzenia rzeczywistości uznaje za _nadający się_ do zdobycia życia na własną rękę i do samodzielnego pano­wania nad nim (por. Rdz 3,6).
+
+Wola ludzka wskutek grzechu pierworodnego nie została _zniszczona,_ lecz _zraniona,_ a zatem ciągle dąży do dobra, tak jak to dobro pojmuje umysł. Po upadku jednak pojęcie dobra zostało zniekształcone przez ograniczenie go do samego tylko życia ludz­kiego, w oderwaniu od jego Źródła, czyli od Boga. Zranionej woli jako subiektywnie dobre może jawić się więc to, co obiektywnie złe i niesie śmierć. Człowiek po grzechu jest więc przede wszyst­kim wewnętrznie i egzystencjalnie _oszukany._ Pod tym względem bardzo wymowne są słowa Jezusa z krzyża, które usprawiedliwiają człowieka wobec największego z grzechów – bogobójstwa: „Ojcze, przebacz im, bo nie wiedzą, co czynią" (Łk 23,34). Taka jest ostateczna prawda o człowieku po upadku: nie wie, że czyni zło, kiedy własnymi siłami i według własnych koncepcji broni siebie, także kosztem innych, przed śmiercią własnego bytu.
+
+Ostatecznym potwierdzeniem antykatechezy szatana ze strony człowieka był akt zerwania i spożycia owocu z drzewa poznania \[72\] dobra i zła (por. Rdz 3,6). Przez ten gest Adam i Ewa zaaprobowa­li pierworodne kłamstwo o tym, że Bóg nie troszczy się o nich i dlatego muszą zdobywać sobie życie na własną rękę. Taki akt przyzwolenia na kuszenie należy do trwałej struktury grzechu i jest świadomie lub podświadomie _kopiowany_ w przypadku każ­dego grzechu osobistego[^60], najgłębszym bowiem fundamentem każdej ludzkiej decyzji przeciw Bogu jest akceptacja (nie tyle na poziomie intelektualnym, co głębszym - egzystencjalnym) tego, że w konkretnej życiowej sytuacji nie można liczyć na Boga i Je­go miłość, ale trzeba radzić sobie na własną rękę, według włas­nych rozwiązań. Z łatwością możemy się o tym przekonać, anali­zując nieco głębiej motywację dowolnie wybranego grzechu. I tak np. kłamstwo - jest ono zawsze owocem mniej lub bardziej świa­domego przekonania, że w tej konkretnej życiowej sytuacji po­wiedzenie prawdy byłoby dla człowieka w jakiś sposób niebez­pieczne, a nie ma Nikogo (poza nim samym), kto mógłby go z te­go niebezpieczeństwa wybawić, i w konsekwencji zapada decyzja zatajenia lub przekręcenia prawdy, by ratować siebie.
+
+W ten sposób dotarliśmy do najgłębszej, najbardziej mrocznej motywacji, która kieruje człowiekiem popełniającym grzech. Jest nią zaszczepiona przez zwodziciela i utrwalona w głębinach ludz­kiego bytu nieufność w stosunku do Boga. To ten śmiercionośny jad, wsączony przez starodawnego węża w serce człowieka i przekazywany z pokolenia na pokolenie jako grzech \[73\] pierworodny[^61]. Biblijnym obrazem tej sytuacji, w jakiej znalazł się człowiek po upadku, jest wygnanie Adama i Ewy z ogrodu Eden oraz che­ruby i _połyskujące ostrze miecza_, strzegące drogi do drzewa życia (Rdz 3,24)[^62]. Za Ojcami Kościoła można powiedzieć, że człowiek po upadku zachował w sobie nienaruszony _obraz_ Boga, który pozwala mu rozpoznawać i pragnąć tego, co jest dla niego dobre, utracił jednak zdolność wypełniania tego dobra, czyli realizacji swego _podobieństwa_ do Boga. Tę samą prawdę wyraża teologia zachodnia, mówiąc o zranieniu, ale nie o zniszczeniu natury ludz­kiej po grzechu pierworodnym.
+
+### Utracona darmowość
+
+Przestraszyłem się, bo jestem nagi, i ukryłem się (Rdz 3,10)
+
+Szatańska obietnica nieskończonego posiadania życia z siebie i dla siebie, w oderwaniu od jego Stwórcy i Dawcy jest jednak fałszywa i przeczy obiektywnej prawdzie wpisanej w ontyczną strukturę człowieka. Akceptacja tej obietnicy i uzurpacja miejsca Boga musi więc pociągnąć za sobą nieuniknione dla człowieka konsekwencje, zgodnie z Bożym ostrzeżeniem o śmiercionośnym skutku przekroczenia zakazu. Księga Rodzaju ukazuje te konse­kwencje przede wszystkim za pomocą dwóch, wzajemnie się warunkujących doświadczeń: _wstydu_ i _strachu._ Chociaż pojawia­ją się one także we wzajemnej relacji Adama i Ewy (por. Rdz 3,7), \[74\] to występują przede wszystkim w odniesieniu do Boga - człowiek po upadku odczuwa wobec Boga wstyd i boi się Go. Przyjrzyjmy się nieco bliżej tym dwóm doświadczeniom, które należą nieodłącznie do natury grzechu[^63].
+
+Powiedzieliśmy poprzednio, że brak wstydu wobec własnej nagości przed Bogiem był znakiem akceptacji przez człowieka jego własnej ograniczoności i stworzoności oraz wyrażał do­świadczenie całkowitej darmowości w relacji do Stwórcy. Dlatego z pierwotnym brakiem wstydu szedł w parze także brak strachu, wyrastający z doświadczenia bezpieczeństwa wobec Boga, które­go miłości i wierności człowiek przed upadkiem był pewien. Stąd pochodziła przyrodzona zdolność człowieka do _stawania_ przed Stwórcą bez lęku i w _obnażeniu_ z własnej chwały, ponieważ nie miał nic, czego by nie otrzymał za darmo. Po grzechu sytuacja człowieka wobec Boga odwraca się diametralnie, Księga Rodzaju przedstawia tę zmianę w obrazie Boga przechadzającego się po rajskim ogrodzie, który na pytanie skierowane do Adama: „Gdzie jesteś?" (Rdz 3,9), otrzymuje odpowiedź: „Usłyszałem Twój głos w ogrodzie, przestraszyłem się, bo jestem nagi, i ukryłem się" (Rdz 3,10). Adam stracił już zdolność stawania przed Stwórcą bez lęku i w _obnażeniu_ z własnej chwały, nie mając nic, czego by nie otrzymał za darmo. Pozbawiony poczucia bezpieczeństwa wobec Boga, człowiek boi się Go i ukrywa się przed Nim, ponieważ nie zna już Jego miłości i wierności, natomiast szatan nie przestanie odtąd przekonywać człowieka o jego nagości (por. Rdz 3,11) po to, aby ten trwał w lęku przed Stwórcą.
+
+Odrzucając własną ograniczoność, wynikającą z bycia stwo­rzeniem, i sięgając po życie na własną rękę, człowiek utracił podstawowe doświadczenie przeżywania swojej relacji do Boga \[75\] jako bezinteresownego daru, na który w żaden sposób nie zasłu­giwał. Gdy za swój przyjął diabelski obraz Stwórcy jako zazdros­nego Konkurenta czy surowego Władcy Edenu, człowiek nie mógł już czuć się wobec Boga bezpiecznie w swojej nagości, to znaczy będąc _nieodziany_ we własne zasługi. Od tej pory czuje się zmuszony bronić siebie wobec Boga, który - jak sądzi - nie ko­cha go takiego, jaki jest, musi bowiem w ten sposób uzasadniać swoje prawo do istnienia oraz zdobywać ciągle na nowo i samo­dzielnie poczucie własnej wartości. Perfidia oszustwa, któremu ulegli Adam i Ewa, ukazuje się w odniesieniu do fałszywej obiet­nicy dotyczącej _otwarcia oczu,_ złożonej im przez szatana. Zamiast poznania całej rzeczywistości na sposób Boga, to znaczy panowania nad nią (por. Rdz 3,5), po grzechu pierwsi rodzice poznają jedynie swoją nagość (por. Rdz 3,7).
+
+Właśnie tutaj ma swoje źródło jeden z najbardziej dostrzegal­nych w codziennym życiu skutków grzechu pierworodnego, jakim jest ludzka niezdolność do stawania w prawdzie, przyznawania się do błędów, brania na siebie odpowiedzialności za popełnione zło i konieczność zrzucania z siebie winy (na innych, na okoliczności, ostatecznie na Boga). Człowiek, który stracił doświadczenie darmowości wszystkiego, co otrzymał od Boga, zawsze będzie dozna­wał wewnętrznego przymusu zasługiwania sobie na własne życie poprzez nieustanne potwierdzanie siebie i instynktowną obronę przed tym wszystkim, co jawi się jako negacja jego zasługi. Konkretnie widać to np. w powszechnej nieumiejętności przyzna­wania racji drugiemu w najbłahszych nawet sporach (niezależnie od tego, czy się ją ma, czy nie) - każde ustąpienie pola jest tutaj odbierane jako pozbawienie się czegoś, co jest istotne dla życia[^64].
+
+\[76\]
+
+### Struktury grzechu
+
+Gotów jestem zabić (Rdz 4,23)
+
+Widzimy następnie, jak zerwanie więzi Adama i Ewy z Bo­giem powoduje nieuchronne naruszenie łączącej ich wspólnoty. Doświadczenie wstydu wobec siebie, którego przed grzechem pierwsi rodzice nie znali, jest pochodną tego wstydu, jaki pojawił się u nich w odniesieniu do Stwórcy, a którego źródłem była - jak mówiliśmy - utrata poczucia darmowości i bezpieczeństwa wo­bec Niego. Wypaczoną relację do Boga przenosi się teraz na dru­giego człowieka, który jest przecież Jego obrazem i niejako re­prezentantem. Bliźni jawi się już nie jako niezbędne dopełnienie własnego „ja", jako dana od Boga _pomoc_ w realizacji siebie jako obrazu Boga, lecz jako zagrożenie dla własnego życia, które po grzechu postrzega się jako własność prywatną, którą należy ochraniać za wszelką cenę. Dlatego właśnie na pytanie Boga o przyczynę nagości Adama (por. Rdz 3,11) ten broni siebie, zrzucając winę na niewiastę, a ostatecznie obarcza odpowiedzial­nością za popełniony grzech samego Boga: „(…) którą postawiłeś przy mnie" (Rdz 3,12) - Ty to uczyniłeś. Jest gotów raczej po­święcić drugiego dla siebie, aby ocalić własne życie (wobec Bożej zapowiedzi: _niechybnie umrzesz_ - Rdz 2,17), niż wziąć winę na siebie i tak ocalić niewiastę. Ona postępuje podobnie: nie umiejąc stanąć przed Bogiem w nagości (prawdzie) wobec popeł­nionego zła, próbuje usprawiedliwiać siebie i całą winę przypisu­je wężowi (por. Rdz 3,13). W taki sposób dokonało się całkowite odwrócenie pierwotnego zamysłu stwórczego wobec człowieka, \[77\] który spełnia siebie jako obraz i podobieństwo Boga właśnie przez poświęcanie siebie, tracenie życia dla drugiego.
+
+Z powyższego wynika, że każdy grzech, chociaż jest aktem konkretnej osoby (a nie grupy czy społeczności), ma wymiar społeczny: niszcząc relację człowieka do Boga, niejako automa­tycznie dotkliwie rani i burzy więź międzyludzką[^65]. Te dwie re­lacje są nierozerwalnie ze sobą powiązane - zawsze, kiedy czło­wiek przez grzech narusza swój związek z Bogiem, wtedy jakoś, bezpośrednio lub pośrednio, _odbija się_ to i przenosi na jego rela­cję z bliźnim[^66], albowiem tracąc oparcie dla swego życia w Bo­gu, odczuwa on wewnętrzny przymus do szukania oparcia w drugim, a nie może go znaleźć inaczej, jak tylko na różne \[78\] sposoby _używając_ go dla siebie, podporządkowując go sobie i wy­korzystując dla swoich celów, co bardzo często pozostaje nie­uświadomione[^67].
+
+Społeczny charakter grzechu powoduje, że zło (którego bez­pośrednim źródłem są konkretne grzechy konkretnych ludzi) ma zdolność do _kumulowania się_ w strukturach społecznych (w in­stytucjach, w prawodawstwie) oraz do utrwalania się w przekazy­wanych poprzez pokolenia wzorcach myślenia i postępowania, aż do powstania całych _struktur grzechu_[^68]. W dalszej kolejności Pismo święte ukazuje, jak ten rozłam pogłębia się we wspólnocie ludzkiej - brat zabija brata (por. Rdz 4,1-16), a przemoc staje się prawem w stosunkach międzyludzkich, które opiewa okrutna pieśń Lameka: „Gotów jestem zabić człowieka dorosłego, jeśli on mnie zrani, i dziecko - jeśli mi zrobi siniec!" (Rdz 4,23). Obrazem całkowitego skłócenia rodziny ludzkiej w wyniku grze­chu jest historia miasta i wieży Babel (por. Rdz 11,1-9). Przekazuje ona istotną prawdę, że pominięcie Boga jako źródła i celu ludz­kiego działania jest jednoznaczne z podziałem wśród ludzi.
+
+\[79\]
+
+W taki sposób Księga Rodzaju przedstawia narodziny charak­terystycznej dla człowieka po upadku _mentalności najemnika,_ którą już w naszych poprzednich rozważaniach opisaliśmy jako mentalność Kaina-zabójcy. Ona sprawia, że człowiek nie czuje się już dziedzicem Edenu, gdzie wszystko należy do niego jako bez­warunkowy dar Stwórcy, lecz jest zmuszony do zdobywania tego, co było darem, _w pocie swego oblicza_ (Rdz 3,19). Kiedy z hory­zontu znika Stwórca, który kocha i bezinteresownie daje istnienie, jedynym źródłem życia dla człowieka jest on sam i jego wysiłek - dlatego pozostaje skazany na nieustanne potwierdzanie siebie własnymi siłami. Nie czując się bezwarunkowo kochany, kieruje się nieodpartą potrzebą kochania siebie w drugich poprzez rozma­ite formy _używania_ ich dla siebie. Człowiek, dobrowolnie podci­nając korzenie swojego bytu, musi teraz szukać podstaw swego istnienia, jest zmuszony, aby być kimś dla kogoś.
+
+W pierwszych trzech rozdziałach tego studium staraliśmy się wypowiedzieć i opisać tajemnicę nieprawości obecną w ludzkim życiu. Zobaczyliśmy wewnętrzny dynamizm szatańskiej pokusy i mechanizm ludzkiej decyzji odwrócenia się od Boga, co czło­wieka „obdarło z dóbr nadprzyrodzonych, a zraniło w dobrach doczesnych"[^69], które były jego udziałem przez stworzenie na ob­raz Boży. W ten sposób człowiek, wewnętrznie zniewolony przez złego ducha, _stal się umarłym z powodu grzechu i niezdolnym zbliżyć się do Boga_[^70]. „Gdzie jednak wzmógł się grzech, tam jesz­cze obficiej rozlała się łaska" (Rz 5,20). W tym tragicznym stanie otwiera się życiu człowieka i całej ludzkości tajemnica zbawie­nia, będąca _od początku_ przedmiotem obietnicy.
+
+## Nie pozostawiłeś go pod władzą śmierci
+
+Pierwszym elementem Dobrej Nowiny było obwieszczanie wierności Boga, który w osobie Jezusa Chrystusa wypełnia ostatecznie swój zamysł wobec narodu wybranego, a za jego pośrednictwem - wobec „wszystkich, którzy są daleko, a których powo­ła Pan Bóg nasz" (Dz 2,39). Chodzi tu o realizację tego projektu, który Stwórca _na początku_ zamierzył wobec człowieka, stwarza­jąc go na swój obraz - podobnego sobie, aby posiadał siebie w bezwarunkowym dawaniu siebie innemu i tak tworzył z nim więź życia. Ta wspólnota ludzka na obraz Boży realizuje się po­przez miłość, rozumianą jako bezinteresowny dar z samego siebie, który zakłada konieczność tracenia siebie dla drugiego. Właśnie miłość stanowi treść życiodajnego Prawa, które Bóg najpierw wpisał w naturę człowieka, a następnie potwierdzał wielekroć, przede wszystkim zawierając z nim różne przymierza, poczynając od przeklęcia węża oraz zapowiedzi trwałej nieprzyjaźni pomię­dzy szatanem a niewiastą i jej potomstwem (por. Rdz 3,15).
+
+### Maryja
+
+Wprowadzam nieprzyjaźń między ciebie a niewiastę (Rdz 3,15)
+
+Trzeci rozdział Księgi Rodzaju, pośród opisu tragicznych kon­sekwencji ludzkiego grzechu, zawiera obietnicę ingerencji zbaw­czej Boga poprzez zniszczenie owej zgubnej przyjaźni między \[81\] pierwszą niewiastą a wężem, przyjaźni, która doprowadziła ro­dzaj ludzki do upadku: „Wprowadzam nieprzyjaźń między ciebie a niewiastę, pomiędzy potomstwo twoje a potomstwo jej: ono zmiażdży ci głowę, a ty zmiażdżysz mu piętę" (Rdz 3,15). Postaramy się wskazać na istotną z naszego punktu widzenia treść tej obietnicy, którą tradycja chrześcijańska określiła mianem _Protoewangelii_.
+
+_Z_ naszych poprzednich rozważań wynika jednoznacznie, że pojęcia grzechu nie można zredukować do rzeczywistości tylko jurydycznej, przez którą człowiek zaciąga abstrakcyjny dług i znajduje się w hipotetycznym stanie winy, podczas gdy on sam nie zostaje zraniony, grzech bowiem dotyka człowieka w ontycz­nej głębi, niszczy jego stwórczą konstrukcję i czyni go nieszczęś­liwym. W konsekwencji, dzieło zbawienia człowieka, czyli wy­zwolenia go z niewoli grzechu, które zwiastują słowa Protoewangelii, musi się dokonać w tym samym _miejscu,_ gdzie rozegrał się dramat upadku, to znaczy w głębinach ludzkiego bytu, w jego _sercu._ W tym sensie należy rozumieć zapowiedź _zmiażdżenia gło­wy_ szatana - jako zniszczenie podstępnej mocy grzechu i jego skutków u samego ich źródła, wyrwanie z serca człowieka korze­nia tkwiącego w nim zła. Tak rozumiane dzieło zbawcze wymaga takiej samej ingerencji Boga w życie człowieka, jaka dokonała się podczas jego kreacji. W gruncie rzeczy chodzi więc tutaj o _nowe stworzenie,_ i to w sensie bynajmniej nie metaforycznym, albo­wiem wobec potęgi zła i grzechu nieskuteczne muszą pozostać wszelkie sposoby powierzchownego pojednania się z Bogiem i zewnętrzne formy tego pojednania: „Bo ani obrzezanie nic nie znaczy, ani nieobrzezanie, tylko nowe stworzenie" (Ga 6,15).
+
+W tej perspektywie jako niezwykle ważna dla zrozumienia istoty chrześcijańskiego kerygmatu jawi się postać _Niewiasty_ z Protoewangelii, w tradycji chrześcijańskiej utożsamiana z Ma­ryją. \[82\] _Nową Ewą,_ Matką Syna Bożego i Matką nowego stworze­nia. Maryja jest obrazem czy figurą zarówno całego Kościoła, jak i każdego chrześcijanina - w Niej jako pierwszej Bóg przez Chrystusa wzorcowo zrealizował dzieło zbawienia, w Niej już dokonało się to, co Bóg zamierza wobec każdego odkupionego człowieka[^71]. Ta prawda pozwala nam traktować historię Maryi jako swego rodzaju model historii zbawienia, która realizuje się w każdym chrześcijaninie[^72]. Dotyczy to także (a może przede wszystkim) początków tej historii, która w sposób konieczny wiąże się w ekonomii zbawienia z głoszeniem i przyjęciem Dobrej Nowiny: „Skoro bowiem świat przez mądrość nie poznał Boga w mądrości Bożej, spodobało się Bogu przez głupstwo gło­szenia słowa zbawić wierzących" (1 Kor 1,21). Interesuje nas za­tem w tym miejscu treść kerygmatu, który usłyszała Maryja, oraz sposób, w jaki go przyjęła, ponieważ mają one dla nas charakter wzorcowy i wiążący. Musimy się więc odnieść do momentu zwiastowania, opisanego w Ewangelii św. Łukasza, podczas któ­rego zapowiedziana na początku nieprzyjaźń pomiędzy szatanem a Niewiastą wchodzi w kulminacyjną fazę.
+
+Teologia biblijna pozwala nam opis wydarzenia w Nazarecie potraktować jako swego rodzaju odwrócenie czy antytezę kusze­nia w Edenie z trzeciego rozdziału Księgi Rodzaju[^73]. Oto _nowa_ Ewa staje wobec innego anioła, głoszącego Dobrą Nowinę, że Bóg ją kocha i błogosławi jej, że jest z nią i dlatego nie musi się bać (por. Łk 1,30), a to właśnie stanowi radykalne przeciwień­stwo owej złej nowiny, którą na początku ojciec kłamstwa głosił _starej_ Ewie. Odkrywamy tutaj drogę wybraną przez Boga dla realizacji zbawienia, czyli przepowiadanie Słowa - _anioł_ znaczy tyle, co _posłaniec_ czy _zwiastun_ (hebr. _malak_, gr. _angelos,_ łac. _an­gelus)_, co odpowiada dokładnie funkcji _apostoła, wysłannika, emisariusza_ (gr. _apostello -_ wysyłam, deleguję)[^74].
+
+Sercem kerygmatu, który Maryja usłyszała od wysłannika, są słowa obietnicy: „Oto poczniesz i porodzisz Syna, któremu nadasz imię Jezus. Będzie On wielki i będzie nazwany Synem Najwyższego" (Łk 1,31). Zwiastun ogłasza, że w życiu Maryi wydarzy się coś, co przekroczy całkowicie możliwości _starego_ stworzenia, bo narodzi się stworzenie _nowe_ - w Maryi pocznie się Syn Boży. Dotykamy tutaj samej istoty i celu przepowiadania _Słowa,_ które ma moc stać się w człowieku _ciałem._ Nie jest to by­najmniej przenośnia, lecz stwierdzenie niosące w sobie najwięk­szy ciężar ontologiczny. Posługa zwiastowania Słowa Bożego w Kościele - związana zawsze z sakramentalnym znakiem i uwa­runkowana osobistą dyspozycją słuchacza - to wydarzenie _zapładniania_, powoływania nowego życia w człowieku, który jako stare stworzenie jest bezpłodny, czyli niezdolny do dawania życia poprzez tracenie go (miłości)[^75]. W gruncie rzeczy kerygmat \[84\] Kościoła niesie w sobie jedyną istotną obietnicę skierowaną do słuchającego: „Oto w tobie pocznie się i narodzi nowe stworze­nie, syn Boży, który będzie znał Boga jako Ojca i dlatego potrafi kochać drugiego jako brata" - a to nic innego, jak odpuszczenie grzechów, wybawienie z niewoli, życie wieczne.
+
+W świetle naszych poprzednich rozważań jest oczywiste, że taka radykalna nowość w człowieku nie może się pojawić w sposób naturalny, to znaczy jako owoc ludzkiego wysiłku. Ewangelia zwiastowania wyraża tę niezdolność ludzkiej natury w pytaniu Maryi: „Jakże się to stanie, skoro nie znam męża?" (Łk 1,34). Jak to możliwe, aby słaby człowiek mógł naśladować w swoim postępowaniu Jezusa, kochać i przebaczać tak jak On? W jaki sposób, mając naturę Kaina, będzie mógł żyć według Kazania na Górze? Odpowiedź - tak w przypadku Maryi, jak i każdego ucznia Jezusa - jest zawsze taka sama: „Duch Święty zstąpi na Ciebie i moc Najwyższego osłoni Cię" (Łk 1,35). Poczęcie i narodziny nowego stworzenia są możliwe tylko jako bezinteresowny dar Boga, owoc działania Ducha Świętego: „To, co się z ciała narodziło, jest ciałem, a to, co się z Ducha narodzi­ło, jest duchem" (J 3,6) - „Duch daje życie; ciało na nic się nie przyda. Słowa, które Ja wam powiedziałem, są duchem i są ży­ciem" (J 6,63).
+
+Ostatnim i decydującym elementem w wydarzeniu przepowia­dania Dobrej Nowiny jest wiara jej adresata, jego _amen_ wobec usłyszanej obietnicy, bez którego nowe stworzenie nie może się począć: „Oto ja służebnica Pańska, niech mi się stanie według twego słowa" (Łk 1,38). Słychać w tym przyzwoleniu _nowej_ Ewy antytezę tej zgody, którą wyraziła _stara_ Ewa na początku, tyle że na przepowiadanie złego anioła w dokładnie odwrotnym celu - nie aby dawać życie, lecz aby je zabić. To wzorcowe przyjęcie Dobrej Nowiny przez Maryję - podobnie jak w przypadku każde­go \[85\] wierzącego - stanowi realizację zapowiedzi z Księgi Rodzaju o nieprzyjaźni z szatanem i rzeczywiste zmiażdżenie jego głowy, głoszenie Ewangelii bowiem rozpoczyna w człowieku proces odkłamywania jego spojrzenia na rzeczywistość i wyrwanie z je­go serca ościenia śmierci.
+
+W tym kontekście warto sobie uświadomić, że uprzywilejowa­nym „miejscem" takiego słuchania i przyjmowania Słowa, które staje się Ciałem, jest Eucharystia: _amen_ wypowiadane przez całe zgromadzenie po modlitwie eucharystycznej i przez każdego przyjmującego komunię stanowi - podobnie jak _fiat_ Maryi - an­tytezę słów Ewy i odpowiedź na zwiastowanie Dobrej Nowiny[^76]. Słowo _amen_ nie jest więc tylko uznaniem prawdy, że ten kawałek chleba to Ciało Chrystusa, ale przede wszystkim, że Ciało to zo­stało \[86\] wydane i złamane, aby nam udzielić mocy łamania niewoli naszego egoizmu i nas uzdalniać do wydawania siebie dla in­nych. Jezus w swoim Ciele eucharystycznym ukazuje nową rze­czywistość, demaskuje pierworodne kłamstwo, wykazuje, że można umierać za drugiego, a tym samym żyć w pełni. Takie rozumienie i przeżywanie tajemnicy Eucharystii pozwala uznać, że jedyną nagrodą za łamanie swego życia jest to właśnie (i tylko to!), że można je łamać, i jedyną zapłatą za tracenie swego życia jest to, że można je tracić, ponieważ żyć w taki sposób znaczy mieć w sobie naturę Syna Bożego, naturę Trójcy Świętej, czyli miłość. Tak realizuje się odwieczne pragnienie człowieka, aby „być jak Bóg" (por. Rdz 3,4), ale dokonuje się to przez umieranie dla innych, a nie przez zachowanie swego życia dla siebie, jak chciał szatan[^77].
+
+### Abraham
+
+Przez ciebie będą otrzymywały błogosławieństwo ludy (Rdz 12,3)
+
+Z nakreślonej tu perspektywy można spojrzeć w szczególny sposób na historię patriarchy Abrahama, która zapowiada wiarę \[87\] Maryi. Chodzi tutaj przede wszystkim o postać Izaaka, syna obietnicy, w odróżnieniu od Izmaela – owocu wysiłków Abrahama (por. Rz 9,6-9). Izaak to dar Boga, zrodzony z całkowicie nie­płodnego łona, wbrew ludzkiej logice i doświadczeniu, a jako taki jest typem i zapowiedzią Chrystusa (por. J 8,56).
+
+Gdy Bóg wkracza w życie starego Abrama, jest ono po ludzku nieudane, ponieważ brakuje mu syna i własnej ziemi, nieodzow­nych dla nomady - Sara była bezpłodna, a cała ziemia Aramu na­leżała do króla chaldejskiego. Abram jako politeista z pewnością zwracał się o ratunek do wszystkich znanych mu bogów, którym zapewne złożył wiele ofiar, ale nie otrzymał pomocy. W sytuacji bankructwa interweniuje w jego życie jakiś nieznany mu Bóg, któremu nie składał nigdy żadnych ofiar, i obiecuje mu liczne po­tomstwo oraz nieznany kraj na własność. Aby się spełniła ta zapo­wiedź, Abram musi opuścić Ur, zostawić swój klan, zrezygnować z poczucia bezpieczeństwa, jakie tam miał (por. Rdz 12,1-8). Patriarcha „wbrew nadziei uwierzył nadziei" (Rz 4,18), którą da­wało słowo bezimiennego Boga, i wyruszył w drogę, nie wiedząc dokąd idzie. Czeka go jednak długi i trudny czas, kiedy spotykały go same niepowodzenia: ziemię Kanaan zamieszkiwały ludy, z którymi musi toczyć wojnę o przetrwanie; z powodu głodu wę­druje do Egiptu, gdzie mógł stracić Sarę; musi rozstać się ze swo­im bratankiem Lotem i ratować go z opresji (por. Rdz 12-14), a tymczasem, gdy nieznany Bóg milczy, Abram czuje się opuszczony, zaczyna wątpić. W tej udręce woła do Boga, który ponawia obietnicę potomstwa licznego jak gwiazdy i kraju Kanaan na włas­ność (por. Rdz 15,5-7), \[88\] Abram jednak prosi o gwarancję, zapew­nienie prawdziwości obietnic (por. Rdz 15,8). W odpowiedzi Bóg zawiera z nim przymierze według zwyczaju tamtej epoki, co pole­gało na przejściu przez obie strony między rozpołowionymi ciała­mi zwierząt, a więc na zadeklarowaniu swojej gotowości na taką samą śmierć w przypadku złamania tego przymierza. Na wezwa­nie Boga Abram przygotował przepołowione zwierzęta, ale tylko Bóg przeszedł przez środek w postaci ognistego słupa nie pozwa­lając, aby to samo uczynił Abram[^78]. Jest to więc przymierze jedno­stronne, które oznacza, że Bóg wziął wyłącznie na siebie odpo­wiedzialność za jego wypełnienie i dotrzymanie związanej z nim obietnicy, niezależnie od niewierności Abrama (por. Rdz 15,17).
+
+To przymierze Boga z Abramem znalazło ostateczne wypeł­nienie w osobie Jezusa Chrystusa w Przymierzu określanym jako _nowe,_ zawartym na krzyżu, albowiem ludzkość - potomkowie Abrahama - nie zachowali przymierza z Bogiem i złamali je przez swój grzech, lecz Bóg wobec niewierności człowieka nie pozostawił go samemu sobie i nie pozwolił, aby umarł z powodu własnej nieprawości, ale sam wziął na siebie ciężar grzechu. Bóg pozwolił, aby Jego Syn niesprawiedliwie wycierpiał za nas to, co słusznie nam się należało, i w ten sposób w Jezusie Chrystusie okazał swoją ostateczną wierność obietnicy i przymierzu z Abra­hamem. Cały Kościół przypomina to sobie codziennie, kiedy powtarza w kantyku Zachariasza: „(…) zapowiedział to (…) przez usta swych świętych proroków (…), że miłosierdzie okaże ojcom naszym i wspomni na swoje święte Przymierze - na przysięgę, którą złożył ojcu naszemu, Abrahamowi" (Łk 1,70-73).
+
+\[89\]
+
+Dalsze dzieje Abrahama pokazują, jak dobrze znał go Bóg i jak trafnie przewidział jego słabość. Abram nie chce czekać, postana­wia przejąć inicjatywę i zamierza własnymi siłami wypełnić Bożą obietnicę: za radą Sary postanawia sam dać sobie syna z niewolni­cy Hagar. Tak narodził się Izmael – w alegorycznej interpretacji św. Pawła - symbol ludzkich starań i wysiłków Abrama, zmierza­jących do upragnionego celu (por. Ga 4,22-28). Był to jednak wyraz nieufności z jego strony wobec Boga, który sam zobowią­zał się do udzielenia tego daru. Abram doświadczył gorzkich kon­sekwencji swojego postępowania: doszło do ostrego konfliktu pomiędzy kobietami i Abram musiał wygnać Izmaela wraz z mat­ką na pustynię. W sytuacji szczególnej udręki Bóg objawia się Abramowi po raz kolejny za pośrednictwem trzech wędrowców (por. Rdz 18)[^79] i zapewnia go o narodzinach syna, który nie będzie owocem jego wysiłków, lecz synem obietnicy, danym przez Boga wiernego swojemu przymierzu. Po narodzeniu Izaaka jego ojciec - zgodnie z ówczesnym zwyczajem - wyniósł go przed swój na­miot i mógł się cieszyć, widząc spełnienie Bożego słowa.
+
+Właśnie do tej radości odwołuje się Chrystus podczas dyskusji ze starszymi Izraela, zapisanej w Ewangelii św. Jana: „(…) Abraham, ojciec wasz, rozradował się z tego, że ujrzał mój dzień - ujrzał \[go\] i ucieszył się" (J 8,56). Abraham, żyjący setki lat wcześniej, ujrzał Jezusa i ucieszył się, gdy trzymał na ręce swego nowo narodzonego syna, ponieważ Izaak jest zapowiedzią i figu­rą Mesjasza, który miał przyjść. Z tego powodu Abrahama nazy­wa się _Ojcem naszej wiary_, a jego historia dotyka i obchodzi \[90\] każdego wierzącego, chrześcijanin bowiem nosi w sobie tę samą obietnicę, którą otrzymał Abraham i która najpełniej zrealizowała się w Maryi, że w nim pocznie się człowiek stworzony „na wzór obrazu Jego Syna" (Rz 8,29) - nowe stworzenie, a nie efekt ludz­kiego działania.
+
+Po spotkaniu Abrahama z Bogiem pod dębami Mamre ma miejsce epizod, ważny dla ukazania obietnicy zbawienia, którą Bóg zapowiada w historii Abrahama. Chodzi mianowicie o za­miar zniszczenia Sodomy z powodu niemoralnego postępowania jej mieszkańców, zamiar objawiony przez Boga Abrahamowi. Jego modlitwę wstawienniczą za mieszkańców tego miasta (por. Rdz 18,23-33) przedstawiono jako specyficzny dla kultury semic­kiej targ dwóch stron, z których jedna stara się, krok po kroku, zaniżyć cenę towaru, aby nabyć go po najniższej cenie. Każdy tego rodzaju handel rozpoczyna się od podania przez obie strony kwoty maksymalnej i minimalnej, a następnie stopniowo docho­dzi się do jej wypośrodkowania. Na tym tle dziwi niezwykła uległość Boga wobec próśb Abrahama - brak tu śladów oporu, żadnego szukania kompromisu czy negocjowania ceny: w tym targu stratę ponosi tylko Bóg. To wyłącznie Jego kosztem ma się dokonać przebaczenie grzesznikom, przy czym On nie wyznacza ceny, którą jest gotów zapłacić za ludzki grzech, nie ustala granic, ile może Go kosztować miłosierdzie okazane człowiekowi. Idąc za logiką targowania się Abrahama: 50 - 40 - 30 - 20 - 10, jego następną i zarazem ostatnią ofertą powinno być: Panie, gdyby znalazł się tam jeden Sprawiedliwy?
+
+Sens i waga modlitwy Abrahama ukazują się w świetle doko­nanego już w Chrystusie dzieła przebaczenia wszystkim grzesz­nikom świata, których mieszkańcy Sodomy byli symbolem. Los tego miasta (zagłada i zniszczenie) są obrazem tego, co słusznie miało spotkać każdego człowieka, gdyby nie znalazł się ten jeden \[91\] Sprawiedliwy. To jego właśnie zapowiada owo targowanie się Abrahama z Bogiem, to On jawi się w niezwykłej uległości Boga wobec patriarchy. Ta łagodność czy wręcz potulność, z jaką Bóg ustępował przed naleganiem Abrahama, wskazywała na Tego, który miał przyjść i nie stawiać oporu złemu (por. Mt 5,39), ale być „jak baranek na rzeź prowadzony, jak owca niema wobec strzygących ją" (Iz 53,7). Bóg ostatecznie weźmie na siebie cały ciężar pojednania grzesznej ludzkości z sobą, kiedy pośle swego jedynego Syna, który jako jedyny Sprawiedliwy obciążył siebie skutkami naszych grzechów i pozwolił, aby ludzkie zło dotknęło Go i zabiło: „Wszyscyśmy pobłądzili jak owce, każdy z nas się obrócił ku własnej drodze, a Pan zwalił na Niego winy nas wszystkich" (Iz 53,6).
+
+Abraham po wielu latach mógł oglądać realizację Bożych obietnic w osobie swego syna Izaaka i przekonać się w ten sposób o działaniu Boga w swoim życiu. Pomimo tak długiej drogi wiary, którą przeszedł, nie przestał być człowiekiem kruchym i skłon­nym do upadku. Kiedy obietnica Boga wypełniła się i patriarcha otrzymał upragnionego syna, oddał mu całe swoje serce, wszyst­kie swoje siły i całą uwagę poświęcił teraz jemu, zapominając o Bogu - Abraham stał się na powrót idolatrą: uczynił sobie boż­ka z Izaaka i odwrócił swoje serce od Tego, kto mu go ofiarował. W tej sytuacji Bóg powiedział: „Weź twego syna jedynego, któ­rego miłujesz, Izaaka, idź do kraju Moria i tam złóż go w ofierze" (Rdz 22,2). Ten _okrutny_ nakaz Boga pozornie przeczy całkowi­cie Jego dotychczasowemu postępowaniu względem Abrahama, w rzeczywistości jednak okaże się wyrazem troski i miłości Boga, który zna człowieka i wie, że nic stworzonego (nawet umi­łowany syn) nie może uczynić go naprawdę szczęśliwym. Wobec tej próby ukazuje się postawa wiary. Wiara nie jest dla Abrahama religijną teorią czy ideą, lecz konkretnym życiowym doświadczeniem, \[92\] do którego teraz może się on odnieść i na którym może się oprzeć (por. Rdz 22,3). Abraham nie przeklina swego życia i nie złorzeczy Bogu, lecz wchodzi w nawrócenie - uznaje swoje bał­wochwalstwo i jest gotów ofiarować syna. Posłuszeństwo wiary Abrahama to nie jego zasługa, lecz dar Boga, który prowadził Abrahama od Ur chaldejskiego aż do góry Moria i przygotowywał go do tego, aby mógł być ojcem wiary dla następnych pokoleń[^80].
+
+Próba Abrahama nabiera pełnego sensu dopiero w osobie Je­zusa Chrystusa - to Jego figurą jest Izaak wnoszący na górę drew­no potrzebne do złożenia ofiary, podobnie jak na Golgotę wnoszo­ny był krzyż. On także jest proroczo przedstawiony w owym ba­ranku, znalezionym przez Abrahama w cierniach na górze Moria i złożonym w ofierze zamiast syna Izaaka. Właśnie w tym kon­tekście św. Paweł pisze, że Bóg, który oszczędził jedynego syna Abrahama, nie oszczędził swego jedynego Syna, ale wydał Go na śmierć po to, by synowie Abrahama nie musieli umierać (por. Rz 8,32), Jezus Chrystus bowiem został przewidziany jako „Baranek Boży, który gładzi grzech świata" (J 1,29), to znaczy niewiarę w Boga jako Ojca. On został przewidziany jako ratunek dla tych, którzy na skutek nieufności względem Boga Ojca są idolatrami, ponieważ szukają szczęścia i miłości poza Nim.
+
+### Józef
+
+Bóg jednak zamierzył to jako dobro (Rdz 50,19)
+
+Historia Józefa egipskiego ma znaczenie wzorcowe, ponieważ w niej może się odnaleźć każdy bez wyjątku człowiek z własną, \[93\] także bolesną historią. Patriarcha doświadczył bowiem wiele przeciwności ze strony ludzi i nie mniejszych ze strony Boga. W jego życiu Bóg Abrahama, Izaaka i Jakuba nie postępował tak, jakby tego wymagał powszechny religijny schemat, według które­go Bóg jest obrońcą człowieka sprawiedliwego przeciwko jego wrogom. Wręcz odwrotnie - ilekroć Józef wychodził z opresji sprowokowanej przez swoich przeciwników i jego los zaczął się poprawiać, tylekroć w jego życie wkraczał Bóg, aby zburzyć tę kruchą stabilizację. I tak, chociaż najmłodszy z rodzeństwa za­skarbia sobie miłość swego ojca Jakuba i jest przez niego wyróż­niany, to jego bracia „tak go znienawidzili, że nie mogli zdobyć się na to, aby przyjaźnie z nim porozmawiać" (Rdz 37,4), dlatego usiłują go zgładzić i sprzedają jako niewolnika Izmaelitom (por. Rdz 37,23-36). Kiedy jako niewolnik zaskarbia sobie uznanie Potifara, zostaje ono zniszczone krzywdzącym oskarżeniem przez żonę dostojnika i niezasłużoną karą więzienia (por. Rdz 39,1-20). Tam Józef potrafił zyskać przychylność i zaufanie naczelnika, dzięki czemu mógłby wyjść na wolność, ale i tym razem na dro­dze staje niewdzięczność podczaszego, krzyżująca jego plany.
+
+We wszystkich tych utrapieniach i prześladowaniach patriar­cha Józef miał niezwykłe spojrzenie na własne życie i na zło, które zwaliło się na niego. Wobec swoich braci, przerażonych perspektywą sprawiedliwej zapłaty za ich postępowanie, Józef w taki sposób interpretuje swoją historię: „Ale teraz nie smućcie się i nie wyrzucajcie sobie, żeście mnie sprzedali. Bo dla wasze­go ocalenia od śmierci Bóg wysłał mnie tu przed wami (…). Bóg mnie wysłał przed wami, aby wam zapewnić potomstwo na zie­mi i abyście przeżyli dzięki wielkiemu wybawieniu. Zatem nie wyście mnie tu posłali, lecz Bóg, który też uczynił mnie doradcą faraona, panem całego jego domu i władcą całego Egiptu" (Rdz 45,5-8). Ten zadziwiający sposób widzenia własnej rzeczy­wistości \[94\] przez Józefa polega na postrzeganiu wszystkiego nieja­ko _od strony_ Boga, Jego oczyma, co pozwala przyjmować jako _dobro_ z ręki Boga to, co jest _złem_ wyrządzonym przez ludzi: „Wy niegdyś knuliście zło przeciwko mnie, Bóg jednak zamierzył to jako dobro, żeby sprawić to, co jest dzisiaj, że przeżył wielki na­ród" (Rdz 50,19-20).
+
+Wobec powyższego wolno nam metaforycznie rozumieć sło­wa z Księgi Wyjścia o nowym faraonie Egiptu, który nie znał Józefa (por. Wj 1,7-8). Określenie _znać Józefa_ nabiera tutaj głęb­szego sensu jako określenie postawy życiowej wobec napotyka­nych w życiu przeciwności. _Znać Józefa_ oznacza zatem, że w szczególnym świetle widzi się dzieje - własne i innych - co pozwala zobaczyć mądrą miłość Boga wszędzie tam, gdzie po ludzku tej miłości się nie dostrzega, gdzie człowiek jest popycha­ny do zemsty i jakby skazany na rozpacz. _Znać Józefa_ to znaczy także pojednać się naprawdę z własnym życiem, pojmując je - ta­kie, jakie jest - jako historię, którą Bóg, w dialogu z ludzką wol­nością, tworzy z każdym bez wyjątku człowiekiem dla jego zba­wienia. _Znać Józefa_ wreszcie to nieustannie doświadczać, że ży­cie - także to najbardziej zmarnowane i wykolejone - dzięki Bogu może mieć sens, przy czym nie chodzi tutaj o zacieranie wyraźnej granicy pomiędzy dobrem i złem lub o bezkrytyczne traktowanie Boga jako instytucji odwoławczej od naszych błęd­nych wyborów i klęsk przez nie spowodowanych. Bóg nie _obra­ca ku dobremu_ ludzkiego grzechu, lecz czyni go okazją do sku­tecznego ukazania się Jego zbawczego działania w ludzkiej histo­rii. Przypisywanie Bogu tego, co uczynili ludzie, tylko wtedy nie jest naiwnym złudzeniem i rozpaczliwą ucieczką od bolesnej rze­czywistości, kiedy opiera się na takiej intymnej relacji człowieka do Boga, która nie jest efektem ludzkich starań, lecz owocem Bożego działania.
+
+\[95\]
+
+### Dawid
+
+Ja będę mu ojcem, a on będzie Mi synem (2Sm 7,14)
+
+Biblijne opowiadanie o życiu króla Dawida to historia darmowości i łaskawości Bożej, stanowiącej zapowiedź i obietnicę re­konstrukcji w człowieku i w ludzkiej wspólnocie pierwotnego doświadczenia ufności wobec Boga. Był najmłodszym synem, którego nawet nie zaproszono, gdy prorok Samuel przybył do jego domu, aby spośród braci wybrać przyszłego króla. Jednak to wła­śnie jego - ostatniego ze wszystkich - prorok namaścił na króla po Saulu: „(…) nie tak bowiem człowiek widzi, &lt;jak widzi Bóg&gt;" (1 Sm 16,7). Od tego momentu Dawida ogarnął Duch Boży i za Jego przyczyną wsławił się pokonując Goliata i walcząc z Filisty­nami. Powodzenie Dawida sprowadziło na niego zazdrosny gniew Saula, który zobaczył w nim konkurenta do tronu. Jednak Dawid, dzięki Bożej opiece, wyszedł cało z wszystkich opresji i w końcu został królem całego Izraela. Po zwycięstwie nad Filistynami król Dawid założył stolicę swego państwa w Jerozolimie, zbudował tam piękny pałac z drewna cedrowego i uroczyście sprowadził do miasta Dawidowego Arkę Przymierza.
+
+Wtedy, „Gdy król zamieszkał w swoim domu, a Pan poskromił wokoło wszystkich jego wrogów" (2 Sm 7,1), Dawid poczuł sa­tysfakcję z dokonanego dzieła i zapragnął odwdzięczyć się Twórcy swojej potęgi, a jako wyraz czci postanowił zbudować świątynię dla Arki Przymierza, na wzór sanktuariów, jakie miały ościenne narody. Dawid nie chciał dłużej trwać przed Bogiem w doświadczeniu darmowości, czyli w przekonaniu, że wszystko, co ma i kim jest, zawdzięcza tylko i wyłącznie Bogu, a nie sobie samemu. Król wolał zapłacić za łaskę i niejako wyrównać ra­chunki, ale naprawdę chodziło mu o uwolnienie się od moralnej zależności od Jahwe i uczynienie królestwa Izraela tylko swoim \[96\] własnym. Plan Dawida zmierzał ostatecznie do pewnego subtelnego zapanowania nad Bogiem, jak się panuje nad kimś, komu spłaciło się już wszystkie długi, wobec kogo nie ma się już żadnych zobowiązań i jest się od niego wreszcie niezależnym[^81]. Bóg, za pośrednictwem proroka Natana, sprzeciwia się królewskim planom i nie zgadza się na budowę świątyni, lecz wzywa króla do nawrócenia, przypominając jego historię, i uświadamia, że Dawid nigdy się Mu nie zdoła odwdzięczyć – musi pozostać przed Nim w sytuacji dłużnika: „To mówi Pan Zastępów: Zabrałem cię z pastwiska spośród owiec, abyś był władcą nad ludem moim, nad Izraelem. I byłem z tobą wszędzie, dokąd się udałeś, wytraciłem przed tobą wszystkich twoich nieprzyjaciół. (…) Od czasu kiedy ustanowiłem sędziów nad ludem moim izra­elskim, obdarzyłem cię pokojem ze wszystkimi wrogami" (2 Sm 7,8-11). Po przywołaniu Dawida do rzeczywistości i ukazaniu właściwego wymiaru jego życia Bóg zapowiada, że w tej posta­wie pokory Dawid będzie trwał do końca życia, ponieważ to Bóg - znów całkowicie bezinteresownie i za darmo - wybuduje dom Dawidowi, to znaczy zapewni przyszłą wielkość jego rodzinie i uczyni ją fundamentem historii zbawienia: „Kiedy wypełnią się twoje dni i spoczniesz obok swych przodków, wtedy wzbudzę po tobie potomka twojego, który wyjdzie z twoich wnętrzności, i utwierdzę jego królestwo. On zbuduje dom imieniu memu, a Ja utwierdzę tron jego królestwa na wieki. Ja będę mu ojcem, a on będzie Mi synem, a jeżeli zawini, będę go karcił rózgą ludzi i ciosami synów ludzkich. (…) Przede Mną dom twój i twoje \[97\] królestwo będzie trwać na wieki. Twój tron będzie utwierdzony na wieki" (2 Sm 7,12-16).
+
+Po tym wydarzeniu król odniósł wiele zwycięstw nad sąsied­nimi narodami i ugruntowała się jego władza nad Izraelem. Właśnie w momencie, kiedy się wypełniały Boże obietnice i oka­zywała się wierność Boga w życiu Dawida, ulega on pokusie i popełnia straszny podwójny grzech: najpierw uwodzi Betszebę, żonę Uriasza, jednego ze swoich najbardziej oddanych żołnierzy, a kiedy ta spodziewa się dziecka, dąży do ukrycia swego uczyn­ku. Gdy to staje się niemożliwe, Dawid podstępnie posyła na pewną śmierć swego wiernego sługę, aby jego nikczemny postę­pek nie wyszedł na jaw. Jednak Bóg, za pośrednictwem Natana, demaskuje grzech Dawida (por. 2 Sm 12,7), po raz kolejny przy­pomina mu jego historię, która była pasmem Bożej łaskawości, i obnaża jego niewdzięczność. Reakcja Dawida jest jednoznacz­na: „Zgrzeszyłem wobec Pana" (2 Sm 12,13). W jego postawie nie odnajdujemy już śladu maskowania się czy usprawiedliwia­nia się własną słabością lub okolicznościami. Król nie odwołuje się do własnych racji i przysługujących mu przywilejów, nie wy­korzystuje swojej władzy, aby zamknąć usta prorokowi, ale staje w prawdzie o sobie: uznaje słuszność Bożego Prawa i jest gotów przyjąć na siebie wszystkie konsekwencje własnych czynów.
+
+Taka reakcja charakteryzuje całe postępowanie Dawida i wy­nika z jego szczególnego sposobu widzenia swojego życia w re­lacji do Boga. Pozwalał on synowi Jessego odnosić wszystko, co go spotykało, do Boga, gdzie ma to swój cel i sens, chociaż w tym momencie pozostaje zakryte i nieprzeniknione. W konsekwencji Dawid - pomimo swoich słabości - ufał Bogu bardziej niż lu­dziom i był Mu ostatecznie posłuszny. Dlatego umiał stawać przed Bogiem w prostocie jako grzesznik i nie szukać innych dróg zbawienia - czy to opierając się na własnych rozwiązaniach, \[98\] czy też na opinii innych ludzi (por. 1 Krl 9,4)[^82]. Ta sama zadziwia­jąca postawa króla Dawida dochodzi do głosu wiele razy i w róż­nych okolicznościach: kiedy nie korzysta z doskonałej okazji za­bicia Saula (por. 1 Sm 24,4-16; 26,7-16), obnażony tańczy przed Arką Przymierza (por. 2 Sm 6,9-16), przerywa post po śmierci syna (por. 2 Sm 12,20-23), a szczególnie podczas ucieczki z Jero­zolimy przed Absalomem, kiedy nie pozwala zabić Szimei, który mu złorzeczy, powołując się na suwerenne Prawo Boga do inge­rowania w jego życie: „Jeżeli on przeklina, to dlatego, że Pan mu powiedział: «Przeklinaj Dawida!» Któż w takim razie może mó­wić: «Czemu to robisz?»" (2 Sm 16,10). Dawid nie zaprzecza oskarżeniom, ale przyjmuje na siebie konsekwencje swoich grze­chów i pozwala się potraktować jako grzesznik, nie tracąc przy tym synowskiej ufności: „Może wejrzy Pan na moje utrapienie i odpłaci mi dobrem za to dzisiejsze przekleństwo" (2 Sm 16,13). Za każdym razem swoje zachowanie król tłumaczy poprzez od­niesienie do Boga i Jego wiernej miłości: „Wpadnijmy raczej w ręce Pana, bo wielkie jest Jego miłosierdzie, ale w ręce czło­wieka niech nie wpadnę!" (2 Sm 24,14). Właśnie z powodu takiej postawy grzesznego Dawida Bóg nie wahał się określać go „czło­wiekiem według swego serca" (1 Sm 13,14), a Boży Syn samego siebie nazywał _Synem Dawida_.
+
+Patrząc na życie Dawida w kontekście całej historii zbawienia, dostrzegamy ostateczną przyczynę jego wybrania i przebaczenia, którego doświadczył on i doświadczają wszyscy, którzy na jego \[99\] obraz są grzesznikami i za takich się uznają. Oni nie umierają, ponieważ zamiast nich umarł _Syn Dawida_ (por. 2 Sm 12,14)[^83]. Takim właśnie tytułem określał siebie Jezus i ewangeliści zadają sobie wiele trudu, aby na różne sposoby uzasadnić i wykazać, że Chrystusowi ten tytuł przysługuje, jest to bowiem imię Mesjasza, który był zapowiedziany jako ten, który weźmie na siebie ciężar grzechu króla Dawida, a w nim i przez niego konsekwencje grze­chu całego Izraela i każdego człowieka[^84]. Obietnica mesjańska, złożona przez Boga Dawidowi, definitywnie i całkowicie wypeł­niła się w Jezusie Chrystusie, który zbudował prawdziwy dom dla Boga (Kościół), w którym też On sam zamieszkał pośród lu­dzi. Jezus w relacji do Ojca najpełniej ukazał i zrealizował tę postawę darmowości i zależności od Boga, którą On niegdyś uka­zał w swoim słudze królu Dawidzie jako zapowiedź i przygoto­wanie. To Jezus zgodził się być królem w taki sposób, aby na ziemię przyszło królestwo Jego Ojca. Królowanie Jezusa ozna­czało całkowite zaufanie i posłuszeństwo Ojcu, życie w całkowi­tej zależności od Niego a także odrzucenie wszelkiej pokusy uwolnienia się od tej zależności. To właśnie w Chrystusie osta­tecznie realizuje się owa zadziwiająca wszystkich postawa króla Dawida, która nie była zgodna z duchem i logiką tego świata, ale wskazywała na inny świat, inną logikę oraz na innego Ducha.
+
+\[100\]
+
+### Hiob
+
+Dotąd Cię znałem ze słyszenia,
+
+obecnie ujrzałem Cię wzrokiem (Hi 42,5)
+
+Kolejny wymiar obietnicy zbawienia, na który pragniemy zwrócić uwagę, odnajdujemy w Księdze Hioba. „Żył w ziemi Us człowiek imieniem Hiob. (…) Miał siedmiu synów (…). Wstawał wczesnym rankiem i składał całopalenie stosownie do ich liczby. Bo mówił Hiob do siebie: «Może moi synowie zgrzeszyli i zło­rzeczyli Bogu w swym sercu?» Hiob zawsze tak postępował" (Hi 1,1.5). W tej profilaktycznej modlitwie Hioba dochodzi do głosu znane nam z poprzednich rozważań doświadczenie lęku, który rodzi się z nieufności wobec Boga. Hiob jest „sprawiedli­wy, prawy, bogobojny i unikający zła" (Hi 1,1), ale jednocześnie głęboko w sercu nosi strach przed utratą tego, co składa się na jego życie: zdrowie, dostatek, rodzina. Choć wierzy, że otrzymał to wszystko od Boga, to jednak w skrytości podejrzewa Go o okrucieństwo. Do kogo zatem modli się Hiob? Do Boga praw­dziwego czy też do bożka, który ma być stróżem i żyrantem jego pomyślności?
+
+Religijność podszyta lękiem sprawia, że modlitwa i całe ofiar­ne zapracowanie służą człowiekowi do zabezpieczenia się przed Bożą nieprzewidywalnością gotową zrujnować mu życie z nie­znanych powodów. Jest to pobożność polegająca na ciągłym po­zyskiwaniu Boga dla pewnej uczuciowo-materialnej koncepcji błogosławieństwa, która realizuje się poprzez stawanie przed Bogiem z gotowym scenariuszem swego życia i z oczekiwaniem tylko Jego aprobaty. Tak religijny człowiek wie dobrze, jak po­winny zostać rozwiązane jego problemy i zaspokojone jego po­trzeby - to nie Bóg jest szczęściem takiego człowieka, ale własna koncepcja szczęścia jest jego bogiem. Religia oparta na takiej \[101\] relacji do Boga byłaby tylko ludzkim wymysłem, stworzonym na obraz naszych oczekiwań (Feuerbach), narkotykiem uśmierzają­cym ból (Marks) i społeczną nerwicą (Freud). Wyznawcy takiej religii sprzedają tylko złudzenia i handlują tanią pociechą, które alienują człowieka zamiast mu pomagać i ratować go.
+
+Istnieje tylko jedna rzecz, która demaskuje taką fikcyjną rela­cję do Boga i broni człowieka przed fałszywą religijnością - krzyż, który odsłania w nim warstwy religijnych pozorów i po­maga mu odkrywać, czy służy Bogu, czy tylko posługuje się Nim; kocha czy się Go boi: „W miłości nie ma lęku, lecz dosko­nała miłość usuwa lęk, ponieważ lęk kojarzy się z karą. Ten zaś, kto się lęka, nie wydoskonalił się w miłości" (1 J 4,18). Bóg (po­zornie ulegając namowom szatana) sprowadził na Hioba cierpie­nie (Hi 1-2). Pozbawiony wszystkiego, co stanowiło dotąd jego szczęście (dobra, afekty, zdrowie), Hiob przeżywa kryzys swojej dotychczasowej wiary, zakwestionowany został bowiem sam fundament jego egzystencji, to znaczy idea Boga - prawda o Jego istnieniu, dotychczas oczywista i niepodważalna, okazała się jed­nak teorią, która teraz podlega bolesnej lustracji, a jej rezultaty Hiob odczuwa na własnej skórze (Hi 2,8). Symboliczny jest bi­blijny opis reakcji Hioba na nieszczęście, które go spotkało: „(…) wziął (…) skorupę, by się nią drapać siedząc na gnoju" (Hi 2,8). W języku hebrajskim _skorupa (heresz)_ oznacza także _gliniane naczynie, garnek._ Cały religijny system, który pozwalał Hiobowi na orientację w życiu, uległ rozbiciu jak gliniany garnek. Bóg roztrzaskał Hiobowi wiarę, dającą mu poczucie bezpieczeństwa. Ale właśnie skorupy pozostające z tego potłuczenia stają się _na­rzędziem,_ za pomocą którego Hiob, w rozdartych szatach, zdra­puje z siebie poprzedni sposób poznania Boga: „Przechowujemy zaś ten skarb w naczyniach glinianych, aby z Boga była owa przeogromna moc, a nie z nas" (2 Kor 4,7).
+
+\[102\]
+
+Nieskutecznej pomocy w tragicznym położeniu Hioba próbują udzielić mu trzej przyjaciele, interpretując jego cierpienie bądź jako karę za grzech świadomy czy ukryty, bądź w ogóle odmawia­jąc mu prawa do odpowiedzi na pytanie o sens cierpienia. Dopiero po długich i bolesnych poszukiwaniach sensu swego niezasłużo­nego bólu Hiob dochodzi do następującej konkluzji: „Dotąd Cię znałem ze słyszenia, obecnie ujrzałem Cię wzrokiem" (Hi 42,5). Do tej pory Hiob znał Boga tylko teoretycznie, na podstawie tego, co przekazano mu w religijnej tradycji. Tymczasem trudne do­świadczenie, które go dotknęło, otwiera przed nim możliwość ja­kościowo innego, osobistego poznania, określonego _widzeniem_ Boga jako Ojca, to znaczy jako Tego, który kocha człowieka za­równo wtedy, gdy ten obfituje we wszystko, jak i wtedy, gdy sie­dzi na kupie gnoju i drapie się skorupą. Oto jest odkrycie Hioba, do którego Bóg prowadził go drogą cierpienia, po to, aby nie znał Go już więcej tylko _ze słyszenia._ Hiob jest tutaj figurą Chrystusa, który „nauczył się posłuszeństwa przez to, co wycierpiał" (Hbr 5,8), bo „na własnej skórze" poznał Boga, który jest Ojcem, gdy błogosławi, i nie przestaje nim być, gdy (pozornie) przeklina.
+
+Takie podejście do rzeczywistości jest ukazane w ewangelicz­nych relacjach, opisujących przywracanie przez Jezusa wzroku niewidomym. Nie chodzi w nich jednak o cudowne odtworzenie biologicznej funkcji oczu, ale o nową jakość widzenia świata i Boga, którą otrzymują wierzący w Chrystusa. Na czym polega owa nowość, pisze do Rzymian św. Paweł: „Wiemy też, że Bóg z tymi, którzy Go miłują, współdziała we wszystkim dla ich do­bra" (Rz 8,28). Wszystko może być dobre pod warunkiem, że człowiek naprawdę należy do Boga - wszystko, a więc także każ­de Hiobowe doświadczenie: cierpienie, niesprawiedliwość, obe­lga, upokorzenie i wreszcie śmierć. Ten szczególny sposób pa­trzenia na świat i na swoje życie pozwala dziękować Bogu \[103\] (gr. _eucharistia_!) za wszystko, co nas spotkało, spotyka i jeszcze może spotkać. Istotne _novum_ życia, które daje Chrystus swoim uczniom, polega na tym, że otrzymują oni zdolność błogosławie­nia tam, gdzie wszyscy inni złorzeczą i przeklinają. Dlatego ten, kto został oświecony i zna już Boga nie tylko ze słyszenia, będzie zawsze pytał za Hiobem: „Dobro przyjęliśmy z ręki Boga. Czemu zła przyjąć nie możemy?" (Hi 2,10).
+
+### Prorocy
+
+Umieszczę swe Prawo w głębi ich jestestwa i wypiszę na ich sercu (Jr 31,33)
+
+Opisaliśmy poprzednio egzystencjalną sytuację człowieka po upadku jako niezdolność do wypełnienia przezeń Prawa miłości z powodu zniewolenia strachem, który nie pozwala umierać dla siebie i żyć w drugim oraz dla drugiego. Pomimo bezsilności człowieka w realizowaniu tego Prawa, nie przestaje ono być dla człowieka życiodajne i konstytutywne - nadal pozostaje tym _do­brem, którego chce,_ choć _czyni to zło, którego nie chce_ (Rz 7,19). Dlatego Bóg w historii zbawienia wielokrotnie i na różne sposo­by potwierdzał je, wchodząc w przymierze z narodem wybranym. Patrząc na Prawo Starego Testamentu z punktu widzenia Nowego Testamentu, możemy powiedzieć, że jego istotną treść i ostatecz­ny cel stanowiło przykazanie miłości: „Bo całe Prawo wypełnia się w tym jednym nakazie: _Będziesz miłował bliźniego swego jak siebie samego_" (Ga 5,14). Jednak po grzechu pierworodnym to Prawo miłości, wpisane w samą strukturę człowieczeństwa i sta­nowiące podstawowy dynamizm ludzkiej natury, jest z koniecz­ności postrzegane jako przykazanie nałożone z zewnątrz i pozo­stające na zewnątrz człowieka - brzemię, które należy dźwigać, \[104\] poprzestając na własnych, zranionych grzechem siłach. Owa zewnętrzność norm danych do wypełnienia oznacza, że nie są one doświadczane przez człowieka jako życiodajne i dlatego we­wnętrznie dla niego konieczne, lecz traktuje się je jako kryterium jego moralnej wartości, pochodzące _z góry_ i poświadczone Boskim autorytetem. Tym, co charakteryzuje tak rozumiane Prawo, jest przeżywanie przymusu, który ujawnia się i towarzy­szy próbom jego wypełniania: trzeba to bowiem czynić zawsze _po coś_ (np. aby być dobrym) lub _dla kogoś_ (np. dla Boga)[^85].
+
+Taki charakter miało Prawo w Starym Przymierzu, którego typem jest przymierze zawarte na górze Synaj (por. Wj 19-20; Pwt 5), opierające się na obustronnym zobowiązaniu, przypieczę­towanym krwią[^86], a zatem uwarunkowane wiernym zachowywa­niem Prawa (tzn. _Dekalogu_ i _Kodeksu Przymierza_) ze strony Izraela i może zostać odwołane przez Boga w przypadku niewier­ności narodu wybranego. Zachowanie Prawa wyrytego na ka­miennych tablicach pozostanie odtąd przedmiotem troski i wysił­ku wielu pokoleń narodu wybranego, ale ostatecznie będzie ono zawsze przekraczało jego możliwości. Wobec tych wymagań \[105\] człowiek okazuje się bezsilny, a ponieważ jest przekonany, że od zachowania Prawa zależy jego osobista moralna wartość, czuje się zmuszony do redukowania, łagodzenia czy oswajania jego wymagań, ze względu na _zatwardziałość serc_ (Mt 19,8).
+
+Właśnie w kontekście zewnętrznego charakteru Prawa Starego Przymierza i ludzkiej niezdolności do jego wypełnienia staje się zrozumiała istotna treść zawarta w pierwszym elemencie chrześci­jańskiego kerygmatu, który proklamuje wypełnienie obietnic, jakie Bóg złożył za pośrednictwem proroków. Mówiąc bardzo ogólnie, koncentrują się one wokół takiego _nowego_ działania Boga w hi­storii, które pozwoli na całkowicie nową relację człowieka z Bo­giem, to znaczy właśnie na _nowy_ typ przymierza, umożliwiający wypełnienie Prawa przez człowieka (por. Iz 54,4-17; 55,3-5; 61,1-11; 62,2-5; Ez 40-43; 47,13-34). Reprezentatywne pod tym względem jest proroctwo, jakie znajdujemy u Jeremiasza: „Oto nadchodzą dni - wyrocznia Pana - kiedy zawrę z domem Izraela &lt;i z domem judzkim&gt; nowe przymierze. Nie jak przymierze, któ­re zawarłem z ich przodkami, kiedy ująłem ich za rękę, by wypro­wadzić z ziemi egipskiej. To moje przymierze złamali, mimo że byłem ich Władcą - wyrocznia Pana" (Jr 31,31-32; por. Hbr 8,8). Wyraźnie wskazany jest tutaj odmienny charakter zapowiadanego przymierza wobec tego z Synaju, które zerwał naród wybrany[^87]. \[106\] Dalszy ciąg proroctwa następująco przedstawia nowość tego przymierza: „Lecz takie będzie przymierze, jakie zawrę z domem Izraela po tych dniach - wyrocznia Pana: Umieszczę swe prawo w głębi ich jestestwa i wypiszę na ich sercu. Będę im Bogiem, oni zaś będą Mi narodem" (Jr 31,33). Obietnica ta nie dotyczy zmia­ny _Prawa_, jego zaostrzenia lub złagodzenia, gdyż pozostaje ono zasadniczo niezmienne od początku jako Prawo miłości wszcze­pione w ludzką naturę. Istotną treścią tej obietnicy jest natomiast _interioryzacja_ Prawa, to jest taka interwencja Boga w historię człowieka, która uzdolni go do realizacji przykazania, na którym „opiera się całe Prawo i Prorocy" (Mt 22,40), czyli uczyni na powrót możliwe w ludzkim życiu stawanie się bezinteresownym darem z samego siebie. W rezultacie, życiodajne dla człowieka Prawo będzie się mogło stać na powrót integralną częścią jego natury: umieszczone w głębi jestestwa i wypisane na sercu. W tej prorockiej zapowiedzi chodzi zatem o nową ingerencję w naturę ludzką, niejako o stworzenie człowieka na _nowo_, skoro _stare_ stworzenie zawiodło. Obrazowo przedstawia to nowe dzieło stwórcze Ezechiel: „I dam wam serce nowe i ducha nowego tchnę do waszego wnętrza, odbiorę wam serce kamienne, a dam wam serce z ciała. Ducha mojego chcę tchnąć w was i sprawić, byście żyli według mych nakazów i przestrzegali przykazań, i według nich postępowali" (Ez 36,26-27)[^88].
+
+Przywrócenie człowiekowi zdolności do wypełnienia Prawa miłości będzie dla niego rekonstrukcją sytuacji _sprzed_ grzechu, którą opisywaliśmy jako pełnię harmonii, pozbawioną wrogości relację pierwszych rodziców z Bogiem i między sobą. Stąd \[107\] realizację obietnicy nowego stworzenia w nowym przymierzu pro­rocy ukazują w rajskich barwach jako wizję powrotu do ogrodu Eden, gdzie Prawo miłości panuje niepodzielnie. Warto pod tym kątem przeanalizować fragment Księgi Izajasza z zapowiedzią mesjańską, której istotną treścią jest pojednanie przeciwieństw, pogodzenie tego, co naturalnie różne, i zjednoczenie tego, co odmienne[^89]. Zgodnie z tym, co już powiedzieliśmy, tego rodzaju jedność po grzechu jest dla człowieka nieosiągalna, ponieważ każdą _inność_ (będącą przecież darem Stwórcy) postrzega się jako coś, co niszczy i zabija, dlatego też nie może być akceptowane.
+
+Jako ucieczkę od inności drugiego w ludzkiej historii wypra­cowano generalnie dwa przeciwstawne sobie sposoby, każdy zmierzający do usunięcia różnic między ludźmi. Pierwszy polega na eliminacji, czyli na próbach zrównania i unifikacji w ramach jednej klasy społecznej, majątku, rasy, płci czy narodu, co jednak wymagało zawsze użycia przemocy - tak narodziły się dwa współczesne systemy totalitarne: faszyzm i komunizm. Sposób drugi, rodzący się jako reakcja na fiasko i okrucieństwa tego pierwszego, opiera się na pragnieniu zamazania wszelkich róż­nic, używając hasła tolerancji, która w istocie oznacza obojęt­ność na drugiego (liberalizm). Oba sposoby mają u podstawy błędne założenie antropologiczne, gdyż pomijają w swych anali­zach rzeczywistość grzechu pierworodnego, który jest \[108\] pierw­szym źródłem wrogości w sercu człowieka (por. Ef 2,14)[^90]. Zburzenie wrogości wobec tego, kto jest różny - to znaczy pojed­nanie z Bogiem i ludźmi (por. Ef 2,16), a nie zniesienie samych różnic - stanowi dla człowieka ratunek. Dokona się to - według Izajasza - dzięki szczególnemu poznaniu Boga: „(…) bo kraj się napełni znajomością Pana, na kształt wód, które przepełniają mo­rze" (Iz 11,9b)[^91].
+
+Jeremiasz w analizowanym przez nas tekście mówi o szcze­gólnym poznaniu Boga, które nie będzie wynikiem przekazywa­nej i nabywanej zewnętrznie wiedzy, lecz owocem wewnętrznego doświadczenia głębokiej intymności z Nim: „I nie będą się musieli wzajemnie pouczać jeden mówiąc do drugiego: «Poznajcie Pana!» Wszyscy bowiem od najmniejszego do największego po­znają Mnie - wyrocznia Pana, ponieważ odpuszczę im występki, a o grzechach ich nie będę już wspominał" (Jr 31,34). Przedmiotem obietnicy, której wypełnienie głosi kerygmat, jest zatem odzyska­nie zdolności do prawdziwego poznania Boga, co człowiek utra­cił, dając posłuch ojcu kłamstwa. Ta możliwość, otwarta przez głoszenie Ewangelii, jest prawdziwie uniwersalna, bo dostępna dla wszystkich ludzi bez wyjątku, niezależnie od ich predyspozy­cji oraz miary wielkości w ocenie ludzkiej.
+
+Należy zauważyć, że obietnica nowego stworzenia, czyniąca możliwym zachowanie wymagań Prawa miłości, związana jest u Jeremiasza, podobnie jak w przepowiadaniu innych proroków, \[109\] z zapowiedzią odpuszczenia grzechów. W świetle naszych uprzed­nich rozważań związek ten jest jak najbardziej oczywisty - to grzech czyni człowieka niezdolnym do tego, by kochał. Tylko usunięcie jego najgłębszej przyczyny może uczynić człowieka wolnym w darmowym traceniu życia dla drugiego. W tej perspektywie Bóg będzie poznany zawsze jako Ten, kto „przekreśla (…) przestępstwa i nie wspomina (…) grzechów" (por. Iz 43,25), jako Ten, kto kocha grzesznika, nie gorsząc się nim ani nie brzy­dząc się jego małością.
+
+## Zesłałeś Syna na śmierć krzyżową
+
+Drugim elementem obecnym w pierwotnym głoszeniu keryg­matu jest konfrontacja jego adresatów z wydarzeniem krzyża, ukazanym w ścisłej łączności z rzeczywistością grzechu. W od­niesieniu do Chrystusa chodzi tu o wykazanie Jego sprawiedli­wości, natomiast w stosunku do słuchaczy idzie o ukazanie praw­dy o istocie grzechu i umożliwienie im rozpoznania siebie jako grzeszników, osobiście odpowiedzialnych za śmierć Jezusa. Do­piero dla człowieka gotowego przyjąć gorzką prawdę o włas­nej winie, _nauka krzyża_ (1 Kor 1,18) stanowi objawienie prawdy o miłości Boga do grzesznika, która jaśnieje w Ukrzyżowanym.
+
+Dobra Nowina zmierza tu zatem do zdemaskowania człowieka jako niewolnika grzechu, niezdolnego do wypełnienia Prawa mi­łości, a jednocześnie do przekonania go, że Bóg kocha go jako grzesznika, to znaczy bezwarunkowo. W tym sensie krzyż Chrys­tusa jest przepowiadany w pierwotnym Kościele jako sąd Boga nad każdym człowiekiem, sąd, który z jednej strony ujawnia prawdę o jego naturze grzesznika, a z drugiej ogłasza na niego wyrok: miłosierdzie i przebaczenie[^92].
+
+### Sługa Jahwe
+
+Oto Baranek Boży, który gładzi grzech świata (J 1,29)
+
+Zarówno św. Piotr, jak i św. Paweł w swoim kerygmacie pod­kreślili zdecydowanie prawość Chrystusa, którą „Bóg potwierdził (…) niezwykłymi czynami, cudami i znakami" (Dz 2,22). On jest „Święty i Sprawiedliwy" (Dz 3,14), nie ma „w Nim żadnej winy zasługującej na śmierć" (Dz 13,28). Ta sprawiedliwość Chrystusa ukazuje się w sposób wyjątkowy na tle niesprawiedliwości, któ­rej doznał ze strony swoich prześladowców i która zaprowadziła Go na śmierć. Właśnie krzyż, a zwłaszcza sposób, w jaki Chrystus go przyjmuje, objawia w całej pełni Jego świętość.
+
+Stan człowieka po grzechu pierworodnym opisaliśmy jako sytuację zniewolenia przez szatana, który czyni człowieka nie­zdolnym - pomimo ustawicznych wysiłków - do bezinteresow­nego dawania swego życia drugiemu. Przyczyna tej bezsilności leży w strachu przed traceniem siebie, wynikającym z utraty od­niesienia do Boga jako źródła życia. W rezultacie, po upadku wszyscy ludzie są skazani na konieczność zdobywania życia i je­go obrony przed tym, co jawi się jako jego zagrożenie. Tymczasem Chrystus, jako jedyny z ludzi, przełamał zamknięty krąg tej nie­woli i wobec perspektywy śmierci krzyżowej nie obronił siebie, ale całkowicie dobrowolnie (por. J 10,18) zgodził się stracić ży­cie \[112\], aby inni mieli je _w obfitości_ (J 10,10)[^93]. Taka postawa została zapowiedziana przez Izajasza w figurze Sługi Jahwe (por. Iz 42,1-7; 49,1-6; 52,13-53,12). Mając możliwość uniknięcia krzyża i obrony siebie przed śmiercią (por. Mt 26,52-53; J 10,16-18), Chrystus „nie skorzystał ze sposobności, aby na równi być z Bo­giem" (Flp 2,6), lecz „sam się dał gnębić (…). Jak baranek na rzeź prowadzony, jak owca niema wobec strzygących ją, tak On nie otworzył ust swoich" (Iz 53,7).
+
+W sposób radykalnie różny od tego, który wynikał z dziedzic­twa grzechu pierworodnego, Jezus reagował na przemoc wobec siebie: „Podałem grzbiet mój bijącym i policzki moje rwącym Mi brodę. Nie zasłoniłem mojej twarzy przed zniewagami i oplu­ciem" (Iz 50,6). Tak wypełnia własne słowa: „Słyszeliście, że powiedziano: _Oko za oko i ząb za ząb!_ A Ja wam powiadam: Nie stawiajcie oporu złemu: lecz jeśli cię kto uderzy w prawy poli­czek, nadstaw mu i drugi! Temu, kto chce prawować się z tobą i wziąć twoją szatę, odstąp i płaszcz! Zmusza cię kto, żeby iść z nim tysiąc kroków, idź dwa tysiące!" (Mt 5,38-41). Wyjątkowa sprawiedliwość Ukrzyżowanego staje się widoczna nie tylko w Jego relacji do niesprawiedliwości, która Go dotknęła, ale przede wszystkim w stosunku do jej sprawców. Wobec przymusu zasługiwania na swoje życie i niezdolności do akceptowania siebie jako grzesznika najczęściej stosowaną formą obrony siebie – zgodnie z mentalnością obowiązującą po grzechu - jest konieczność szukania samousprawiedliwienia poprzez zrzucenie własnej winy na drugiego i uczynienie go odpowiedzialnym za swój \[113\] grzech. Także w tym przypadku logika, którą objawia Chrystus na krzyżu, diametralnie się od tego różni: będąc niewinny, nie oskarża swoich oprawców i nie szuka własnej sprawiedliwości: _„On grzechu nie popełnił, a_ w _Jego ustach nie było podstępu._ On, gdy Mu złorzeczono, nie złorzeczył, gdy cierpiał, nie groził, ale oddawał się Temu, który sądzi sprawiedliwie" (1 P 2,22-23), co więcej - sam dąży do ich usprawiedliwienia: „(…) przebacz im, bo nie wiedzą, co czynią" (Łk 23,34)[^94]. Ukrzyżowany nie zrzuca konsekwencji grzechu na drugiego, nie chce być czysty czy od­dzielony[^95], ale bierze je na siebie. W ten sposób Chrystus zanosi ludzkie grzechy na drzewo krzyża (por. 1 P 2,24), nie szuka win­nych, aby ich potępić, ale jako jedyny Sprawiedliwy obciąża sie­bie skutkami grzechów i pozwala, aby zło ludzkie dotknęło Go i zabiło: „(…) On był przebity za nasze grzechy, zdruzgotany za nasze winy" (Iz 53,5).
+
+Brać na siebie grzechy innych ludzi oznacza w gruncie rzeczy kochać ich jako grzeszników: kto kocha złoczyńcę, ma tym sa­mym udział w jego zbrodniach, czyni siebie jego wspólnikiem i dzieli z nim jego winę. Logika wzajemnego oskarżenia, panują­ca po grzechu wśród ludzi, nie zna litości: winny musi zostać osądzony, odseparowany, odłączony od niewinnych(?), którzy nie chcą mieć z nim nic wspólnego. Taki człowiek nie jest godny \[114\] miłości, a kto ośmiela się go kochać, staje się współwinny. Chrys­tus z miłości do swoich nieprzyjaciół oddaje się w ich ręce jako grzesznik i pozwala się tak właśnie traktować: „Wszyscyśmy pobłądzili jak owce, każdy z nas się obrócił ku własnej drodze, a Pan zwalił na Niego winy nas wszystkich" (Iz 53,6). W Księdze Izajasza znajdujemy wizję Edomity, tradycyjnego wroga Izraela, przychodzącego w zakrwawionej szacie jako Ten, kto sam jeden wziął na siebie gniew Boga za grzechy ludu wybranego: „Sam jeden wygniatałem je do kadzi, z narodów - ani jednego nie było ze Mną. (…) Rozglądałem się: nikt nie pomagał. Zdumiewałem się, a nie było, kto by podtrzymał" (Iz 63,3.5)[^96].
+
+Chrystus jako _nowy_ Adam przyjmuje następstwa grzechu _sta­rego_ Adama, ale już nie ukrywa się z powodu własnej nagości, lecz pozwala się _ogołocić_ (Flp 2,7) z własnej godności i wystawić na ludzką wzgardę. Jezus stał się pierwszym człowiekiem, który dobrowolnie przyjął własne obnażenie, czyli brak jakiejkolwiek chwały pochodzącej od siebie samego. Dlatego potrafił stanąć przed Bogiem i ludźmi w nagości nie odczuwając wstydu, to zna­czy nie szukając siebie, lecz w pełni akceptując swoją zależność od Boga, który jedyny mógł Go przyoblec własną chwałą: „«Innych wybawiał, siebie nie może wybawić. Jest królem Izraela: niechże teraz zejdzie z krzyża, a uwierzymy w Niego. _Zaufał Bogu: niechże Go teraz wybawi, jeśli Go miłuje._ Przecież powiedział: Jestem Synem Bożym»" (Mt 27,42-43).
+
+\[115\]
+
+W świetle powyższych słów, śmierć na krzyżu oznacza osta­teczne fiasko misji Mesjasza i zdemaskowanie Go jako oszusta. W ten sposób raz jeszcze przystępuje do Jezusa ojciec kłamstwa z pokusą, aby nakłonić Go do wykorzystania swej synowskiej godności wbrew woli Ojca i przeciwko Jego planowi zbawienia. Ludzka logika, obowiązująca po upadku, nakazuje w tej sytuacji ucieczkę z krzyża oraz obronę swego imienia i zadania wobec oczywistej niesprawiedliwości, Chrystus jednak odrzuca tę poku­sę, podobnie jak poprzednio, odnosząc się do Ojca i do Jego woli: „_Ojcze, w Twoje ręce powierzam ducha mojego_" (Łk 23,46).
+
+### Obraz grzechu
+
+Dla nas grzechem uczynił Tego, który nie znał grzechu (2 Kor 5,21)
+
+Kolejnym celem konfrontacji z wydarzeniem krzyża, która dokonuje się w głoszonym kerygmacie, jest ukazanie prawdy o grzechu i jego konsekwencjach dla słuchaczy, poprzez posta­wienie ich w sytuacji bezpośredniej lub pośredniej odpowiedzial­ności za śmierć Jezusa: „przybiliście rękami bezbożnych do krzyża" (Dz 2,23), „Zabiliście Dawcę życia" (Dz 3,14-15), przy czym nie chodzi tu o potępienie grzesznika, lecz o ukazanie jego sytuacji egzystencjalnej w taki sposób, aby uczynić go dyspozy­cyjnym wobec przebaczenia, ofiarowanego przez Boga w Jezusie Chrystusie, gdyż to wydarzenie nie sprzeciwia się zamysłom Boga i nie niszczy Jego planu zbawienia, przeciwnie - stanowi wypełnienie tego planu, Chrystus bowiem „z woli, postanowienia i przewidzenia Bożego został wydany" (Dz 2,23), a ci, którzy Go potępili, „wypełnili głosy Proroków, odczytywane co szabat" (Dz 13,27). Sąd nad ludzkim grzechem, dokonany na krzyżu, jest \[116\] przepowiadany jako dzieło Boga i integralna część Jego zbawczej ekonomii. Człowieka, do którego dociera Ewangelia, wzywa się wobec ukrzyżowanego Chrystusa do uznania siebie za niezdolnego do wypełnienia Prawa, streszczającego się w przykazaniu miłości Boga i bliźniego (por. Mt 22,40).
+
+Właśnie w kontekście sądu nad ludzkim grzechem, sądu, który ma miejsce na krzyżu, można zrozumieć symbol światła, wielokrotnie przywoływany w Ewangelii św. Jana: „A sąd polega na tym, że światło przyszło na świat, lecz ludzie bardziej umiłowali ciemność aniżeli światło: bo złe były ich uczynki" (J 3,19). – „Była światłość prawdziwa, która oświeca każdego człowieka, gdy na świat przychodzi. Na świecie było \[Słowo\], a świat stał się przez Nie, lecz świat Go nie poznał. Przyszło do swojej własności, a swoi Go nie przyjęli" (J 1,9-11; por. 8,12; 9,5; 12,35-36). Taki sam sens ma metafora światła w polemikach Jezusa z faryzeuszami, którzy uważali się za sprawiedliwych, nie dostrzegając swoich grzechów: „Przyszedłem na ten świat, aby przeprowadzić sąd, aby ci, którzy nie widzą, przejrzeli, a ci, którzy widzą, stali się niewidomymi" (J 9,39)[^97].
+
+W tym elemencie głoszonego kerygmatu chodzi o ukazanie prawdy o ludzkim grzechu, która została objawiona na krzyżu. Przyjmując dobrowolnie konsekwencje ludzkiej pychy, złośliwości, okrucieństwa, Chrystus pozwolił, aby grzech Go dosięgnął i zabił; w swoim umęczonym i złamanym ciele okazał, jak \[117\] straszliwą rzeczywistością jest grzech, co naprawdę czyni on z człowie­kiem i jakie potworne wydaje owoce. Tak więc przybity do krzyża i unieruchomiony Chrystus jest obrazem tej niewoli, która parali­żuje człowieka po grzechu pierworodnym. Chociaż Jezusa obser­watorzy „za skazańca uznali, chłostanego przez Boga i zdeptane­go" (Iz 53,4), to jednak naprawdę _On się obarczył_ tym _cierpieniem_ i _dźwigał_ te _boleści_ - konsekwencje ludzkich nieprawości (por. Iz 53,4). Ten, który na krzyżu „Nie miał (…) wdzięku ani też blas­ku, aby na Niego popatrzeć, ani wyglądu, by się nam podobał" (Iz 53,2), odsłania pozorny wdzięk i zwodniczy blask, jaki kryje się w kłamstwie szatana i w każdorazowej akceptacji tego kłam­stwa przez człowieka. W ten sposób drzewo krzyża demaskuje iluzoryczną _rozkosz dla oczu_, którą zwiedziona przez węża nie­wiasta _spostrzegła_ na _drzewie poznania dobra i zła_ (Rdz 3,6). W Ukrzyżowanym odsłania się cała potworna brzydota grzechu, odrażająco deformująca pierwotny obraz Boga w człowieku: „Jak wielu osłupiało na Jego widok - tak nieludzko został oszpecony Jego wygląd i postać Jego była niepodobna do ludzi" (Iz 52,14).
+
+Jezus Chrystus ukrzyżowany jest więc swego rodzaju zwier­ciadłem, w którym każdy człowiek może się przejrzeć, aby zoba­czyć prawdę o sobie: o tym, w jakim znajduje się stanie, i co grzech z nim uczynił. W tym sensie można rozumieć słowa św. Pawła: „On to dla nas grzechem uczynił Tego, który nie znał grzechu" (2 Kor 5,21). Chrystus dopuścił, aby grzech świata za­prowadził Go na krzyż i stał się - z woli Bożej - obrazem tego grzechu, aby grzesznik mógł w Nim rozpoznać siebie[^98]. Umierając \[118\] na krzyżu, Jezus ukazał prawdę o tym, że ostatecznie „zapłatą za grzech jest śmierć" (Rz 6,23). Należy jednak ciągle pamiętać, że cel tej demonstracji ludzkiego grzechu to jego ostateczne prze­zwyciężenie, co jednak stanie się możliwe tylko pod warunkiem jego uznania.
+
+W tej perspektywie ukazuje się chrystologiczny sens i głębia biblijnego opowiadania o wywyższeniu węża miedzianego na pu­styni, czego Mojżesz dokonał w obliczu kary za grzechy narodu wybranego szemrzącego na pustyni (por. Lb 21,4-9). Patrząc na miedzianego węża - zgodnie z nakazem Mojżesza - Izraelici mieli przed oczyma swój własny grzech i to spojrzenie było dla nich zba­wienne. Chrystus przywołuje to wydarzenie i wyjaśnia jego osta­teczny sens, który w Nim się wypełni: „A jak Mojżesz wywyższył węża na pustyni, tak potrzeba, by wywyższono Syna Człowieczego, aby każdy, kto w Niego wierzy, miał życie wieczne" (J 3,14-15).
+
+### Chrystus czy Barabasz?
+
+Będą patrzeć na Tego, którego przebili (J 19,37)
+
+Wezwanie do uznania osobistego udziału w wyroku skazują­cym Chrystusa, które dokonuje się w głoszeniu Ewangelii, ukonkretnia się poprzez odwołanie do wyboru, przed jakim postawił mieszkańców Jerozolimy Piłat: Barabasz albo Jezus z Nazaretu (por. Mt 27,16-20). W przepowiadanym kerygmacie wybór ten uzyskuje znaczenie głęboko symboliczne: tę fundamentalną de­cyzję podejmują wszyscy ludzie i każdy człowiek mając przed sobą dwie skrajnie różne reakcje na powszechne doświadczenie niesprawiedliwości. Pierwszą z nich reprezentuje Barabasz, we­dług wszelkiego prawdopodobieństwa członek stronnictwa zelo­tów, walczącego z rzymskim okupantem o niepodległość ojczyzny, \[119\] natomiast drugą uosabia Chrystus, pokorny Sługa Jahwe, który wobec doznanej krzywdy nie używa przemocy, lecz dobro­wolnie dopuszcza ją do siebie, pozwala się dotknąć i zabić. Są to dwa bezwzględnie odmienne sposoby odpowiedzi na wydarzenie krzyża w ludzkiej historii i dwie zdecydowanie różne drogi szu­kania sprawiedliwości[^99].
+
+W tej perspektywie wybór pomiędzy Barabaszem a Jezusem należy do najbardziej uniwersalnych doświadczeń ludzkich i spro­wadza się do decyzji, czy wobec doznanej krzywdy dochodzić sprawiedliwości na własną rękę, czy też nie stawiać oporu złemu, „oddając się Temu, który sądzi sprawiedliwie?"<sup>[\[100\]](#footnote-100)</sup>. Jest to osta­tecznie wybór pomiędzy logiką myślenia i postępowania, \[120\] którą na początku zaszczepił ludzkości ojciec kłamstwa, a logiką Chrystusa, ukazaną na krzyżu, pomiędzy _mądrością świata_ a _mą­drością Boga_ (1 Kor 2,21; por. 3,19; Jk 3,15).
+
+Napięcie pomiędzy dwoma rodzajami mądrości dochodzi do głosu już wtedy, gdy Chrystus ukazywał Apostołom perspektywę swojej śmierci, przeciwko czemu protestował Piotr. Usłyszał wtedy: „Zejdź Mi z oczu, szatanie! Jesteś Mi zawadą, bo myślisz nie na sposób Boży, lecz na ludzki" (Mt 16,23). Ostatnią próbę nakłonienia Chrystusa do przyjęcia pseudomądrości będzie pro­pozycja zejścia z krzyża i wymierzenia własnej sprawiedliwości szydercom (por. Mk 15,29-32). Tymczasem reakcja Jezusa jest całkowicie inna: przyjmuje On krzywdę i z miłości do prześla­dowców pozwala niesprawiedliwości zranić się, oddając za nich swoją krew: „Spadła Nań chłosta zbawienna dla nas, a w Jego ranach jest nasze zdrowie" (Iz 53,5).
+
+Wobec powyższego wyboru żaden człowiek nie może pozo­stać neutralny, ale czuje się wewnętrznie niejako przymuszony, aby się opowiedzieć: „Którego z tych dwóch chcecie, żebym wam uwolnił?" (Mt 27,21). Pytanie to pojawia się w głoszonym kerygmacie po to, aby każdy, kto je usłyszy - także ci, którzy byli wtedy (i są dzisiaj) daleko od Jerozolimy i od tych historycznych wydarzeń - mógł rozpoznać swój głos w krzyku tłumów: „Ba­rabasza"! (Mt 27,21)<sup>[\[101\]](#footnote-101)</sup>. W ten sposób adresat Ewangelii zostaje po raz kolejny postawiony przed możliwością poznania prawdy \[121\] o sobie jako o człowieku, kategorycznie odrzucającym propono­wany przez Chrystusa styl niestawiania oporu złemu i nadstawia­nia drugiego policzka (por. Mt 5,38-42). Wobec tego przepowia­dania każdy człowiek musi ostatecznie uznać, że nie chce być Sługą Jahwe, i dlatego _zakrywa swą twarz_ przed Tym, który pro­ponuje mu taką postawę (por. Iz 53,3). Oznacza to w istocie uzna­nie Chrystusa za całkowicie niepotrzebnego (czy wręcz szkodli­wego) dla realizacji własnych koncepcji życia i - w konsekwencji - skazanie Go na śmierć: „«Cóż więc mam uczynić z Jezusem, którego nazywają Mesjaszem?» Zawołali wszyscy: «Na krzyż z Nim!»" (Mt 27,22)<sup>[\[102\]](#footnote-102)</sup>.
+
+Właśnie taki jest cel tej części kerygmatu: umożliwić adresato­wi rozpoznanie w sobie grzesznika, który jest winny ukrzyżowa­nia Jezusa z Nazaretu, i to nie tylko w idealistycznym lub dewocyjnym sensie<sup>[\[103\]](#footnote-103)</sup>, ale w konkretnych i codziennych relacjach z bliźnimi, kiedy wybiera się Barabasza: „Zaparliście się Święte­go i Sprawiedliwego, a wyprosiliście ułaskawienie dla zabójcy" (Dz 3,14)<sup>[\[104\]](#footnote-104)</sup>. Konfrontacja dokonująca się w przepowiadaniu Ewangelii stawia słuchającego w pozycji sędziego wobec same­go siebie i nakłania do uznania własnej winy: „Będą patrzeć na tego, którego przebili, i boleć będą nad nim, jak się boleje nad jedynakiem, i płakać będą nad nim, jak się płacze nad pierworodnym" (Za 12,10). \[122\] W tym sensie przepowiadanie kerygmatu sta­nowi realizację funkcji prorockiej, jaką podjął prorok Natan wo­bec króla Dawida, kiedy postawił go wobec oczywistej prawdy o jego grzechu: „Ty jesteś tym człowiekiem" (2 Sm 12,7).
+
+### Milczenie Ojca
+
+Boże mój, Boże mój, czemuś Mnie opuścił? (Mt 27,46)
+
+Powiedzieliśmy już, że chociaż każdy człowiek znajduje się w sytuacji odejścia od Boga, to jednak nikt sam z siebie nie potrafi do końca uznać i przyjąć wszystkich konsekwencji tego stanu (_to ja na skutek grzechu mogę być opuszczony, należy mi się, jest to sprawiedliwe_) - zaakceptowanie trwania w nim bowiem stawia pod znakiem zapytania całą ludzką egzystencję. W sytuacji opusz­czenia, symbolizowanej przez krzyż, człowiek zawsze szuka jakie­goś _wypełnienia, oparcia,_ jakiejś _obecności_ czy boga zastępczego, bałwochwalczej namiastki, która dawałaby mu pocieszenie i sens, pozorne poczucie bezpieczeństwa i substytut miłości. Syn Boży wszedł w tę dotkniętą skutkami grzechu ludzką rzeczywistość, przez co dobrowolnie przyjął na siebie a także zaakceptował do­świadczenie opuszczenia przez Boga i w tym doświadczeniu wołał do Niego: „_Boże mój, Boże mój, czemuś Mnie opuścił?_" (Mt 27,46). Jednak Chrystus zwrócił się _jedynie i wyłącznie_ do Boga - nie szu­kał żadnego innego rozwiązania, choć sugerowano Mu (po raz ostatni właśnie na krzyżu), by skorzystał ze swojej mocy i urato­wał się, niezależnie od woli Ojca i nie polegając na Nim.
+
+Wielu współczesnych teologów usiłowało zbić swego rodzaju teologiczny kapitał na tym wersecie, interpretując go jako krzyk rozpaczy, będący symbolicznym wyrażeniem tragizmu ludzkiej egzystencji. Takie usiłowania nie odpowiadają jednak kontekstowi \[123\] pozostałych relacji o śmierci Jezusa, podobnie zresztą jak skrajnie przeciwstawne im teologiczne wysiłki wybronienia i usprawiedliwienia Jezusa z tych słów. Można bowiem pogodzić oba te stanowiska, nie umniejszając ani bolesnego wymiaru do­świadczenia umierania, ani rzeczywistej relacji Jezusa do własnej śmierci. Jego słowa na krzyżu nie wyrażają rozczarowania Bogiem, lecz są początkiem psalmu 22, pełnego ufności w sto­sunku do Ojca: „Bo On nie wzgardził ani się nie brzydził nędzą biedaka, ani nie ukrył przed nim swojego oblicza i wysłuchał go, kiedy ten zawołał do Niego" (Ps 22,25).
+
+Chrystus przyjął opuszczenie przez Boga _dla nas i dla naszego zbawienia_, aby także każdy człowiek swój własny brak doświad­czenia Boga mógł najgłębiej zaakceptować, uznać jego słuszność, wyznać i doświadczyć wyzwolenia, którego dokonuje wyłącznie Bóg, a nie on sam czy jego bożki. Jezus zaakceptował to opusz­czenie, aby człowiek nie był skazany na _ukrywanie się_ przed Bogiem, drugim i sobą, na życie fikcją, złudzeniem, oszustwem, na _ucieczkę_ dla pozornego ratowania siebie (por. Rdz 3,8-10). Jezus to wszystko przeżył, aby człowiek nie był więcej zmuszany do ciągłego szukania sposobu _zejścia z krzyża_ (por. Mk 15,30), aby został wyzwolony od fałszywych koncepcji wypełnienia swego życia i mógł odkrywać obecność Boga także w pozornej Jego nieobecności, w Jego _milczeniu_<sup>[\[105\]](#footnote-105)</sup>.
+
+\[124\]
+
+Warto w tym kontekście wspomnieć i nazwać po imieniu jedne­go z najpopularniejszych idoli, do których woła człowiek w sytua­cji opuszczenia. Chodzi o szeroko rozumiane poczucie bycia po­trzebnym, poszukiwanym, oczekiwanym, niezbędnym dla drugich itp., co ma zapewnić człowiekowi sens jego egzystencji. Sytuacja odwrotna, to znaczy taka, w której doświadcza on własnej nieprzy­datności i przypadkowości, jest dla człowieka zupełnie nie do przyjęcia, bo pozbawia go elementarnej racji istnienia oraz gwa­rancji bezpieczeństwa<sup>[\[106\]](#footnote-106)</sup>. Pod pozornie wzniosłym ideałem życia dla _kogoś_ (dzieci, chorzy, niepełnosprawni...) lub _czegoś_ (ojczy­zna, organizacja, słuszna sprawa...), niejednokrotnie kryje się po­stawa braku wiary w Boga - jedynego prawdziwego oparcia dla człowieka. W momencie, kiedy człowiek rozpoznaje siebie jako całkowicie nieużytecznego (np. z powodu wieku, choroby, kalec­twa), jego wiara przechodzi próbę autentyczności. Takim doświad­czeniem bezużyteczności było przyjście Syna Bożego do swoich, którzy go nie przyjęli (por. J 1,11) - jest to doświadczenie Betlejem, gdzie zabrakło dla Niego miejsca (por. Łk 2,7). Do tego samego doświadczenia zaprasza swoich uczniów Jezus, kiedy uczy ich akceptacji prawdy, że są _sługami nieużytecznymi_ (Łk 17,10).
+
+Należy wystrzegać się bardzo pobieżnej interpretacji powyż­szego zaproszenia jako sprzecznej z teorią asertywności, skądinąd bardzo słuszną. Poczucie własnej wartości na płaszczyźnie psy­chologicznej to bowiem warunek konieczny trzeźwej, czyli praw­dziwie pokornej postawy wobec swego życia. Tylko człowiek \[125\] realnie oceniający własne możliwości jest zdolny do trwania przed Bogiem w postawie całkowitej darmowości oraz zależności.
+
+### Miłość w wymiarze krzyża
+
+Tak Bóg umiłował świat, że Syna dał (J 3,16)
+
+Sposób, w jaki Ukrzyżowany dobrowolnie oddaje się w ręce oprawców oraz z ufnością w ręce Ojca - wobec sądu nad ludzkim grzechem, sądu, który ma miejsce na krzyżu - stanowi objawienie prawdy o miłości Boga względem grzesznego człowieka. „Uwierzyć w Syna ukrzyżowanego, to znaczy «zobaczyć Ojca» (J 14,9), to znaczy uwierzyć, że w świecie jest obecna miłość i że ta miłość jest potężniejsza od zła jakiegokolwiek, w które uwikła­ny jest człowiek, ludzkość, świat"<sup>[\[107\]](#footnote-107)</sup>. Śmierć Chrystusa stanowi podsumowanie całego Jego ziemskiego życia, które było proegzystencją, istnieniem spełnionym jako bezinteresowny dar z sa­mego siebie dla drugich i tym samym objawieniem natury same­go Boga, którą jest miłość. Na krzyżu ukazuje się zatem wewnętrzne życie Trójcy Świętej, przez teologię opisywane jako dynamika bezwarunkowego dawania i przyjmowania Siebie, ist­niejąca pomiędzy Osobami Boskimi. Bóg Ojciec tak „umiłował świat, że Syna swego Jednorodzonego dał" (J 3,16), a Syn Boży tak przylgnął do woli Ojca, że „życie swoje oddaje za przyjaciół swoich" (J 15,13; por. Ef 5,2).
+
+Zdolność bezinteresownego tracenia siebie, która objawiła się na krzyżu Chrystusa, tak bardzo różniła się od tego wszystkie­go, co dotąd tradycja filozoficzno-religijna nazywała miłością (gr. _eros, filia_), że pierwsze pokolenie chrześcijan poczuło się \[126\] zmuszone, aby jej _novum_ określić nowym słowem: _agape_ (por. 1 Kor 13)<sup>[\[108\]](#footnote-108)</sup>, taka miłość bowiem nie mogła narodzić się _z ciała_ (J 3,6; por. Rz 7,24; 2 Kor 10,4; Ga 5,19), lecz musiała pochodzić _z Ducha_ (J 3,6; por. 1 Kor 2,10-13); w taki sposób nie potrafił dotąd kochać żaden człowiek - tak mógł kochać tylko Bóg. Tym, co charakteryzuje miłość Boga objawioną na krzyżu i co odróżnia ją od każdej innej miłości, jest jej całkowita darmowość, gdyż zwraca się ona do grzesznika, który w żaden sposób na nią zasłużyć nie potrafi: „W tym przejawia się miłość, że nie my umiłowaliśmy Boga, ale że On sam nas umiłował i posłał Syna swojego jako ofiarę przebłagalną za nasze grzechy" (1 J 4,10). Na tym tle staje się zrozumiała istotna prawda, przekazana w ewangelicznej relacji o setniku, który krzyżował Jezusa - ten poganin nie znał ani Prawa, ani Proroków, a jednak „widząc, że w ten sposób oddał ducha", wyznaje, że nie może On pochodzić od człowieka: „Prawdziwie, ten człowiek był Synem Bożym" (Mk 15,39)<sup>[\[109\]](#footnote-109)</sup>.
+
+Miłość, znana człowiekowi po upadku (którą otrzymuje od innych i sam innym daje), jest zawsze ograniczona niezdolnością do bezinteresownego tracenia siebie. W tym stanie szczytem heroizmu jest ofiara ze swego życia za to, co jawi się jako dobre dla człowieka: za własne dziecko, przyjaciela, za wolność, ojczyznę, za słuszną sprawę itp.: „A \[nawet\] za człowieka sprawiedliwego \[127\] podejmuje się ktoś umrzeć tylko z największą trudnością. Chociaż może jeszcze za człowieka życzliwego odważyłby się ktoś po­nieść śmierć" (Rz 5,7). Natomiast kochać prawdziwie bezintere­sownie i _za darmo_ oznacza tracić swoje życie za tego (to), kto (co) ukazuje się jako kategorycznie zły (złe), a taka miłość prze­kracza zdecydowanie możliwości zranionej natury ludzkiej. Tymczasem taka właśnie miłość zajaśniała na krzyżu: „Bóg zaś okazuje nam swoją miłość \[właśnie\] przez to, że Chrystus umarł za nas, gdyśmy byli jeszcze grzesznikami" (Rz 5,8)<sup>[\[110\]](#footnote-110)</sup>.
+
+Dać swoje życie za grzesznika jako grzesznika, oznacza ko­chać go takim, jaki jest, bez dyktowania mu jakichś warunków wstępnych, np. aby grzesznik przestał być grzesznikiem. Taka miłość oczywiście tego pragnie i do tego dąży, ale nigdy katego­rycznie nie formułuje _conditio sine qua non_, lecz zostawia grzesznika całkowicie wolnym, dopuszczając, iż zostanie zlekce­ważona. Takie pozostawienie drugiego całkowicie wolnym jest możliwe tylko wtedy, gdy nie pragnie się go dla siebie, lecz tylko dla niego samego. Taką miłość okazał Bóg właśnie przez to, że nie naruszył wolności człowieka, również wtedy, gdy podniósł on rękę na Jego Syna: „On, który nawet własnego Syna nie oszczę­dził, ale Go za nas wszystkich wydał" (Rz 8,32)<sup>[\[111\]](#footnote-111)</sup>.
+
+\[128\]
+
+Tylko Bóg potrafi kochać w taki sposób, że pozwala w swoim Synu dotknąć się przez ludzki grzech i nie stawia _oporu złemu_ (Mt 5,39), lecz do końca szanuje ludzką wolność. Tylko Bóg potrafi tak kochać, że nie zrzuca konsekwencji grzechu na wino­wajcę, lecz bierze je na Siebie, aby na Nim (w ciele Jezusa) skupiło się całe zło świata. Dlatego miłość Boga jest jak _słońce_, które wschodzi _nad złymi i nad dobrymi_, i _deszcz,_ który pada _na sprawiedliwych i niesprawiedliwych_ (Mt 5,45). Jest to miłość do nieprzyjaciół, która nadstawia drugi policzek (por. Mt 5,39), która „cierpliwa jest, łaskawa jest (…), nie szuka swego, nie unosi się gniewem, nie pamięta złego; (…). Wszystko znosi, wszystkiemu wierzy, we wszystkim pokłada nadzieję, wszystko przetrzyma" (1 Kor 13,4.5.7). Przepowiadanie chrześcijańskiego kerygmatu zawsze nierozerwalnie wiąże się z ukazywaniem tej miłości Boga, jaśniejącej w rozwartych ramionach ukrzyżowa­nego Chrystusa.
+
+### Otwarte łono Kościoła
+
+Miłosierdzie na pokolenia i pokolenia (Łk 1,50)
+
+Powyżej opisany szczególny rys miłości Boga, zawsze więk­szej niż niewierność człowieka, rys ukazany w krzyżu Chrystusa, Pismo i Tradycja nazywają _miłosierdziem._ „Postawa Boga w ze­tknięciu z całą historyczną, ludzką kondycją, która na różne sposoby ujawnia ograniczoność i słabość człowieka, zarówno fizyczną, jak i moralną, nazywa się w języku biblijnym miłosier­dziem"<sup>[\[112\]](#footnote-112)</sup>. Krzyż Chrystusa radykalnie objawia miłosierdzie, czyli „miłość wychodzącą na spotkanie tego, co stanowi sam \[129\] korzeń zła w dziejach człowieka: na spotkanie grzechu i śmier­ci"<sup>[\[113\]](#footnote-113)</sup>. „Miłosierdzie jest bowiem nieodzownym wymiarem miło­ści, jest jakby drugim jej imieniem, a zarazem właściwym sposo­bem jej objawienia się i realizacji wobec rzeczywistości zła, które jest w świecie, które dotyka i osacza człowieka, które wdziera się również do jego serca i może go «zatracić w piekle». (…) W eschatologicznym spełnieniu miłosierdzie objawi się jako miłość, podczas gdy w doczesności, w dziejach człowieka, które są zarazem dziejami grzechu i śmierci, miłość musi się objawiać nade wszystko jako miłosierdzie"<sup>[\[114\]](#footnote-114)</sup>.
+
+Fundamentem miłosierdzia jest zawsze bezwzględna wierność Boga Jego zamysłom wobec człowieka, których ostatecznie na­wet grzech nie może udaremnić: „Jeśli my odmawiamy wierno­ści, On wiary dochowuje, bo nie może się zaprzeć siebie samego" (2 Tm 2,13). Dlatego podstawowym słowem, opisującym miło­sierdzie Boga w Starym Testamencie jest termin _hesed_, który oznacza wierność Boga wobec własnej obietnicy. Drugie hebraj­skie określenie miłosierdzia to _rahamim_, wyrażające pierwotną bliskość i więź, jaka łączy matkę z dzieckiem (hebr. _rahem - łono_) i ono najlepiej oddaje ideę darmowości, zawartą w pojęciu miło­sierdzia Boga. Odwołanie się do miłosierdzia Bożego, ukazanego w ukrzyżowanym Chrystusie, stanowiło od początku istotny ele­ment _kerygmatu_ chrześcijańskiego. Zawsze w tym kontekście pojawiało się także przepowiadanie _darmowości_ jako niezbywal­nego atrybutu miłości Boga.
+
+Właśnie w śmierci Chrystusa najpełniej widać, że inicjatywa odpuszczenia człowiekowi grzechów należy wyłącznie do Boga: „Wszystko zaś to pochodzi od Boga, który pojednał nas z sobą \[130\] przez Chrystusa" (2 Kor 5,18). Odpuszczenie grzechów jest darmowe, bo Bóg jest miłosierny, a sam grzesznik niewypłacalny (por. Łk 7,42; Mt 18,25): „Nie przyniosłeś Mi baranka na całopa­lenie ani Mnie nie uczciłeś krwawymi ofiarami. Nie zmuszałem cię do ofiary niekrwawej ani cię nie trudziłem ofiarą kadzidła. Nie kupiłeś Mi wonnej trzciny za pieniądze ani Mnie nie upoiłeś tłuszczem twoich ofiar; raczej Mi przykrość zadałeś twoimi grze­chami, występkami twoimi Mnie zamęczasz. Ja, właśnie Ja prze­kreślam twe przestępstwa i nie wspominam twych grzechów" (Iz 43,23-25; por. Ps 65,4).
+
+Miłość _miłosierna_, miłość _w wymiarze krzyża_, wraz z jej _darmowością_, stanowi jedyną potęgę, która potrafi usunąć ten korzeń z serca ludzkiego, stać się źródłem odpuszczenia grzechów i fun­damentem nowego życia. Jednak sama w sobie, jak długo pozostaje na krzyżu jako swego rodzaju podniosła idea, nie może być dla człowieka po upadku skuteczna. W _kerygmacie_ Kościoła śmierć Chrystusa na krzyżu nie może być i nigdy nie była odse­parowana od tego, co wydarzyło się po niej. Krzyż Chrystusa jest zawsze chwalebny - to krzyż Pana zmartwychwstałego. Dlatego decydujące słowo o _serdecznej litości Boga_ wypowiedziane zo­stało dopiero o poranku _trzeciego dnia_, gdy _Wschodzące Słońce_ zajaśniało tym wszystkim, „co w mroku i cieniu śmierci mieszka­ją" (Łk 1,78-79).
+
+## Zmartwychwstając zwyciężył śmierć i odnowił życie
+
+Proklamacja zmartwychwstania Chrystusa to centrum keryg­matu chrześcijańskiego i sama istota Dobrej Nowiny. Jej treść stanowi przede wszystkim zwycięstwo Chrystusa nad szatanem i nad niewolą strachu przed śmiercią, następnie usprawiedliwie­nie człowieka, to znaczy przywrócenie mu utraconej zdolnoś­ci do bezwarunkowego dawania i tracenia siebie. Tak więc Zmartwychwstanie jest głoszone jako warunek odpuszczenia grzechów, ponieważ tylko wskrzeszony Chrystus - prawdziwy Bóg i prawdziwy Człowiek - może żyć i kochać, zamieszkując w wierzącym<sup>[\[115\]](#footnote-115)</sup>.
+
+### Skruszona potęga diabła
+
+Gdzież jest, o śmierci, twoje zwycięstwo? (1 Kor 15,55)
+
+Fakt powstania Chrystusa z martwych stanowi w pierwszym rzędzie niezbędne potwierdzenie i przypieczętowanie Dobrej \[132\] Nowiny, zawartej w wydarzeniu Krzyża. Chodzi tutaj przede wszystkim o tę prawdę, którą szatan _ukradł_ człowiekowi w raju, mianowicie że Bóg jest jedynym Stwórcą i Dawcą życia, który kocha człowieka i dlatego można się na Nim oprzeć i nie zostać _zawstydzonym_ (Ps 25,2). To jest bowiem - jak powiedzieliśmy – najstraszliwsza choroba ludzkości: nie wierzyć, że jest w ludz­kim życiu Ktoś, kto kocha człowieka naprawdę, to znaczy bezinteresownie i bezwarunkowo, kto troszczy się o niego i nigdy go nie opuszcza, także w momencie najgłębszego cierpienia, kiedy wydaje się, że wszystko już zostało stracone. Krzyż Jezusa Chrystusa jest objawieniem całkowicie _darmowej_ miłości Boga Ojca, bo zwraca się do grzesznika, który w żaden sposób na nią zasłużyć nie potrafi.
+
+Wielkanocne przesłanie: „Bóg wskrzesił Go z martwych" (Dz 3,15; por. 13,30), stanowi zatem katechezę pierwotnego Kościoła, _nowej Ewy,_ katechezę, która jest odpowiedzią na antykatechezę diabła, przyjętą przez _starą Ewę_. Dlatego Zmartwychwstanie głosi się jako Dobrą Nowinę o zwycięstwie Chrystusa nad szatanem, która - jeśli zostanie przyjęta - ma moc skruszyć potęgę grzechu i wyrwać człowieka z jego niewoli. O tej potędze Ewangelii przypominają słowa, które wypowiada proklamujący ją: „Słowa Ewangelii niech zgładzą nasze grzechy". Korzeniem niewoli, będącej konsekwencją grzechu pierworodnego, jest strach przed umieraniem dla siebie i bezsensownym traceniem swego życia. Ostatecznym źródłem tego egzystencjalnego strachu jest _wdruko­wana_ w człowieka głęboka nieufność względem Boga i brak doświadczenia Jego darmowej miłości.
+
+Tymczasem Chrystus nie podlegał nigdy niewoli strachu, przez który po upadku zły duch „dzierżył władzę nad śmiercią" (Hbr 2,14) człowieka i „podbijał go w niewolę pod prawo grzechu" (Rz 7,23). Nie dotknęła Go ona, ponieważ Syn Boży nigdy \[133\] nie przystał na pokusę oskarżyciela, zmierzającą (podobnie jak było _na początku_) do zerwania Jego synowskiej relacji z Bogiem. Toteż Chrystus nigdy nie przestał _poznawać_ Boga jako Ojca, to znaczy jako Tego, który daje życie w sposób całkowicie bezwa­runkowy, i dlatego mógł On w taki sam sposób dawać swoje ży­cie, „aby je potem znów odzyskać" (J 10,17). Jezus nigdy nie uległ fałszywym sugestiom diabła, obiecującego, także Jemu, życie w odłączeniu od Ojca i kuszącego wizją przyobleczenia się w potęgę na własną rękę, dla siebie samego. Jezus przeżywał swoją relację do Boga w doświadczeniu przysługującej Synowi darmowości, nie troszcząc się o własną chwałę, zdolny do uzna­nia własnego z niej obnażenia jako znaku całkowitego oddania się Ojcu<sup>[\[116\]](#footnote-116)</sup>. Zachowując życiodajną relację i zjednoczenie z Oj­cem (por. J 10,30), Chrystus ufał Mu bezgranicznie, co pozwalało wypełniać Jego wolę, gdy został mu ograniczony (pozornie - po­dobnie jak Adamowi w raju) dostęp do _drzewa życia_. Także wte­dy Chrystus nie chciał zapewnić sobie życia samodzielnie, lecz całkowicie zdał się na Boga: „_Ojcze,_ w _Twoje ręce powierzam ducha mojego_" (Łk 23,46). Właśnie dlatego krzyż ustawiony na Golgocie stał się prawdziwym drzewem życia, do którego dostęp mają wszyscy (por. Rdz 3,23-24).
+
+Syn Boży, opierając się na swoim Ojcu, dobrowolnie wszedł w śmierć z miłości do braci, a zmartwychwstając przełamał jej terror, dzięki któremu panowała nad nimi, wiodąc ich do grzechu i trzymając w niewoli. Z tej przyczyny Zmartwychwstanie stano­wi _zerwanie więzów śmierci_ (por. Dz 2,24) i jest głoszone jako _śmierć śmierci: „Gdzież jest, o śmierci, twoje zwycięstwo? Gdzież jest, o śmierci, twój oścień?"_ (1 Kor 15,55). Jeżeli Jezus oddał \[134\] dobrowolnie życie za swoich oprawców, a teraz żyje, to znaczy, że nie jest oszustem, że jego nauczanie o miłosierdziu Boga i miłości do nieprzyjaciół jest prawdą, a jedyne rzeczywiste prawo człowieka to _Prawo miłości_. Wskrzesiwszy zabitego na krzyżu Jezusa, Bóg ujmuje się za Nim i tym samym zaświadcza (por. Mt 27,43), że miłość w formie ukazanej na krzyżu, która nie stawia oporu złu, pozostawia drugiego wolnym i bierze na siebie jego grzechy, była, jest i będzie jedyną prawdą, _ukrytą mądrością_ (1 Kor 2,7).
+
+W powyższym sensie Zmartwychwstanie może być rozumiane jako właściwa odpowiedź na pytanie namiestnika Poncjusza Piłata, które zadał Jezusowi podczas procesu: „Cóż to jest prawda?" (J 18,38). A ponieważ w przewodzie sądowym Chrystusa symbolicznie spotkały się dwa filary cywilizacji zachodniej, jakimi były (i wciąż pozostają) monoteistyczna religia Izraela oraz porządek prawny Cesarstwa Rzymskiego, dlatego w tym pytaniu zawiera się niejako cały ludzki wysiłek poszukiwania prawdy, na który ostateczną odpowiedź stanowią mądrość Krzyża i wydarzenie Zmartwychwstania, nie przestając być zgorszeniem dla jednych i głupstwem dla drugich (por. 1 Kor 1,23).
+
+### Uwolnienie z przekleństwa Prawa
+
+Ile tylko obietnic Bożych, w Nim wszystkie są „tak" (2 Kor 1,20)
+
+Misterium paschalne Jezusa Chrystusa jest ukazane jako pre­cyzyjna realizacja zamysłu Boga w _pełni czasów_ (Ga 4,4), punkt centralny całej historii zbawienia, ostateczne wypełnienie Bożych zamiarów względem ludzkości: „Albowiem ile tylko obietnic Bożych, w Nim wszystkie są «tak»" (2 Kor 1,20). Wyraża tę prawdę sam Jezus: Prawa albo Proroków „Nie przyszedłem znieść, ale wypełnić" (Mt 5,17).
+
+\[135\]
+
+Chrystus jest jednocześnie _Synem Bożym_ i _Synem Człowieczym_, „obrazem Boga niewidzialnego - Pierworodnym wobec każdego stworzenia" (Kol 1,15). Dlatego w Nim możliwe staje się za­równo przywrócenie człowiekowi prawdziwego obrazu Boga („kto Mnie widzi, widzi Tego, który Mnie posłał" – J 12,45), jak również odtworzenie człowieka według tego obrazu („jak nosili­śmy obraz ziemskiego \[człowieka\], tak też nosić będziemy obraz \[człowieka\] niebieskiego" – 1 Kor 15,49). Tradycja patrystyczna nazwała Chrystusa _prototypem_ całego stworzenia, ponieważ człowiek został stworzony na Jego obraz, a po zniekształceniu przez grzech, w Nim także obraz ten został zrekonstruowany. To Chrystus jest autorem nowego stworzenia, obiecanego w Prawie i zapowiedzianego przez proroków, stąd „Jeżeli (…) ktoś pozostaje w Chrystusie, jest nowym stworzeniem. To, co dawne, minęło, a oto &lt;wszystko&gt; stało się nowe" (2 Kor 5,17; por. Ga 6,15).
+
+Dzięki Chrystusowi człowiek odzyskuje utraconą z powodu grzechu możliwość wypełnienia Nowego Przykazania, które On daje swoim uczniom (por. J 13,34). Jest ono _nowe_ nie dlatego, że go przedtem nie było („nie piszę do was o nowym przykazaniu, ale o przykazaniu istniejącym od dawna, które mieliście od sa­mego początku" – 1 J 2,7), ale ponieważ dopiero w Chrystusie staje się możliwa jego realizacja („A jednak piszę wam o nowym przykazaniu, które prawdziwe jest w Nim i w nas, ponieważ ciemności ustępują, a świeci już prawdziwa światłość" – 1 J 2,8). On pierwszy, wypełniając to przykazanie, otworzył drogę do jego realizacji dla tych, którzy wierzą w Niego, aby mieli możli­wość spełniania się w miłości i tworzenia relacji międzyludzkich na obraz wspólnoty trynitarnej. Dokonało się to i ukazało w całej pełni na krzyżu, gdzie Chrystus jako jedyny z ludzi do końca wypełnił Prawo i tym samym osądził każdego człowieka jako grzesznika.
+
+\[136\]
+
+Objawiona w Zmartwychwstaniu prawda o sprawiedliwości Boga i niesprawiedliwości człowieka, rzuca szczególne światło na funkcję Prawa Starego Przymierza w ekonomii zbawienia. Według św. Pawła, Izrael otrzymał Prawo nie ze względu na swoją sprawiedliwość, to znaczy nie dlatego, że był (po upadku) zdolny do jego wypełnienia, lecz „Zostało ono dodane ze wzglę­du na wykroczenia" (Ga 3,19), czyli po to, aby wykazać Izraelowi niezdolność do jego realizacji na podstawie jedynie własnych sił (_za pomocą uczynków -_ Ga 2,16; 3,2): „A wiemy, że wszystko, co mówi Prawo, mówi do tych, którzy podlegają Prawu. I stąd każde usta muszą zamilknąć i cały świat musi się uznać winnym wobec Boga, jako że z uczynków Prawa _żaden człowiek nie może dostąpić usprawiedliwienia w Jego oczach_. Przez Prawo bowiem jest tylko większa znajomość grzechu" (Rz 3,19-21)<sup>[\[117\]](#footnote-117)</sup>.
+
+Według tej optyki Apostoł stwierdza paradoksalnie, że właśnie istnienie Prawa w odniesieniu do ludzi bezsilnych wobec jego wymagań przyczyniało się do ich grzechu - nie w tym sensie, jakoby Prawo samo w sobie było źródłem ludzkich upadków czy je prowokowało (i jako takie samo było złem, _grzechem_), ale sta­nowiło okazję czy możliwość ich rozpoznania: „Cóż więc powie­my? Czy Prawo jest grzechem? Żadną miarą! Ale jedynie przez Prawo zdobyłem znajomość grzechu. Nie wiedziałbym bowiem, co to jest pożądanie, gdyby Prawo nie mówiło: _Nie pożądaj_. Z przykazania tego czerpiąc podnietę, grzech wzbudził we mnie wszelakie pożądanie. Bo gdy nie ma Prawa, grzech jest w stanie śmierci" (Rz 7,7-8).
+
+\[137\]
+
+W tym fragmencie Paweł wydaje się świadomie nawiązywać do opisu kuszenia pierwszych rodziców z Księgi Rodzaju i do Bożego zakazu spożywania owoców z drzewa poznania dobra i zła. Zakaz ten, sam w sobie dobry i pożyteczny dla człowieka, stał się bowiem narzędziem, którego szatan użył, aby doprowa­dzić człowieka do upadku (ponieważ zinterpretował mu to pierw­sze Prawo jako dowód na to, że Bóg go ogranicza). Dlatego w dalszej części tego samego fragmentu czytamy: „Kiedyś i ja prowadziłem życie bez Prawa. Gdy jednak zjawiło się przykaza­nie - grzech ożył, ja zaś umarłem. I przekonałem się, że przyka­zanie, które miało prowadzić do życia, zawiodło mnie ku śmierci. Albowiem grzech, czerpiąc podnietę z przykazania, uwiódł mnie i przez nie zadał mi śmierć. Prawo samo jest bezsprzecznie świę­te; święte, sprawiedliwe i dobre jest też przykazanie. A więc to, co dobre, stało się dla mnie przyczyną śmierci? Żadną miarą! Ale to właśnie grzech, by okazać się grzechem, przez to, co dobre, sprowadził na mnie śmierć, aby przez związek z przykazaniem grzech ujawnił nadmierną swą grzeszność" (Rz 7,9-13).
+
+W historii zbawienia ścisłe związanie Prawa z grzechem mia­ło za zadanie ukazać prawdę o kondycji ludzkiej po upadku: „(…) wszyscy bowiem zgrzeszyli i pozbawieni są chwały Bożej" (Rz 3,23)<sup>[\[118\]](#footnote-118)</sup>. Prawo pełniło w narodzie wybranym rolę oskarży­ciela, który miał przekonywać nieustannie o tym, że do zbawie­nia nie wystarczają jedynie ludzkie wysiłki: „(…) na tych wszystkich, którzy polegają na uczynkach Prawa, ciąży prze­kleństwo. Napisane jest bowiem: _Przeklęty każdy, kto nie wypeł­nia wytrwale wszystkiego, co nakazuje wykonać Księga Prawa_" (Ga 3,10). Wobec tego _przekleństwa,_ którym była niemożność uzyskania zbawienia samodzielnie (_za pomocą uczynków_), \[138\] dzięki wypełnieniu Prawa, jego funkcja polegała na ukazaniu ko­nieczności przyjścia Zbawiciela. W tym właśnie sensie Apostoł nazywa Prawo „wychowawcą, \[który miał prowadzić\] ku Chrystusowi" (Ga 3,24) - dopiero On miał uzdolnić człowieka do wypełniania Prawa. Jezus wypełnił to dzieło właśnie przez to, że wziął na siebie wszelkie konsekwencje niewypełnienia Prawa w dziejach ludzkości: „Z tego przekleństwa Prawa Chrystus nas wykupił – stawszy się za nas przekleństwem, bo napisane jest: _Przeklęty każdy, którego powieszono na drzewie_" (Ga 3,13). Tak wiec możliwość wypełnienia Prawa zostaje dana człowiekowi jako obietnica „na drodze wiary w Jezusa Chrystusa tym, którzy wierzą" (Ga 3,22), „abyśmy z wiary uzyskali uspra­wiedliwienie" (Ga 3,24)<sup>[\[119\]](#footnote-119)</sup>.
+
+### Zdolność bycia sprawiedliwym
+
+Wskrzeszony z martwych
+
+dla naszego usprawiedliwienia (Rz 4,25)
+
+Dotykamy w ten sposób samej istoty Dobrej Nowiny, która zawiera się w przepowiadaniu apostolskim – o ile bowiem zabity w swoim ciele Chrystus ujawnia człowieka jako grzesznika, bez­silnego (umarłego) wobec wymagań Prawa, to Chrystus zmar­twychwstały, żyjąc w tych, którzy wierzą w Niego, wyzwala w nich moc do realizacji Prawa: „Tak i wy, bracia moi, dzięki \[139\] ciału Chrystusa umarliście dla Prawa, by złączyć się z innym - z Tym, który powstał z martwych, byśmy zaczęli przynosić owoc Bogu. Jak długo bowiem wiedliśmy życie cielesne, grzeszne na­miętności \[pobudzane\] przez Prawo działały w naszych człon­kach, by owoc przynosić śmierci. Teraz zaś Prawo straciło moc nad nami, gdy umarliśmy temu, co trzymało nas w jarzmie, tak że możemy pełnić służbę w nowym duchu, a nie według przestarza­łej litery" (Rz 7,4-6).
+
+Jeżeli niezdolność człowieka do bezinteresownej miłości sta­nowi zasadniczą konsekwencję grzechu, to jej głoszone w Chry­stusie umarłym i zmartwychwstałym przywrócenie jest skutecz­nym znakiem odpuszczenia grzechów i usprawiedliwienia czło­wieka. Wraz ze Zmartwychwstaniem otwiera się droga, prowa­dząca do odrodzenia starego człowieka, oszukanego przez szatana i zranionego przez grzech, do odrodzenia według pierwotnego zamysłu Boga stworzenia go na swój obraz, aby mógł mieć udział w Boskiej miłości: „Bóg Ojciec już od początku postano­wił uczynić człowieka uczestnikiem swej chwały w zmartwych­wstałym Jezusie Chrystusie: «W Nim mamy odkupienie przez Jego krew - odpuszczenie występków»" (Ef 1,6)<sup>[\[120\]](#footnote-120)</sup>. Zmartwychwstały jest zatem drogą do odpuszczenia grzechów, czyli do zniszczenia w człowieku strachu przed śmiercią, wyburzenia muru wrogości, który wznosi się w jego sercu i nie pozwala mu realizować się w miłości i jedności z innymi ludźmi, co byłoby odzwierciedleniem wspólnoty trynitarnej. Jako jedyny Spra­wiedliwy przez swoje zmartwychwstanie otwiera przed ludzko­ścią możliwość usprawiedliwienia, to znaczy odnawia utracony na skutek grzechu potencjał bycia sprawiedliwym, czyli czło­wiekiem, który wypełnia do końca Prawo miłości i poprzez nie \[140\] realizuje swoje powołanie do posiadania życia w bezinteresow­nym traceniu go dla drugiego.
+
+Po grzechu pierworodnym człowiek nie mógł być sprawiedli­wy sam z siebie, ponieważ nie potrafił wypełnić Prawa o własnych siłach - nie był w stanie kochać w wymiarze krzyża. Wielokrotnie powtarzał tę prawdę Apostoł: „(…) z uczynków Prawa _żaden człowiek nie może dostąpić usprawiedliwienia_ i _w Jego oczach_" (Rz 3,20), bo „w Prawie nikt nie osiąga usprawiedliwienia przed Bogiem" (Ga 3,11). Dopiero w Chrystusie umarłym i zmartwychwstałym Jawną się stała sprawiedliwość Boża niezależna od Prawa, poświadczona przez Prawo i Proroków" (Rz 3,21). Dlatego właśnie nie ma tutaj żadnej zasługi ze strony zranionych przez grzech ludzi, którzy „dostępują usprawiedliwienia darmo, z Jego łaski, przez odkupienie, które jest y w Chrystusie Jezusie" (Rz 3,24), toteż „Została uchylona" jakakolwiek „podstawa do chlubienia się" (Rz 3,27). Prawo, którego istotę stanowi miłość, pozostaje zatem w mocy - nie zostaje uchylone, lecz wypełnione w Chrystusie: „Czy więc przez wiarę obalamy Prawo? Żadną miarą! Tylko Prawo właściwie ustawiamy" (Rz 3,31). j
+
+Tylko w powyższym sensie - jak już była mowa - można poprawnie rozumieć stwierdzenie św. Pawła o „wykupieniu z prze­kleństwa" _Prawa_ (Ga 3,13), które sprowadza się do niezdolności jego wypełnienia. „Napisane jest bowiem: _Przeklęty każdy, kto nie wypełnia wytrwałe wszystkiego, co nakazuje wykonać Księga Prawa_" (Ga 3,10). Uwolnienie od Prawa polega na tym, że w Chrystusie Prawo zostaje spełnione darmowo, a nie jako rezultat wysiłków człowieka, które po upadku są bezowocne, gdyż żaden człowiek przed Chrystusem nie potrafił tak kochać drugiego, aby stać się za niego przekleństwem: „_Przeklęty każdy, którego powieszono na drzewie_" (Ga 3,10).
+
+\[141\]
+
+### Odpuszczenie grzechów
+
+Jeżeli Chrystus nie zmartwychwstał, pozostajecie w swoich grzechach (1 Kor 15,17)
+
+Chrystus jako jedyny Sprawiedliwy ma moc usprawiedliwia­nia, a więc uzdalniania człowieka zniewolonego przez grzech do bycia sprawiedliwym, czyli do realizacji Prawa miłości. On w swoim ciele pogrzebał i zniszczył _ciało grzechu_ (Rz 6,6), to znaczy starego człowieka, wyburzył barierę strachu tkwiącą w je­go sercu, pozbawił śmierć władzy nad nim, przełamał jej krąg i ustanowił nowy, nieznany wymiar miłości. „On sam, w swoim ciele _poniósł_ nasze _grzechy_ na drzewo, abyśmy przestali być uczestnikami grzechów, a żyli dla sprawiedliwości - _Krwią Jego zostaliście uzdrowieni_" (1 P 2,24). Wszystko po to, aby człowiek potrafił przekraczać _mur wrogości_ (Ef 2,14), który oddziela go od drugiego człowieka i nie pozwała mu stawać się dla niego bezin­teresownym darem. Św. Paweł tak podsumowuje misję Chrystusa: „On to _został wydany za nasze grzechy i wskrzeszony z martwych dla naszego usprawiedliwienia_" (Rz 4,25).
+
+W tej perspektywie staje się zrozumiałe, z jakiego powodu właśnie fakt zmartwychwstania (a nie tylko samo wydarzenie krzyża) stanowi w przepowiadanym kerygmacie niezbędny wa­runek odpuszczenia grzechów<sup>[\[121\]](#footnote-121)</sup>. Jeśli całkowicie hipotetycznie założymy, że Chrystus nie zmartwychwstałby, a Jego historię za­kończyłaby śmierć, wtedy Jego krzyż pozostałby tylko tragiczną manifestacją grzechu, nieubłaganym sądem nad grzesznikiem, \[142\] a objawiona na krzyżu Boża miłość byłaby w sposób nieuniknio­ny _zgorszeniem, głupstwem_ (por. 1 Kor 1,23) albo tylko piękną, lecz nieosiągalną w praktyce teorią. Gdyby Bóg nie wskrzesił Jezusa, oznaczałoby to, że wszyscy ludzie są grzesznikami, któ­rzy nie mogą wypełnić Prawa, wszyscy pozostają w niewoli dia­bła pod jarzmem strachu, niezdolni do miłości. Tak więc sytuacja człowieka po grzechu nie uległaby żadnej zmianie, a jego skutki w ludzkim życiu trwałyby nadal. W tym sensie staje się zrozu­miała zdecydowana konkluzja św. Pawła: „(…) jeżeli Chrystus nie zmartwychwstał, daremna jest wasza wiara i aż dotąd pozostajecie w swoich grzechach" (1 Kor 15,17).
+
+W śmierci Jezusa objawiła się prawda o grzechu człowieka i odbył się sąd nad nim, ale to dopiero Jego zmartwychwstanie oznacza przebaczenie tego grzechu. Jeżeli w krzyżu Chrystusa okazało się, że „wszyscy (…) zgrzeszyli i pozbawieni są chwały Bożej" (Rz 3,23), a „zapłatą za grzech jest śmierć" (Rz 6,23), która dotyka wszystkich ludzi, to powstanie jednego człowieka z martwych znaczy, że grzech został przebaczony. Chrystus jest tym człowiekiem, który „zmartwychwstał jako pierwszy spo­śród tych, co pomarli" (1 Kor 15,20), i to jest gwarancja przeba­czenia grzechów. Zmartwychwstanie głosi się więc jako Dobrą Nowinę o odpuszczeniu grzechów: „Lecz nie uległ skażeniu Ten, którego Bóg wskrzesił. Niech więc będzie wam wiadomo, bracia, że zwiastuje się wam odpuszczenie grzechów przez Niego" (Dz 13,37).
+
+Kościół w Ewangelii ogłasza, że można już więcej nie bać się śmierci i nie bronić się przed umieraniem, ale tracić swoje życie jak Jezus, skoro Ten, który daje istnienie za darmo, wskrzesił Go z martwych. Jeżeli grzechy są odpuszczone, to na tym świecie jest możliwa miłość w wymiarze krzyża, a zatem można bezwa­runkowo kochać nieprzyjaciela, można być bezinteresownym \[143\] darem dla drugiego i tak wypełnić Prawo, zapisane w ludzkim sercu od początku.
+
+### Zwycięstwo nad śmiercią
+
+Stał się ostatni Adam duchem ożywiającym (1 Kor 15,45)
+
+Adam _\- pierwszy człowiek_ - jest typem i figurą człowieka żyjącego w niewoli grzechu, natomiast Jezus Chrystus - _ostatni Adam -_ to pierwszy człowiek żyjący w porządku odnowionego stworzenia i obraz nowej ludzkości: „Pierwszy człowiek z ziemi - ziemski, drugi Człowiek - z nieba. Jaki ów ziemski, tacy i ziem­scy; jaki Ten niebieski, tacy i niebiescy. A jak nosiliśmy obraz ziemskiego \[człowieka\], tak też nosić będziemy obraz \[człowie­ka\] niebieskiego" (1 Kor 15,47-49). Pomiędzy tymi dwoma porządkami istnieje nieprzekraczalna granica: _nowe stworzenie_ (por. Ga 6,15) nie wywodzi się od starego człowieka, Adama, ponieważ _stare stworzenie_ nie jest zdolne do miłości, będącej uczestnictwem w życiu Bożym - ona należy do tej nowości, którą Bóg inauguruje w Chrystusie zmartwychwstałym: „Zapewniam was, bracia, że ciało i krew nie mogą posiąść królestwa Bożego, i że to, co zniszczalne, nie może mieć dziedzictwa w tym, co nie­zniszczalne" (1 Kor 15,50).
+
+Sięgamy raz jeszcze do soteriologicznego tekstu, który znajdu­je się w Liście do Hebrajczyków (2,14-15), tym razem zwracając uwagę na jego zawartość kerygmatyczną. Mówi on najpierw o ce­lu Wcielenia Syna Bożego: Chrystus bez żadnej różnicy stał się uczestnikiem ciała i krwi, „aby przez śmierć pokonać tego, który dzierżył władzę nad śmiercią, to jest diabła" (Hbr 2,14). Bóg po­przez zmartwychwstanie, „tego Jezusa, którego (…) ukrzyżowali, uczynił (…) i Panem, i Mesjaszem" (Dz 2,36). Ten, który ma \[144\] udział w naturze ludzkiej, został ustanowiony _Panem wszystkich_ (Dz 10,36), _Kyriosem_ (Rz 10,9; por. Flp 2,9-11), Stwórcą nowego życia, aby przekazywał człowiekowi nowe istnienie i udzielał mu swojej natury: „_Stał się pierwszy człowiek, Adam, duszą żyjącą_, a ostatni Adam duchem ożywiającym" (1 Kor 15,45).
+
+Mając naturę ludzką, Chrystus może jednoczyć się z każdym człowiekiem, aby jako Pan dawać mu udział w naturze Bożej (jest nią miłość objawiona na krzyżu) i tym samym „uwolnić tych wszystkich, którzy całe życie przez bojaźń śmierci podlegli byli niewoli" (Hbr 2,15). Bóg _wskrzesił Sługę swego_ właśnie po to, aby _posłać Go_ do serca człowieka i w ten sposób _błogosławić każdemu w odwracaniu się od grzechów_ (Dz 3,26)<sup>[\[122\]](#footnote-122)</sup>. To dlatego, że Chrystus zmartwychwstał i żyje, może zamieszkiwać we wnę­trzu człowieka wierzącego i żyjąc w nim, kochać w wymiarze krzyża, tracić swoje życie i być bezinteresownym darem dla drugiego. Taka właśnie jest wymowa biblijnej relacji o uzdrowieniu człowieka chromego przez Piotra i Jana (por. Dz 3,6-9). Może on _chodzić, skacząc i wielbiąc Boga_ (Dz 3,8) nie _mocą czy pobożno­ścią_ Apostołów (Dz 3,12), ale dlatego, że Jezus Chrystus zmar­twychwstał „I przez wiarę w Jego imię temu człowiekowi (…) imię to przywróciło siły" (Dz 3,16)<sup>[\[123\]](#footnote-123)</sup>.
+
+Tak więc, tylko jeśli Chrystus zmartwychwstał, człowiek może być sprawiedliwy, to znaczy może zostać wyzwolony z pra­wa grzechu i jest w stanie wypełnić Prawo miłości, które \[145\] streszcza i zawiera wszystkie przykazania, stanowiąc jedyną drogę do udziału w wewnętrznym życiu Trójcy Świętej. Jest to w całości dzieło Boga, który „będąc bogaty w miłosierdzie, przez wielką swą miłość, jaką nas umiłował, i to nas, umarłych na skutek występków, razem z Chrystusem przywrócił do życia" (Ef 2,4-5). W ten sposób wydarzenie zmartwychwstania stanowi wypełnie­nie prorockich obietnic, ściśle związanych z wizją powstania z martwych (por. Iz 26,19; Oz 6,l-2)<sup>[\[124\]](#footnote-124)</sup>: „My właśnie głosimy wam Dobrą Nowinę o obietnicy danej ojcom: że Bóg spełnił ją wobec nas jako ich dzieci, wskrzesiwszy Jezusa" (Dz 13,32).
+
+Możemy teraz lepiej zrozumieć, w jakim sensie Chrystus przyszedł, aby _wypełnić Prawo_ (Mt 5,17). On realizuje w Sobie zapowiedzi proroków o interioryzacji Prawa w Nowym Przy­mierzu i w ten sposób odnawia pierwotny zamysł Stwórcy względem człowieka jako stworzonego na obraz i podobieństwo Boga. Jego istota to - jak wiemy - obdarowanie człowieka umiejętnością posiadania siebie w dawaniu siebie drugiemu, umiejętnością stanowiącą ostateczny warunek jego spełniania się we wspólnocie z drugim. Wymaga to jednak od człowieka zdolności tracenia swego życia dla drugiego i jest realne jedynie na podstawie życiodajnej relacji ze Stwórcą, ta zaś może być tylko Jego darem.
+
+Od św. Atanazego ojcowie Kościoła wyrażali zawartą powy­żej prawdę w słowach _adagium_: „Syn Boży stał się człowiekiem, \[146\] abyśmy mogli stać się synami Bożymi". Historia dogmatu chrystologicznego ukazuje wysiłek, podjęty przez Kościół w pierwszych wiekach, aby dogmatycznie uzasadnić ontyczną możliwość owej _cudownej wymiany_ natur. Najgłębszą racją i motorem wszystkich sporów tamtego czasu było zachowanie idei integralnego zbawienia, to znaczy udziału stworzenia w życiu Boga Trójjedynego. Ostatecznie punktem wyznania wiary umożliwiającym to było orzeczenie o hipostatycznym zjednoczeniu Słowa z ludzką naturą, przy jednoczesnym braku ludzkiej osoby w Chrystusie, gdyby bowiem Jezus był ludzką hipostazą, byłby tylko tym jednym, konkretnym człowiekiem, który jest jednocześnie Synem Bożym, ale nie mógłby ontologicznie jednoczyć się z innymi ludźmi. Takie zjednoczenie miałoby, co najwyżej, charakter moralny, a Jezus w takim przypadku byłby swego rodzaju idolem, niedoścignionym wzorem do podziwiania, ale przecież nie do naśladowania: _on jest Bogiem, a ja tylko człowiekiem._ Tymczasem właśnie dzięki _niesymetryczności_ unii hipostatycznej Słowo, _wyposażone_ w obie natury, może jednoczyć się z każdym człowieczeństwem, aby dać mu udział w bóstwie.
+
+Podsumowując, prawda o stworzeniu na obraz Boga oznacza, że człowiek-Adam został ukształtowany według wzoru, którym jest Jezus Chrystus (dzieło stworzenia), w Nim został odtworzony (dzieło odkupienia), toteż tylko w podobieństwie do Jezusa każdy człowiek może odnaleźć prawdę o sobie: „Tajemnica człowieka wyjaśnia się naprawdę dopiero w tajemnicy Słowa Wcielonego. Albowiem Adam, pierwszy człowiek, był figurą przyszłego, mianowicie Chrystusa Pana. Chrystus, nowy Adam, już w samym objawieniu tajemnicy Ojca i Jego Miłości objawia w pełni człowieka samemu człowiekowi i okazuje mu najwyższe jego powołanie" (KDK 22). W Chrystusie zatem _rekapituluje się_ (Ef 1,10) cały plan Boga wobec ludzkości, \[147\] który od początku zmierza do obdarowania człowieka udziałem w wewnętrznej tajemnicy Boga Trójjedynego.
+
+### Oświecenie i pojednanie
+
+Bóg z tymi, którzy Go miłują współdziała we wszystkim (Rz 8,28)
+
+W tym miejscu przywołujemy pewne istotne doświadczenie, które pojawia się zawsze jako charakterystyczny owoc wiary w Zmartwychwstanie. Chodzi mianowicie o szczególny sposób widzenia dobroci Boga i Jego zbawczego działania w każdej hi­storii (osobistej i powszechnej). Chrześcijanie bowiem (jeśli nimi są naprawdę) postrzegają całą rzeczywistość zupełnie inaczej niż wszyscy inni (także religijni) ludzie. Chrześcijanie są _oświeceni_ (starożytna nazwa ochrzczonego), to znaczy mają szczególny duchowy wzrok, niezwykły sposób postrzegania świata, dzięki któremu we wszystkim potrafią zobaczyć obecność i działanie Boga. I nic (żadna sfera życia) nie jest dla nich wykluczone, za­kazane, oddzielone, nieczyste, pozbawione Bożej obecności.
+
+Nowy Testament ukazuje ten właściwy uczniom Chrystusa sposób patrzenia na rzeczywistość wielokrotnie i na różne sposo­by. Warto pod tym kątem przeanalizować np. wszystkie ewange­liczne relacje o przywróceniu przez Jezusa wzroku ludziom śle­pym. Nie chodzi w nich przecież jedynie o cudowne odtworzenie normalnej funkcji oczu, ale raczej o ukazanie nowej jakości wi­dzenia świata i Boga, którą otrzymają wierzący, że Chrystus żyje. Na czym polega ta nowość widzenia, oferowana przez Chrystusa Jego uczniom, pisze św. Paweł: „Wiemy, że Bóg z tymi, którzy Go miłują współdziała we wszystkim dla ich dobra" (Rz 8,28). Dlatego dla chrześcijanina wszystko jest łaską wszystko jest miłością, \[148\] bo wszystko pochodzi od Boga i do Boga prowadzi. Wszystko, a więc także każde cierpienie, każdy krzyż, każda niesprawiedliwość, jaka go spotyka, każda obelga, każde upokorzenie, i nie ma na świecie nic, co by się wymykało mądrej i kochającej Opatrzności Bożej.
+
+Nie ma zatem nic, co nie służyłoby dobru, nie ma nic nieczystego, co byłoby _profanum._ Chrystus uczy, że to serce człowieka – zło, jakie jest w jego wnętrzu - czyni zewnętrzną rzeczywistość nieczystą, profanuje ją. W sposób szczególny doświadczył tego  
+św. Piotr, który jako Żyd miał w sobie głęboko zakodowany podział na _sacrum_ i _profanum._ Podczas wizji zwierząt, uważanych przez Prawo Mojżesza za nieczyste (por. Dz 10,11-16), Piotr słyszy: „Nie nazywaj nieczystym tego, co Bóg oczyścił!" (Dz 10,15). Odnosząc się do tej samej dziedziny, św. Paweł poucza: „Przeto czy jecie, czy pijecie, czy cokolwiek innego czynicie, wszystko na chwałę Bożą czyńcie" (1 Kor 10,31). Można powiedzieć, że dla chrześcijan cały świat jest wielką świątynią, gdzie spotykają Boga i oddają Mu chwałę (dlatego w ramach chrześcijańskiego kultu zostaje zniesiony wyraźny rozdział pomiędzy  
+_sacrum_ a _profanum_)<sup>[\[125\]](#footnote-125)</sup>.
+
+Biblijnym obrazem życia chrześcijańskiego, zaczerpniętym ze Starego Testamentu i używanym w katechezie pierwotnego Kościoła, jest historia trzech młodzieńców opisana w Księdze Daniela (3,1-100). Chananiasz, Azariasz i Miszael zostali uprowadzeni do Babilonii i służyli na dworze króla Nabuchodonozora, jednak nie chcieli czcić jego posągu. Za karę zostali wrzuceni do pieca, w którym jednak nie zginęli, lecz śpiewali hymn pochwalny na cześć Boga Izraela. Oni właśnie są obrazem chrześcijan: \[149\]
+
+<sup>125</sup>
+
+148
+
+pośród płomieni cierpień i żaru prześladowań nie przeklinają swego życia i swoich oprawców, lecz błogosławią Boga i modlą się za swoich prześladowców. Tutaj widać zasadniczą różnicę pomiędzy chrześcijaninem a tym, kto nim nie jest: tam, gdzie każdy inny człowiek złorzeczy na swój los (na krzyżu), chrześci­janin ma zdolność błogosławienia. Tej umiejętności nie zawdzię­cza jednak sobie: swoim wysiłkom, pracy nad sobą czy szczegól­nym uzdolnieniom. Czyni to, ponieważ nie pozostaje sam - jest z nim _ten czwarty,_ czyli Jezus Chrystus, Jego obecność zaś jest całkowitym darem, a nie zasługą. Chrześcijanin więc to ten, kto zwyciężył śmierć, bo ona nie może mu już wyrządzić żadnej krzywdy (prócz odebrania biologicznego życia), nie może go zniszczyć, odebrać sensu życia, oddzielić od Boga. Chrześcijanin nie jest zatem kimś lepszym od innych (po ludzku może być na­wet słabszy), lecz został wybrany i namaszczony do wypełnienia posługi wobec świata.
+
+Tym więc, co decyduje o tożsamości chrześcijanina, jest ten szczególny sposób patrzenia na świat i na swoje życie, który po­zwala mu błogosławić Boga za wszystko, co go spotkało, spotyka i jeszcze może spotkać, nie wyłączając najbardziej bolesnych doświadczeń. To, co przedtem postrzegano jako przekleństwo i karę za grzechy, teraz może się stać błogosławieństwem, ponie­waż jawi się w całkowicie innej perspektywie - jako pochodzące od Ojca i ukierunkowane na Niego. W Nim wszystko, także naj­boleśniejsze chwile ludzkiego życia, odnajdują swoje źródło, sens i cel. Ta całkowicie nowa jakość życia sprawia, że można określić je jako _wieczne._
+
+Kto poznał Boga jako Ojca ma (a nie tylko, że będzie miał) życie wieczne: Ojcze, „to jest życie wieczne: aby znali Ciebie, jedynego prawdziwego Boga, oraz Tego, którego posłałeś, Jezusa Chrystusa" (J 17,3). Nie chodzi tu o jakieś przyszłe życie,
+
+149
+
+obiecane przez Boga po tym życiu. Życie wieczne w rozumieniu j chrześcijańskim to właśnie to jedno jedyne życie, przeżywane tu i teraz jako dar Ojca i dlatego takie, jakie jest, może być całe j dobre<sup>126</sup>. W tym sensie chrześcijanie zwyciężyli śmierć, ponie- <sub>(</sub> waż ona nie może już wyrządzić im żadnej krzywdy (oprócz odebrania biologicznego życia): nie może ich zniszczyć, pozba- 1 wić sensu, oddzielić od Boga. W tym znaczeniu trzeba mówić i także o dziecięctwie Bożym uczniów Jezusa jako postawie wyra- ; żającej całkowite i ufne przylgnięcie do Ojca, który wie najle- j piej, co naprawdę jest potrzebne człowiekowi, i zawsze daje mu i to, co dobre (Mt 7,10). '
+
+Czyniąc jeszcze jeden krok w naszych rozważaniach, możemy konsekwentnie powiedzieć, że chrześcijanin ma możność także na własny grzech spojrzeć jako na element historii zbawienia, : którą Bóg z nim realizuje, nie tylko _pomimo_ tego grzechu, ale ; właśnie _przez_ ten grzech czy nawet _dzięki_ niemu. Dokonuje się \\ tutaj pewna wymiana - konsekwencje grzechu, ze swej natury ; skierowane przeciwko człowiekowi, dzięki Bogu mogą zostać . wykorzystane dla dobra człowieka i obrócić się na jego korzyść: j „\[...\] w Nim (Chrystusie) także zechciał Bóg zwyciężyć grzech 1 i sprawić, by służył on naszemu większemu dobru, które nieskoń- j czenie przewyższa to, co mógłby urzeczywistnić postęp"<sup>127</sup>. > W tym sensie Apostoł wspomina o _chlubieniu się_ z własnych sła- ; bości (por. 2Kor 11,30; 12, 5-9), które przeżywane zgodnie z wo- j lą Bożą, mogą się stać źródłem wewnętrznej mocy niepochodzą- ; cej od człowieka, lecz od Chrystusa (por. 2Kor 12,10), jeżeli zaś J Bóg działa i w kruchości człowieka, ten dostrzega wartość także 1 w doświadczeniu własnej słabości i zaczyna jednać się ze swoim :
+
+<sup>126</sup> Por. Węcławski, _Gdzie jest Bóg?,_ s. 27.
+
+<sup>127</sup> Jan Paweł II, _SoHicitudo rei socialis,_ 31.
+
+150
+
+życiem, nie odrzucając niczego, skoro nie ma w nim nic, co było­by naprawdę niepotrzebne<sup>128</sup>. Możliwa więc staje się akceptacja wszystkiego (łącznie z własną kruchością i grzechem) jako oso­bistej historii zbawienia, którą Bóg przeprowadza z każdym czło­wiekiem bez wyjątku. W tym duchu Kościół, kontemplując całą ekonomię zbawienia, w liturgii paschalnej śpiewa o _szczęśliwej winie (felix culpae)™._
+
+<sup>128</sup> Ten proces pojednania się z własnym życiem, który pozwala wi­dzieć w nim wszystko jako pochodzące od Boga - to znaczy ostatecz­nie _bardzo dobre_ - jest istotny z punktu widzenia powołania chrześci­jańskiego do chwalenia Pana _w każdym czasie_ (Ps 34,2; 44,9; 62,9).
+
+<sup>129</sup> Por. _Orędzie wielkanocne._
+
+VII. ZESŁAŁ OD CIEBIE, OJCZE, DUCHA ŚWIĘTEGO
+
+Finalnym elementem kerygmatu pierwotnego Kościoła jest wezwanie do osobistego przyjęcia owoców Krzyża i Zmar­twychwstania Chrystusa, którego uwieńczeniem jest chrzest na odpuszczenie grzechów dzięki przyjęciu Ducha Świętego. Jest On owocem rozdartego na krzyżu ciała Jezusa, uzdalniającego człowieka do wejścia z bliźnim w taką samą relację miłości, jaka istnieje pomiędzy Ojcem i Synem. Konkretne doświadczenie tej miłości _(agape)_ w relacji do nieprzyjaciół (przebaczenie) stanowi gwarancję (pieczęć) osobistej realizacji dzieła zbawienia i udzia­łu w życiu wiecznym. Dzieło to dokonuje się poprzez nawrócenie na drodze wiary w Chrystusa, a jego ostateczny cel to wypełnie­nie stwórczego zamysłu względem ludzkości, zamysłu, którym jest uczestnictwo w wewnętrznym życiu Boga Trójjedynego.
+
+**7.1.** Życie w darmowości
+
+Miłość Boża rozlana jest w sercach naszych (Rz 5,5)
+
+Zapytajmy najpierw, wjaki sposób zmartwychwstały Chrystus może przebywać w człowieku, czyniąc go sprawiedliwym, czyli zdolnym do miłości i jedności z innymi na wzór Wspólnoty Trynitarnej? Odpowiedź zawarta w pierwotnym kerygmacie i Tradycji Kościoła brzmi: poprzez dar Ducha Świętego, dar, któ­
+
+152
+
+ry jest owocem śmierci i zmartwychwstania Chrystusa. W trady­cji Łukaszowej Duch zostaje udzielony po zmartwychwstaniu (por. Dz 2,1-12), natomiast według św. Jana momentem wylania Ducha Świętego jest „godzina przejścia z tego świata do Ojca" (J 13,1), a jego miejscem - chwalebna męka Pana. Wtedy, gdy „umiłowawszy swoich na świecie, do końca ich umiłował" (J 13,1), z wysokości krzyża Chrystus oddał (dosłownie: _tchnął)_ swego Ducha (J 19,30)<sup>130</sup>.
+
+Duch Święty jest „osobowym wyrażeniem miłości w Trójcy Świętej"<sup>131</sup>, która jednoczy Ojca i Syna oraz sprawia, że są na­wzajem dla Siebie bezinteresownym Darem. Ta Miłość to Duch Święty, którego Chrystus ofiarował Kościołowi, narodzonemu pod krzyżem, jako owoc swego rozdartego ciała<sup>132</sup>. Ten Duch jest tą samą Miłością, którą Ojciec odwiecznie ukochał Syna: „Jak Mnie umiłował Ojciec", i którą Syn ukochał łudzi: „\[...\] tak i Ja was umiłowałem" (J 15,9). Ten właśnie Duch - Miłość Ojca i Sy­na - zostaje dany na krzyżu po to, aby uczniowie Chrystusa _miło­wali się wzajemnie_ tak, jak zostali umiłowani, i aby w ten sposób wypełnili _Przykazanie nowe_ (J 13,34; por. 15,12). Tak oto
+
+<sup>130</sup> Powołujemy się tutaj na starożytną tradycję, która inteipretowała moment śmierci Chrystusa jako pierwsze zesłanie Ducha Świętego. Por. np. W. D. Hauschild, _Gottes Geist und der Mensch. Studien zur früchristllichen Pneumatologie,_ München 1972, s. 16-85; 179-223; A. Pedrini, _Lo Spirito Santo nei Padri della Chiesa. Rassegna di testi e commenti,_ Milano 1975, s. 35-80.
+
+<sup>131</sup> Jan Paweł II, _Dominum et vivificantem,_ 10.
+
+<sup>132</sup> Śmierć Jezusa jest ukazana przez św. Jana jako konieczny waru­nek udzielenia Ducha Świętego: „Jednakże mówię wam prawdę: Poży­teczne jest dla was moje odejście. Bo jeżeli nie odejdę, Pocieszyciel nie przyjdzie do was. A jeżeli odejdę, poślę Go do was" (J 16,7).
+
+153
+
+Ewangelia św. Jana wyraża tożsamość miłości Ojca do Jezusa, ■. Jezusa do uczniów (w konsekwencji także Ojca do uczniów: , „\[...\] żeś Ty ich umiłował, tak jak Mnie umiłowałeś" - J 17,23) ! oraz uczniów pomiędzy sobą. _Jak'<sup>33</sup>_ Ojciec kocha Jezusa, tak Jezus kocha uczniów, a uczniowie mogą kochać się wzajemnie. Ta sama jedyna (numerycznie!) miłość, która jednoczy Ojca i Syna, może teraz jednoczyć uczniów i w ten sposób uzdolnić ich do realizacji najgłębszego powołania: być obrazem Boga, to " znaczy odzwierciedlać w rzeczywistości stworzonej tajemnicę ' Wspólnoty Trynitarnej. ,
+
+Skoro więc „miłość Boża rozlana jest w sercach naszych przez Ducha Świętego, który został nam dany" (Rz 5,5) staje się możłi- j we dla człowieka życie w łasce, to znaczy w darmowej miłości ' Boga. To jedyne w swoim rodzaju doświadczenie pozwala chrze- ; ścijaninowi na obdarzanie innych tą samą bezinteresowną miło- ■ ścią, którą sam otrzymuje od Boga: „My miłujemy \[Boga\], ponie- ' waż Bóg sam pierwszy nas umiłował" (U 4,19)<sup>134</sup>. To, co jest otrzymane za darmo, z niewyczerpanego Źródła, które otworzyło :
+
+<sup>133</sup> Trzeba tu podkreślić wagę greckiego spójnika _kathós (Jak, tak jak),_ który występuje w tych tekstach. Jest on silniejszy od innych spój­ników, mających takie samo znaczenie _(os, ósper, óste_ itp.), ponieważ nie wyraża tylko prostego porównania, dalekiej analogii czy powierz­chownego podobieństwa, lecz tożsamość, przedłużenie i przyswajanie. Tak więc _kathós_ należy tłumaczyć jako _tej samej natury._ Por. Spicq, _Carità e libertà seconda il Nuovo Testamento,_ s. 45-62.
+
+<sup>134</sup> „Błogosławiony Bóg i Ojciec Pana naszego Jezusa Chrystusa, Ojciec miłosierdzia i Bóg wszelkiej pociechy, Ten, który nas pociesza w każdym naszym utrapieniu, byśmy sami mogli pocieszać tych, co są w jakiejkolwiek udręce, pociechą, której doznajemy od Boga" (2Kor' 1,3-4).
+
+154
+
+się na krzyżu Chrystusa, może być darmo dawane innym: „«Jeśli ktoś jest spragniony, a wierzy we Mnie - niech przyjdzie do Mnie i pije! Jak rzekło Pismo: Strumienie wody żywej popłyną z jego wnętrza». A powiedział to o Duchu, którego mieli otrzy­mać wierzący w Niego; Duch bowiem jeszcze nie był &lt;dany&gt;, ponieważ Jezus nie został jeszcze uwielbiony" (J 7,37-39; por. Mt 10,8). Darmo to znaczy bez żadnych warunków, nie mając względu na osoby, każdego - także nieprzyjaciół. To, co było niemożliwe po upadku, a stanowi treść Prawa - bezwarunkowa miłość do innego, różnego - teraz staje się osiągalne dzięki da­rowi Ducha Świętego, bezwarunkowej Miłości Ojca i Syna. Teraz człowiek może spełnić się w całkowitym darze dla drugie­go, nosić jego brzemiona, jego grzechy i tak _wypełnić prawo Chrystusowe_ (Ga 6,2).
+
+Oznacza to, że Prawo nie ma już władzy _potępiania_ człowie­ka (Rz 8,1) jako tego, kto nie jest zdolny do jego wypełnienia: „Teraz zaś Prawo straciło moc nad nami, gdy umarliśmy temu, co trzymało nas w jarzmie, tak że możemy pełnić służbę w no­wym duchu, a nie według przestarzałej litery" (Rz 7,6)<sup>l35</sup>. W ten sposób Prawo przestało być dla człowieka zewnętrznym naka­zem, kamieniem zgorszenia, _siłą grzechu_ (IKor 15,56) i narzę­dziem w rękach szatana, którego ten używał, aby dowieść czło­wiekowi, że Bóg go nie kocha (por. Rdz 3,1). Dzięki darowi Ducha Świętego Prawo zostało uwewnętrznione, stało się błogo­sławionym warunkiem ludzkiego szczęścia. Dobrą ilustracją
+
+<sup>135</sup> „Co było niemożliwe dla Prawa, ponieważ ciało czyniło je bezsil­nym, \[tego dokonał Bóg\]. On to zesłał Syna swego w ciele podobnym do ciała grzesznego i dla \[usunięcia\] grzechu wydał w tym ciele wyrok potępiający grzech, aby to, co nakazuje Prawo, wypełniło się w nas, o ile postępujemy nie według ciała, ale według Ducha" (Rz 8,3-4).
+
+155
+
+owej wolności od bycia sprawiedliwym według Prawa jest ewangeliczny opis gościny Jezusa w domu Łazarza (por. Łk 10,38-42). Pretensje Marty wobec pozornej obojętności Jezusa ujawniają gorycz jej serca, które szuka uznania z Jego strony poprzez to, że wypełnia ona obowiązek gościnności. Nowa i właściwa okazuje się postawa Marii, otwarta na darmową mi­łość, która jest jedynym, najlepszym i niewyczerpanym źródłem sprawiedliwości.
+
+**7.2.** Stworzenie na nowo
+
+Jeżeli ktoś pozostaje w Chrystusie, jest nowym stworzeniem (2Kor 5,17)
+
+Powiedzieliśmy, że zmartwychwstały Chrystus może przeby­wać w człowieku, czyniąc go sprawiedliwym, czyli zdolnym do miłości, dzięki Duchowi Świętemu. W Nim Chrystus przychodzi, aby żyć w człowieku i czynić go bezinteresownym darem. Kolejnym krokiem musi być pytanie o to, gdzie i w jaki sposób może w człowieku „mieszkać \[...\] Duch Tego, który Jezusa wskrzesił z martwych" (Rz 8,11)? I znowu odpowiedź, jakiej udziela kerygmat i Tradycja Kościoła, brzmi jednoznacznie: „\[...\] niech każdy z was ochrzci się w imię Jezusa Chrystusa na od­puszczenie grzechów waszych, a weźmiecie w darze Ducha Świętego" (Dz 2,38).
+
+Pojęciem najczęściej używanym w Nowym Testamencie na określenie tej rzeczywistości, która wynurza się ze źródła chrzcielnego, jest _nowość._ Chrzest to „obmycie odradzające i od­nawiające w Duchu Świętym" (Tt 3,5), _powtórne narodzenie_ (J 3,3) człowieka _z Ducha_ (J 3,6), nowy akt stwórczy, w którym Bóg formuje człowieka na obraz Jezusa Chrystusa zmartwych­
+
+156
+
+wstałego. I tak, chrzest to złączenie w jedno z Chrystusem ukrzy­żowanym i zmartwychwstałym (por. Rz 6,3-6), _przyobleczenie się w Chrystusa_ (Ga 3,27) do tego stopnia, że teraz już nie żyje konkretny człowiek, ale żyje w nim Chrystus (por. Ga 2,20). To On, jedyny Sprawiedliwy, jest właściwym podmiotem działania w chrześcijaninie, które czyni go sprawiedliwym i nowym czło­wiekiem: „Jeżeli \[...\] ktoś pozostaje w Chrystusie, jest nowym stworzeniem" (2Kor 5,17). W Chrystusie ludzkość odzyskuje wymiar przygotowany od wieków, „abyśmy byli święci i nieska­lani" (Ef 1,4), chrzest stanowi zatem rekonstrukcję pierwszego stworzenia, przywrócenie pierwotnego zamysłu Boga wobec ludzkości<sup>136</sup>. Możemy powiedzieć, że człowiek, stworzony na początku na obraz Chrystusa, po swoim upadku zostaje odtwo­rzony we chrzcie na ten sam obraz: „Niech będzie błogosławiony Bóg i Ojciec Pana naszego Jezusa Chrystusa. On w swoim wiel­kim miłosierdziu przez powstanie z martwych Jezusa Chrystusa na nowo zrodził nas do żywej nadziei: do dziedzictwa nieznisz­czalnego i niepokalanego, i niewiędnącego, które jest zachowane dla was w niebie" (1P 1,3-4).
+
+Sobór w konstytucji _O Kościele_ w _świecie współczesnym_ u- jmuje tę prawdę następująco: „Chrześcijanin zaś stawszy się po­dobnym do obrazu Syna, który jest Pierworodnym między wielu braćmi (por. Rz 8,29; Kol 1,18), otrzymuje «pierwociny Ducha» (Rz 8,23), które czynią go zdolnym do wypełnienia nowego pra­wa miłości (por. Rz 8, 1-11)". W nowym człowieku, który rodzi się w wodach chrztu, stając się podobny do Chrystusa, zostaje odtworzony Boży obraz i odzyskane utracone podobieństwo do
+
+<sup>136</sup> „Przez misterium chrztu człowiek zostaje na nowo potwierdzony, niejako wypowiedziany na nowo, stworzony na nowo!" Jan Paweł II, _Redemptor hominis,_ 9.
+
+157
+
+Boga<sup>137</sup>, otrzymuje on też Jego Ducha, ten zaś uzdalnia go do życia według największego przykazania. Obraz tego nowego stworzenia został naszkicowany w Kazaniu na Górze, a potwier­dzony i zrealizowany na krzyżu. Nowy człowiek to ten, w którym spełniają się błogosławieństwa (por. Mt 53-12), który nie stawia oporu złemu (por. Mt 5,38-42), kocha nieprzyjaciół (por. Mt 5,43-48), nie służy dwóm panom (por. Mt 6,19-24), całkowicie polega na Ojcu niebieskim (por. Mt 6,25-34), nikogo nie sądzi i nie potępia (por. Mt 7,1-6), bo jego życie opiera się na Skale - Słowie Bożym (por. Mt 7,24-29)<sup>138</sup>.
+
+W Ewangelii św. Jana znajdujemy katechezę chrzcielną zawartą w opisie spotkania Jezusa z Samarytanką (por. J 4,1-40), katechezę, ukazującą całkowitą nowość człowieka odrodzonego w źródle chrzcielnym. Samarytanka przychodziła do studni w samo połu­dnie, kiedy jest bardzo gorąco, aby nie spotkać tam innych kobiet, ponieważ nie chciała wystawiać się na ich szyderstwa z powodu publicznego grzechu, w którym żyła. Jest zmęczona nieustannym czerpaniem zawsze szybko kończącej się wody, a jej zdobycie wy­maga ponownego wysiłku. Z tego powodu owa kobieta to figura
+
+<sup>137</sup> Ojcowie Kościoła, rozróżniając pomiędzy obrazem Boga w czło­wieku, który po grzechu pozostał nienaruszony, od utraconego podo­bieństwa do Boga, twierdzą że w Chrystusie Bóg przywraca człowie­kowi zdolność do realizacji swego obrazu poprzez podobieństwo do Chrystusa.
+
+<sup>138</sup> Kazanie na Górze (Mt 5-7), będąc ikoną Jezusa Chrystusa oraz człowieka odrodzonego na Jego obraz, stanowi najpełniejszy wyraź pierwotnego projektu Boga wobec człowieka, a zatem ukazuje sytua­cję, potocznie nazywaną stanem sprzed grzechu pierworodnego. I tak dyskusja na temat historycznego istnienia tego stanu traci rację bytu, ponieważ od strony teologicznej stan ten został ukazany w Jezusie Chrystusie.
+
+158
+
+człowieka, opisanego w poprzednich rozdziałach, który chce za­spokoić własne pragnienie, ale nie mając dostępu do źródła żywej wody, w _pocie czoła_ stara się zapewnić sobie wodę, jednak wciąż pozostaje spragniony: „\[...\] opuścili Mnie, źródło żywej wody, żeby wykopać sobie cysterny, cysterny popękane, które nie utrzy­mują wody" (Jr 2,13). Jezus podejmuje z nią dialog, aby uświado­mić grzech, w którym tkwi, i wezwać ją do wiary. W tym celu pro­wokuje wyznanie, zawierające najgłębszą prawdę o jej sytuacji: „Nie mam męża" (J 4,17). Samarytanka (jak każdy człowiek obcią­żony grzechem pierworodnym) utraciła oblubieńczą relację z Bo­giem, który jako jedyny może zaspokoić każde ludzkie pragnienie, a szukając nasycenia zwróciła się ku bożkom: „Miałaś bowiem pięciu mężów, a ten, którego masz teraz, nie jest twoim mężem. To powiedziałaś zgodnie z prawdą" (4,18)<sup>139</sup>. Ujawnieniu idolatrii Samarytanki towarzyszy obietnica otrzymania (dotycząca każdego człowieka) żywej wody (4,14), co sprawi, że nie będzie musiała już więcej szukać (4,15). Realizacja tej obietnicy zależy jednak od wiary w Chrystusa jako zapowiedzianego Mesjasza - dzięki tej wierze Samarytanka pozostawiła dzban (symbol jej próżnych wy­siłków) i mogła głosić Chrystusa swoim rodakom (4,28-29).
+
+**7.3.** Dziecięctwo Boże
+
+Bóg wysłał do serc naszych Ducha, który woła: Abba, Ojcze! (Ga 4,6)
+
+Człowiek uformowany przez przyjęcie chrztu na obraz Syna i obdarzony Jego Duchem wchodzi w całkowicie nową relację
+
+<sup>139</sup> Chodzi o pięć narodów, przesiedlonych przez Nabuchodonozora do Samarii, które wprowadziły tam swoje bałwochwalcze kulty.
+
+159
+
+z Bogiem - w tę, którą Bóg zamierzył dla niego od początku, a która została zniszczona przez grzech pierworodny. Jej istotę stanowi całkowite zaufanie Bogu, zaufanie, którego źródłem jest Duch Święty, wlany w serce człowieka. Św. Paweł opisuje tę rzeczywistość jako wewnętrzne doświadczenie dziecięctwa, które otrzymuje chrześcijanin: „Sam Duch wspiera swym świa­dectwem naszego ducha, że jesteśmy dziećmi Bożymi" (Rz 8,16). Nie jest to doświadczenie, ograniczone jedynie do sfery intelektualnej czy emocjonalnej, lecz dotyka ono samego cen­trum jestestwa człowieka, jego _serca_ w sensie biblijnym. To doświadczenie stanowi zasadnicze odniesienie do Boga jako Źródła czy Fundamentu życia człowieka i bardzo konkretnie określa jego wybory.
+
+Odwołując się do terminologii Pawiowej, możemy powie­dzieć, że dzięki temu darowi chrześcijanin _słyszy_ w głębi swego serca głos Boga, który świadczy mu o tym, że jest kochany jako syn lub córka, akceptowany taki, jaki jest (to znaczy w swojej nagości i ogołoceniu z jakiejkolwiek zasługi), że jest przedmio­tem nieustannej troski ze strony Boga, który obdarowuje go bytem w sposób bezwarunkowy: „Na dowód tego, że jesteście synami, Bóg wysłał do serc naszych Ducha Syna swego, który woła: _Abba,_ Ojcze!" (Ga 4,6). Dotyczy to wszystkich doświad­czeń ludzkiego życia, nie wyłączając tych najbardziej drama­tycznych - kto jest dzieckiem Bożym, ten potrafi każde z tych doświadczeń odnieść do Boga Ojca i Jego miłości<sup>140</sup>. Tak, dzięki
+
+<sup>140</sup> Konkretnym wyrazem takiego odniesienia są psalmy, pełne ludz­kich doświadczeń, a każde z nich - jeśli są odmawiane tak, jak to czyni Kościół, to znaczy w sensie chrystocentrycznym - ma trwałe odniesie­nie do Boga, przez co otrzymuje prawdziwy sens jako miejsce, gdzie Bóg spotyka człowieka, gdzie go kocha i zbawia.
+
+160
+
+obdarowaniu Duchem synostwa, dopełnia się wyzwolenie czło­wieka z niewoli ojca kłamstwa, której narzędziem był strach przed dawaniem swego życia: „Nie otrzymaliście \[...\] ducha niewoli, by się znowu pogrążyć w bojaźni, ale otrzymaliście ducha przybrania za synów, w którym możemy wołać _«Abba,_ Ojcze!»" (Rz8,15).
+
+W takiej perspektywie Duch Święty w historii zbawienia stoi w jaskrawej opozycji wobec tego, który nazywa się _diabolos,_ czyli _oszczerca,_ ponieważ fałszywie oskarża on Boga wobec człowieka. Natomiast _Duch Prawdy_ (J 15,26) jest określany w ję­zyku greckim jako _Parakletos (Pocieszyciel, Obrońca, Adwokat},_ ponieważ jego rolą jest obrona czy usprawiedliwianie Boga w oczach człowieka poprzez ukazanie Jego ojcostwa.
+
+Doświadczenie bezwarunkowej miłości ze strony Ojca, po­świadczone przez Ducha, który daje życie w obfitości, czyni możliwym postępowanie w nowości życia, to znaczy bycie bez­warunkowym darem z samego siebie, a tym samym tracenie swego życia za darmo na rzecz drugiego. Stąd chrześcijanin ma moc wchodzenia w sytuacje naznaczone śmiercią, od których przedtem stronił, oraz zdolność przyjmowania krzyża, przed któ­rym zawsze uciekał, doświadcza bowiem, że w tych sytuacjach nie jest pozostawiony samemu sobie, ale jest z nim zawsze Ktoś, kto go podtrzymuje i daje mu istnienie, także wtedy, gdy mu się je zabiera. Obrazowo ukazuje ten stan Apostoł: „Zewsząd znosi­my cierpienia, lecz nie poddaj emy się zwątpieniu; żyjemy w nie­dostatku, lecz nie rozpaczamy; znosimy prześladowania, lecz nie czujemy się osamotnieni,.obalają nas na ziemię, lecz nie giniemy. Nosimy nieustannie w ciele naszym konanie Jezusa, aby życie Jezusa objawiło się w naszym ciele. Ciągle bowiem jesteśmy wydawani na śmierć z powodu Jezusa, aby życie Jezusa objawiło się w naszym śmiertelnym ciele" (2Kor 4,8-11).
+
+161
+
+_1A._ Gwarancja odrodzenia
+
+Wiemy, że przeszliśmy ze śmierci do życia, bo miłujemy braci (U 3,14)
+
+Udzielenie stworzeniu Ducha miłości to „wykonanie tajemni­czego planu, ukrytego przed wiekami w Bogu, Stwórcy wszech­rzeczy" (Ef 3,9), planu, który oznacza w istocie usunięcie skut­ków grzechu. Dlatego w ewangelicznym przekazie i w przepo­wiadaniu apostolskim Duch Święty został ukazany jako dar, po­zostający w bezpośrednim związku z odpuszczeniem grzechów: „Weźmijcie Ducha Świętego! Którym odpuścicie grzechy, są im odpuszczone, a którym zatrzymacie, są im zatrzymane" (J 20,22- 23). Kto otrzymuje tego Ducha, dostępuje jednocześnie odpusz­czenia grzechów, ponieważ staje się wolny od niewoli strachu przed śmiercią i zdolny do bezinteresownego dawania siebie in­nym, do wypełniania w swoim życiu Prawa miłości, _Prawa Ducha:_ „Albowiem prawo Ducha, który daje życie w Chrystusie Jezusie, wyzwoliło cię spod prawa grzechu i śmierci" (Rz 8,2). Odpuszczenie grzechów polega właśnie na wyjęciu człowieka z sytuacji terroryzowania go przez śmierć i na umożliwieniu mu tym samym posiadania siebie w dawaniu siebie.
+
+W świetle pierwotnego kerygmatu jasno widać, że odpuszcze­nie grzechów nie jest tylko pewną teorią, rodzajem dramatu, roz­grywającego się poza ludzkim życiem, w abstrakcyjnym świecie rachunków do zapłacenia i hipotetycznych długów do uregulo­wania. Tak jak grzech dotyka i rani człowieka, ma rzeczywisty niszczycielski wpływ na jego życie i odbija się w jego postępowa­niu, tak też odpuszczenie grzechu jest wydarzeniem egzystencjal­nym, którego człowiek musi doświadczyć w konkretny sposób. Tym fundamentalnym doświadczeniem, które winno potwierdzać fakt odpuszczenia grzechów przez Boga, jest bezwarunkowa mi­
+
+162
+
+łość do drugiego, także do nieprzyjaciół. Właśnie umiejętność kochania i przebaczania, która nie może pochodzić od człowieka, lecz jest darem Boga, stanowi dla człowieka gwarancję odpusz­czenia mu grzechów - to dowód, że został wyzwolony _spod pra­wa grzechu i śmierci:_ „My wiemy, że przeszliśmy ze śmierci do życia, bo miłujemy braci" (1J 3,14). Komu odpuszczono grzechy, ten ma w sobie zdolność do ich odpuszczania, a ta nic jest owo­cem jego wysiłków, lecz darmowym dziełem Boga w nim<sup>141</sup>. Kto jednak nie ma takiej umiejętności, tego realnie nie dotknęło dzie­ło odpuszczenia grzechów, którego Bóg dokonał w Chrystusie: „\[...\] kto zaś nie miłuje, trwa w śmierci" (U 3,14).
+
+Według Apostoła zdolność do odpuszczania grzechów innym i przebaczania to „zadatek Ducha" (2Kor 1,22; por. 5,5; Ef 1,14), otrzymywany przez człowieka od Boga na potwierdzenie, że jego grzechy są mu przebaczone. Dopiero w takim sensie może­my poprawnie rozumieć wezwanie Modlitwy Pańskiej: „\[...\] przebacz nam nasze grzechy, bo i my przebaczamy każdemu, kto nam zawini" (Łk 11,4). Przebaczenie grzechów, którego udziela Bóg, staje się w człowieku konkretną rzeczywistością i jest wi­doczne w jego życiu, w takim stopniu, w jakim okazuje się on zdolny do przebaczenia swoim winowajcom. Miłość do nieprzy­jaciół i przebaczenie im jest więc miarą osobistego przyjęcia przebaczenia, którego dostępuje się, będąc nieprzyjacielem Boga (por. Rz 5,10).
+
+<sup>141</sup> „Bądźcie dla siebie nawzajem dobrzy i miłosierni! Przebaczajcie sobie, tak jak i Bóg wam przebaczył w Chrystusie" (Ef 4,32); „\[...\] zno­sząc jedni drugich i wybaczając sobie nawzajem, jeśliby miał ktoś za­rzut przeciw drugiemu: jak Pan wybaczył wam, tak i wy!" (Kol 3,13). Chodzi tu oczywiście o przebaczenie na miarę, którą Chrystus ukazał na krzyżu - tak _jak_ On nas, to znaczy _do końca_ (J 13,1).
+
+163
+
+Miłość do nieprzyjaciół i przebaczenie są zatem skutkiem a nie warunkiem miłosierdzia doznanego ze strony Boga. Rozumienie powyższego wezwania z modlitwy _Ojcze nasz_ w takim sensie, jakoby Bóg przebaczał nam dopiero w następstwie naszego prze­baczenia i od niego uzależniał swoje przebaczenie, jest nieporo­zumieniem i świadczy o zasadniczym niezrozumieniu zarówno chrześcijańskiej antropologii, jak i soteriologii. Przebaczenie ze strony człowieka jest tutaj jedynie znakiem oraz zewnętrznym świadectwem otrzymanego od Boga odpuszczenia grzechów. W tej perspektywie należy rozumieć słowa Chrystusa: „Jeśli bowiem przebaczycie ludziom ich przewinienia, i wam przebaczy Ojciec wasz niebieski. Lecz jeśli nie przebaczycie ludziom, i Ojciec wasz nie przebaczy wam waszych przewinień" (Mt 6,14-15).
+
+**7.5.** Pokora dłużnika
+
+Ile razy mam przebaczyć? (Mt 18,21)
+
+Przebaczenie winowajcom jest podstawowym owocem działa­nia Ducha Świętego w wierzącym i doświadczeniem konstytuują­cym tożsamość chrześcijanina. Z tego powodu poświęcimy temu tematowi nieco uwagi, opierając się na klasycznym tekście o za­proszeniu Jezusa przez faryzeusza na ucztę (zob. Łk 7,36-50).
+
+Zaproszenie było faktem publicznym, ponieważ zgodnie z tam­tejszym zwyczajem, podczas uczt drzwi na ulicę pozostawały otwarte, aby przechodzący mogli się naocznie przekonać o za­możności i hojności gospodarza. Dlatego właśnie do domu faryze­usza - człowieka porządnego i religijnego - mogła wejść osoba, która się tam nigdy nie powinna znaleźć: miejscowa prostytutka. W zwykłych okolicznościach zostałaby natychmiast wyrzucona, lecz faryzeusz postanowił sprawdzić, jak zachowa się wobec niej
+
+164
+
+Rabbi z Nazaretu, o którym mówiono, że to _przyjaciel celników i grzeszników^<sup>2</sup>._ Ona, ku zgorszeniu bogobojnych gości, poczęła wobec Jezusa postępować tak, jak zwykły czynić ladacznice - jej dwuznaczne gesty wyglądały na zaproszenie. To było rzeczywi­ście zaproszenie (nie potrafiła przecież inaczej prosić o miłość) skierowane do Chrystusa, aby zechciał przyjść w gościnę do niej. Jezus przyjmuje to zaproszenie (jak przyjął zaproszenie faryze­usza), nie odtrącił jej z obrzydzeniem, nie odrzucił, nie bronił się ze wstrętem przed czułością grzesznicy, lecz zaakceptował ją taką, jaka jest. I właśnie dzięki temu ona poznała, że Jezus - a przez Niego sam.Bóg - kocha ją w sposób całkowicie bezinte­resowny i bezwarunkowy. W postawie Jezusa prostytutka do­świadczyła tego, co pozostawało zakryte przed faryzeuszem, który skrupulatnie wypełniał Prawo, zakosztowała tego, co jest istotą Prawa: darmowości ze strony Boga.
+
+Jezus zwraca się do faryzeusza po imieniu: „«Szymonie, mam ci coś powiedzieć». On rzekł: «Powiedz, Nauczycielu!»" (Łk 7,40). Wszystko, co teraz usłyszy ten człowiek, będzie miało je­den cel: ukazać prawdę o nim samym, obnażyć rzeczywistość jego grzechu, aby Szymon mógł zaprosić i przyjąć Jezusa do swe­go życia już nie z pozycji pysznego faryzeusza, ale w taki sposób, jak uczyniła to owa prostytutka. Właśnie dlatego Jezus opowiada Szymonowi przypowieść o wierzycielu, który chciał rozliczyć się
+
+<sup>142</sup> Prawo surowo zakazywało wszelkiego kontaktu z takimi kobieta­mi. Pod tym względem faryzeusz nie miał sobie nic do zarzucenia: modlił się kilka razy dziennie (wstawał nawet w nocy!), surowo pościł dwa razy w tygodniu, dziesięć procent swoich zarobków dawał na po­trzeby biednych - miał więc wszelkie podstawy, aby uważać się za człowieka sprawiedliwego i dziękować Bogu, że nie jest taki, jak inni ludzie: zdziercy, oszuści, cudzołożnicy...
+
+165
+
+ze swymi sługami - przytaczamy ją w redakcji św. Mateusza (zob. Mt 18,24-27)<sup>l43</sup>. Umorzenie takiego długu oznaczało realne wyprowadzenie człowieka ze stanu niewoli i było aktem najwyż­szej hojności<sup>144</sup>. Chrystus przez ten obraz pragnie ukazać naboż­nemu faryzeuszowi sytuację, w której znajduje się on przed Bogiem. Odsłania przed nim prawdę o niemożności zasłużenia sobie na Bożą miłość i o niezdolności bycia sprawiedliwym na podstawie własnych sił. W ten sposób Jezus głosi faryzeuszowi _Dobrą Nowinę:_ „Szymonie, ciesz się i raduj, bo to ty jesteś tym człowiekiem, któremu Bóg przebaczył wszystko, i to całkowicie za darmo, bez żadnej zasługi z twojej strony!".
+
+Aby Szymon mógł zobaczyć wyraźnie bezmiar otrzymanego przebaczenia, Chrystus chce odkryć przed nim także prawdę o jego grzechu. Temu służy druga część przypowieści, która opisuje dal­sze losy szczodrze potraktowanego sługi (zob. Mt 18,28-30)<sup>145</sup>.
+
+<sup>143</sup> „\[...\] przyprowadzono mu jednego, który mu był winien dziesięć tysięcy talentów. Ponieważ nie miał z czego ich oddać, pan kazał sprze­dać go razem z żoną, dziećmi i całym jego mieniem, aby tak dług odzy­skać. Wtedy sługa upadł przed nim i prosił go: «Panie, miej cierpliwość nade mną, a wszystko ci oddam». Pan ulitował się nad tym sługą, uwol­nił go i dług mu darował".
+
+<sup>144</sup> Trzeba uświadomić sobie, jak zawrotną sumą było _dziesięć tysięcy talentów:_ 1 talent to cena ok. 34 kg srebra, a zadłużenie tego człowieka stanowiło równowartość pracy 16 tysięcy ludzi przez 10 lat(!), nierealna zatem była obietnica zwrotu tak ogromnej sumy - w praktyce człowiek ten należał (wraz z całą rodziną) do wierzyciela jako niewolnik.
+
+<sup>145</sup> „\[...\] spotkał jednego ze współsług, który mu był winien sto dena­rów. Chwycił go i zaczął dusić, mówiąc: «Oddaj, coś winien!». Jego współsługa upadł przed nim i prosił go: «Miej cierpliwość nade mną, a oddam tobie». On jednak nie chciał, lecz poszedł i wtrącił go do wię­zienia, dopóki nie odda długu".
+
+166
+
+100 denarów (ok. 100 dniówek) w porównaniu z darowanym dłu­giem było sumą śmiesznie niską i nieproporcjonalną. Tak zostały ukazane bezwzględność oraz brak miłosierdzia ze strony dłużnika, co stanowi lustrzane odbicie postawy faryzeusza wobec jawno­grzesznicy. On myślał o niej bardzo źle i pogardzał nią - w głębi serca czuł się od niej lepszy, gdyż wiele go kosztowało zachowywa­nie przepisów Prawa. Czyniąc tak wiele wyrzeczeń, mijał się jed­nak z tym, co stanowiło samo serce Prawa - z przykazaniem miło­ści Boga i bliźniego. Właśnie to starał się pokazać mu Jezus, aby skruszyć serce faryzeusza i nakłonić do uznania, że także on potrze­buje Jezusa, podobnie jak celnicy i prostytutki (zob. Mt 9,12-13).
+
+Aby nawrócenie serca było możliwe, Szymon musi stanąć w trudnej prawdzie o własnym grzechu i odkryć to, co rzeczywi­ście znajduje się w jego sercu-po to Jezus porównuje go z grzesz­ną kobietą (zob. Łk 7,44-48)<sup>146</sup>. Faryzeusz, w swoim mniemaniu sprawiedliwy dzięki własnym zasługom, nie potrzebował Chrystusa-Zbawiciela: od czego miałby go On wyzwolić, z jakiej choroby uleczyć i cóż takiego mógłby mu przebaczyć? Tyle, że _komu się wiele przebacza, ten wiele miłuje, a komu się mało prze­bacza, ten mało miłuje._ Dlatego Szymon faryzeusz przyjął Jezusa w sposób tak chłodny i wyrachowany, bez gestów szacunku i mi­łości, jakie gościnność przewidywała dla osób najgodniejszych:
+
+<sup>146</sup> „\[...\] zwrócił się do kobiety i rzekł Szymonowi: «Widzisz tę ko­bietę? Wszedłem do twego domu, a nie podałeś Mi wody do nóg; ona zaś łzami oblała Mi stopy i swymi włosami je otarła. Nie dałeś Mi po­całunku; a ona, odkąd wszedłem, nie przestaje całować nóg moich. Głowy nie namaściłeś Mi oliwą; ona zaś olejkiem namaściła moje nogi. Dlatego powiadam ci: Odpuszczone są jej liczne grzechy, ponieważ bardzo umiłowała. A ten, komu mało się odpuszcza, mało miłuje». Do niej zaś rzekł: «Twoje grzechy są odpuszczone»".
+
+167
+
+nie podał Chrystusowi wody do umycia nóg, nie pocałował, nie namaścił głowy. Natomiast wszystko to uczyniła prostytutka, bo ona poznała, ile Chrystus jej przebaczył, i dlatego miała serce przepełnione wdzięcznością. Chrystus obnaża przed Szymonem prawdziwą obrzydliwość jego serca, jego _duchowe cudzołóstwo_ i _sakralnąprostytucję,_ której się oddawał. Chrystus odsłania przed nim tę tajemnicę, pytając: „Widzisz tę kobietę?" - jej widok tak bardzo cię gorszy i zniesmacza, a ona właśnie jest obrazem twoje­go wnętrza, lustrzanym odbiciem twojego serca! Jak postępuje mężczyzna, który korzysta z usług prostytutki? - _kupuje_ od niej miłość, płaci za nią, bo wie, że nie może otrzymać jej za darmo! Dokładnie tak samo faryzeusz traktował Pana Boga - chciał kupić sobie Jego miłość w zamian za skrupulatne przestrzeganie przepi­sów Prawa, bo nigdy nie wierzył, że Bóg kocha go za darmo.
+
+Zrozumiałe są więc ostre słowa, jakie Chrystus wielokrotnie kierował pod adresem religijnych przywódców Izraela. Warto zauważyć, że Pan nigdy nie odnosił się w ten sposób do pogan i publicznych grzeszników, wobec których był zawsze łagodny i cierpliwy. Tak mówił tylko do ludzi religijnych, przekonanych o własnej sprawiedliwości i z tego przekonania czerpiących pra­wo do pogardzania innymi. Jezus jednak czyni im takie twarde wyrzuty nie po to, aby ich poniżyć, lecz aby mogli rozpoznać swój grzech, rozeznać jak bardzo sami potrzebują zbawienia i przyjąć Chrystusa wdzięcznym sercem.
+
+**7.6.** Misja Kościoła
+
+Aby świat poznał, żeś Ty ich umiłował (J 17,23)
+
+Nowość pojawiająca się w konsekwencji chrztu jako nowy człowiek, który w Chrystusie pokonał śmierć i potrafi rezygno­
+
+168
+
+wać z siebie, aby tworzyć jedność z drugim, ukazuje się w Ko­ściele. W zamyśle Bożym jest to wspólnota uczniów Chrystusa, w której widać miłość w wymiarze krzyża, ponieważ kochają się oni tak, jak tylko Chrystus potrafił kochać: „Przykazanie nowe daję wam, abyście się wzajemnie miłowali tak, jak Ja was umiło­wałem; żebyście i wy tak się miłowali wzajemnie. Po tym wszy­scy poznają, żeście uczniami moimi" (J 13,34-35). Taka miłość, zakładająca zdolność tracenia siebie dla drugiego, owocuje jedno­ścią z braćmi: „\[...\] wszyscy razem tworzymy jedno ciało w Chry­stusie, a każdy z osobna jesteśmy nawzajem dla siebie członkami" (Rz 12,5; por. IKor 10,17; Ef 4,4). Pierwowzorem takiej ekume- nii była wspólnota jerozolimska: „Jeden duch i jedno serce oży­wiały wszystkich wierzących. Żaden nie nazywał swoim tego, co posiadał, ale wszystko mieli wspólne" (Dz 4,32).
+
+W takim sensie Kościół jest widzialnym Ciałem Chrystusa zmartwychwstałego, wspólnotą ludzi kochających się _do końca_ (J 13,1) dzięki Duchowi, którego darmowo otrzymali i dobrowol­nie przyjęli. Kto spotyka się z takim Kościołem, nie tylko znajdu­je Chrystusa, ale także _widzi_ Go żyjącego, zmartwychwstałego - przeżywa prawdziwą chrystofanię. W ten sposób Kościół jest w planach Bożych wspólnotą, która dzięki otrzymanemu darowi Ducha miłości Ojca i Syna, odzwierciedla w rzeczywistości stworzonej tajemnicę trynitamą: „I także chwałę, którą Mi dałeś, przekazałem im, aby stanowili jedno, tak jak My jedno stanowi­my" (J 17,22; por. 17,11). Dlatego Sobór, za św. Cyprianem, określił Kościół jako „lud zjednoczony jednością Ojca i Syna, i Ducha Świętego" (KK 4)<sup>147</sup>.
+
+<sup>147</sup> Taka eklezjologia powinna znajdować wyraz w architektonice bu­dynków kościelnych, które mają symbolicznie przedstawiać rzeczywi­stość Kościoła i zapraszać do jej realizacji, a więc także katechizować.
+
+169
+
+Powyższa prawda o Kościele bezpośrednio wskazuje na jego podstawową misję, a jest nią świadczenie wobec świata o istnie­niu Trójjedynej Miłości: „Oby się tak zespolili w jedno, aby świat poznał, żeś Ty Mnie posłał i żeś Ty ich umiłował, tak jak Mnie umiłowałeś" (J 17,23; por. 17,21). Bóg w Chrystusie ustanowił Kościół i obdarował go Duchem Świętym po to, aby „był dla wszystkich razem i dla każdego z osobna widzialnym sakramen­tem owej zbawczej jedności" (KK 9). Chodzi o tę zbawczą jed­ność z Bogiem oraz z drugim człowiekiem, która stała się dostęp­na w Chrystusie dzięki darowi Ducha Świętego. Kościół zatem to jedyny znak, obwieszczający światu Chrystusa zmartwychwsta­łego, ponieważ jest gwarancją dla świata, że śmierć została poko­nana, a grzechy są odpuszczone - jeżeli tylko istnieją ludzie, którzy naprawdę potrafią kochać aż do bezinteresownego daru z siebie. Starożytne świadectwo ukazuje, że taka miłość interpe­lowała świat od początku chrześcijaństwa: _zobaczcie, jak oni się kochają!_ Kościół jest powołany do bycia sakramentem, widzial­nym znakiem dokonującego się zbawienia, świadkiem tej jedno­ści i miłości, które stają się możliwe dlatego, że Chrystus zmar­twychwstał i żyje we wspólnocie Kościoła mocą swojego Ducha: „Bóg wskrzesił Go z martwych, czego my jesteśmy świadkami" (Dz 3,15; por. 2,32; 3,15).
+
+Tę podstawową funkcję Kościoła Nowy Testament określa jako _posługę jednania_ (2Kor 5,18). Polega ona na świadczeniu wobec świata, że „To, co dawne, minęło, a oto &lt;wszystko&gt; stało się nowe" (2Kor 5,17), ponieważ „w Chrystusie Bóg jednał z so­bą świat, nie poczytując ludziom ich grzechów" (2Kor 5,19). Kościół wypełnia tę posługę wskazując, że na świecie jest miłość i że można kochać naprawdę, być pojednanym z Bogiem, nie­przyjacielem oraz z własnym życiem. W ten sposób w Kościele objawia się prawda o odpuszczeniu grzechów. Jak człowiek nie
+
+170
+
+mający wiary może poznać i doświadczyć, że Bóg odpuścił mu jego grzechy? Szansa istnieje jedynie wtedy, gdy spotka chrześci­janina, który przebacza wyrządzoną mu krzywdę, pozwala się dotknąć złem drugiego, nie opierając się i nie szukając własnej sprawiedliwości. To jest pierwszy i najważniejszy sposób ewan­gelizacji, gdyż postawę prawdziwego przebaczenia umożliwia tylko to, że Chrystus zmartwychwstał. Misja Kościoła to misja Sługi Jahwe, przedłużenie misji Chrystusa, który bierze na siebie grzechy innych, „by wszyscy ludzie zostali zbawieni i doszli do poznania prawdy" (ITm 2,4). Chrześcijanie w swoich ciałach, które są Jego Ciałem, noszą „konanie Jezusa" (2Kor 4,10) dla dopełnienia niedostatków Jego udręk (por. Kol 1,24).
+
+**Epilog:** Codzienne nawracanie się
+
+Na zakończenie pragnę napisać kilka słów o celu każdego przepowiadania kerygmatu, którym jest nawrócenie. Istnieje bar­dzo rozpowszechnione przekonanie, że to jednorazowy akt o cha­rakterze moralnym, który znaczy granicę pomiędzy złym (gor­szym) i dobrym (lepszym) życiem. Stąd wezwanie do nawróce­nia w potocznym rozumieniu dotyczy jedynie tych, których ży­cie moralne i religijne zasługują na publiczną naganę; w innych sytuacjach taki apel spotyka się z niezrozumieniem, a nawet z odrzuceniem.
+
+Tymczasem biblijna koncepcja nawrócenia ma głębszą treść i ukazuje to wydarzenie raczej jako długotrwały i stopniowy pro­ces niż jednostkowy epizod. Hebrajskie _sub_ wyraża ideę zawró­cenia z obranej drogi, powrotu i oznacza autentyczną zmianę postawy wewnętrznej oraz zewnętrznej człowieka - zwrócenie całej osoby i wszystkich dziedzin ludzkiego życia ku Jahwe i Je­go woli<sup>148</sup>. Ideę przemiany wewnętrznej w Nowym Testamencie wyraża termin _metanoiw._ zmiana _(meta)_ sposobu myślenia _(nous)._ W kontekście naszych rozważań możemy powiedzieć, że _meta- noia_ oznacza radykalną zmianę fałszywego sposobu myślenia
+
+<sup>148</sup> Staranniejsze rozróżnienie wewnętrznego i zewnętrznego aspek­tu nawrócenia dokonało się dopiero przy okazji tłumaczenia Biblii he­brajskiej na język grecki.
+
+172
+
+o Bogu, który na początku zaszczepił rodzajowi ludzkiemu sza­tan. Nie chodzi tutaj jednak o teoretyczną ideę Boga, ale o utrwa­lony w głębinach ludzkiego bytu stan nieufności wobec Niego, a konsekwencją tego stanu jest strach przed umieraniem, czyli bezinteresownym traceniem swego życia, czyniący człowieka niezdolnym do miłości. W takiej sytuacji nawrócenie to dla chrześcijanina sprawa codzienna, jego chleb powszedni, ponie­waż każdego dnia jest on narażony na zamęt w swojej relacji do Boga, zamęt spowodowany działaniem złego ducha. Tylko nie­ustanne słuchanie (i głoszenie) Dobrej Nowiny powoduje we­wnętrzną przemianę całego człowieka, „przez którą zaczyna on myśleć, sądzić i układać swoje życie przepojony tą światłością i miłością Boga, które zostały ujawnione w Synu i nam w pełni udzielone"<sup>149</sup>. Takiej przemiany życzę sobie i wszystkim czytel­nikom tej książki.
+
+<sup>149</sup> Paweł VI, _Poenitemini,_ PPK, t. 2, z. 2, n. 649, Warszawa 1969.
+
+ZAWARTOŚĆ
+
+[Czego brakuje nowej ewangelizacji? 7](#bookmark2)
+
+Prolog: Struktura apostolskiego kerygmatu 11
+
+I. OJCZE, STWORZYŁEŚ CZŁOWIEKA
+
+1.1. [Zdany na Stwórcę 17](#bookmark4)
+
+1.2. [Stworzony w Chrystusie 20](#bookmark6)
+
+1.3. [Kochany za darmo 23](#bookmark8)
+
+1.4. [Powołany do wspólnoty 26](#bookmark10)
+
+1.5. [Zdolny do miłości 28](#bookmark12)
+
+1.6. [Wolny od lęku 31](#bookmark14)
+
+II. A GDY UTRACIŁ TWOJĄ PRZYJAŹŃ
+
+2.1. [Zagrożenie przez innego 35](#bookmark16)
+
+2.2. [Przymus porównywania 38](#bookmark18)
+
+2.3. [Walka o pierwszeństwo 43](#bookmark20)
+
+2.4. [Odrzucenie niepewności 46](#bookmark22)
+
+2.5. [Niezgoda na historię 49](#bookmark24)
+
+2.6. [Idolatria stworzenia 51](#bookmark26)
+
+2.7. [Strach przed umieraniem 54](#bookmark28)
+
+III. PRZEZ NIEPOSŁUSZEŃSTWO
+
+3.1. [Życiodajny zakaz 60](#bookmark30)
+
+3.2. [Ojciec kłamstwa 63](#bookmark32)
+
+175
+
+3.3. [Pierwotne oszczerstwo 67](#bookmark34)
+
+3.4. [Nieodwracalny egoizm 69](#bookmark36)
+
+3.5. [Utracona darmo wo ść 73](#bookmark38)
+
+3.6. [Struktury grzechu 76](#bookmark40)
+
+IV. NIE POZOSTAWIŁEŚ GO POD WŁADZĄ ŚMIERCI
+
+4.1. [Maryja 80](#bookmark42)
+
+4.2. [Abraham 86](#bookmark44)
+
+4.3. [Józef 92](#bookmark46)
+
+4.4. Dawid 95
+
+4.5. [Hiob 100](#bookmark48)
+
+4.6. [Prorocy 103](#bookmark50)
+
+V. ZESŁAŁEŚ SYNA NA ŚMIERĆ KRZYŻOWĄ
+
+5.1. [Sługa Jahwe 111](#bookmark52)
+
+5.2. [Obraz grzechu 115](#bookmark54)
+
+5.3. [Chrystus czy Barabasz? 118](#bookmark56)
+
+5.4. [Milczenie Ojca 122](#bookmark58)
+
+5.5. [Miłość w wymiarze krzyża 125](#bookmark60)
+
+5.6. [Otwarte łono Kościoła 128](#bookmark62)
+
+VI. ZMARTWYCHWSTAJĄC ZWYCIĘŻYŁ ŚMIERĆ  
+I ODNOWIŁ ŻYCIE
+
+6.1. [Skruszona potęga diabła 131](#bookmark64)
+
+6.2. [Uwolnienie z przekleństwa Prawa 134](#bookmark66)
+
+6.3. [Zdolność bycia sprawiedliwym 138](#bookmark68)
+
+6.4. [Odpuszczenie grzechów 141](#bookmark70)
+
+6.5. [Zwycięstwo nad śmiercią 143](#bookmark72)
+
+6.6. [Oświecenie i pojednanie 147](#bookmark74)
+
+176
+
+VII. ZESŁAŁ OD CIEBIE, OJCZE, DUCHA ŚWIĘTEGO
+
+7.1. [Życie w darmowości 152](#bookmark76)
+
+7.2. [Stworzenie na nowo 156](#bookmark78)
+
+7.3. [Dziecięctwo Boże 159](#bookmark80)
+
+7.4. [Gwarancja odrodzenia 162](#bookmark82)
+
+7.5. [Pokora dłużnika 164](#bookmark84)
+
+7.6. [Misja Kościoła 168](#bookmark86)
+
+Epilog: Codzienne nawracanie się
+
+172
+
+Tezę wyjściową książki stanowi prze-  
+konanie, że głównym problemem tzw. _no-  
+wej ewangelizacji_ nie jest ani niewłaściwa  
+_metoda,_ ani ubogie i tradycyjne _środki,_ ani  
+nawet brak _zapału_ u ludzi za nią odpowie-  
+dzialnych, lecz niedostateczne zrozumienie  
+i wyrażenie podstawowej treści Dobrej No-  
+winy w języku konkretnych ludzkich doś-  
+wiadczeń, przy czym nie chodzi tutaj jedy-  
+nie o nieumiejętność przełożenia chrześci-  
+jańskiego orędzia na kategorie egzystencja-  
+lne, które przemawiają do tzw. współczes-  
+nego człowieka, ale o takie wskazanie naj-  
+bardziej podstawowej treści Ewangelii, któ-
+
+re może ją uczynić _skuteczną w_ ludzkim życiu. W tym studium podjęto próbę odniesienia kerygmatu pierwotnego Kościoła do rzeczywistych ludzkich przeżyć, tak aby ukazać, w jaki sposób głoszenie Ewangelii jest w stanie przełamać podział na _wirtualny_ świat religijnych idei _(sacrum)_ i _rzeczywisty_ świat ludzkich problemów _(profanum)._ Adresatami tej po­zycji są wszyscy zainteresowani dziełem ewangelizacji w jej nieodzow­nej nowości, a zwłaszcza prezbiterzy oraz świeccy katecheci i katechiś- ci, którym może ona służyć pomocą w głoszeniu Dobrej Nowiny oraz stanowić impuls do osobistej refleksji.
+
+\*  
+\* \*
+
+Ks. dr Robert Pisula, ur. w roku 1966 w Ostrowie Wielkopolskim, kap­łan diecezji kaliskiej. Studiował na Papieskim Wydziale Teologicznym w Poznaniu (1986-1992), na Uniwersytecie św. Krzyża i Uniwersytecie Salezjańskim w Rzymie (1993-1998), adiunkt na Wydziale Teologicz­nym Uniwersytetu im. Adama Mickiewicza w Poznaniu oraz ojciec du­chowny w Diecezjalnym Seminarium Duchownym w Kaliszu (1999- 2004). Obecnie katechista wędrowny Drogi Neokatechumenalnej na te­renie Rosji, Gruzji i Estonii. Autor książek: _Odpusty w Misterium Koś­cioła. Źródła, natura, praktyka,_ Poznań 2001 ; _Męka Pańska według łot­rów,_ Kalisz 2003.
+
+tyna im łacińskie pojęcia _peccatum originatum_ oraz _peccatum originans_. Pie
+
+tek"<sup>[\[126\]](#footnote-126)</sup>.
+
+### Bib
+
+Dej poważne uproszczenie owej kwestii"<sup>[\[127\]](#footnote-127)</sup>.
+
+#### Grie
+
+Stayrażenie znajdujemy w psalmach: „Zgrzeszyliśmy jak nasi przodkowie (…)" (Ps 106, 6).
+
+ata<sup>[\[128\]](#footnote-128)</sup>.
+
+### Pierwsze próby formułowania nauczania o grzechu pierworodnym
+
+#### Antropologiczne tło powstawania nauki o grzechu pierworodnym
+
+Przechodzimy teraz do koncepcji dotyczących grzechu pierworodnego odnajdywanych w rzeczonej kwestii, następuje w V w. Dzieje się to za sprawą wystąpień Pelagiusza i jego uczniów. W efekcie wypracowywane zostają pojęcia i oficjalne orzeczenia.
+
+#### Etapy kryzysu pelagiańskiego
+
+Pod koniec IV w. w Rzymie pojawia się i rozpoczyna swoją działalność kaznodziejską i teologiczno-literacką niejaki Pelagiusz. Jest on mnichem z Wysp Brytyjskich
+
+, ale \[
+
+ych sformułowań i wykorzystaniu ich do polemiki z Reformacją niż do ich reinterpretacji i wyjaśnienia grzechu początków.
+
+# R II
+
+Psy
+
+## Geneza pytania o grzech pierworodny u S. Kierkegaarda
+
+W pierwszym rozdziale przedstawilinie młoda wywikła się z przedśmiertelnego lęku i tylko w wierze synteza jest wieczna a każda chwila możliwa"<sup>[\[129\]](#footnote-129)</sup>.
+
+# RoI
+
+Antro
+
+W 1846 roku po napisaniu dzieła _Zamykające nienaukowe post scriptum_ Søren Kierkegaard postanawia zakończyć działalność pisarską. Planuje przenieść się na wieś podjąć
+
+, a mimo wszystko można go usunąć poprzez skruchę, i to tak skutecznie jakby się go topiło w morzu<sup><sup>[\[130\]](#footnote-130)</sup></sup>.
+
+# Zakończenie
+
+W pracy niniejszej omówiony został temat grzechu pierworodnego i grzeszności człowieka w oparciu o dzieła _Pojęcie lęku_ i _Choroba na śmierć_ duńskiego teologa i filozofa
+
+, z nauką chrześcijańską, na którą się powoływał.
+
+[^1]: Począwszy od wielu form cierpiętnictwa w imię przyszłej nagrody, aż po różne odmiany samodoskonalenia i zdobywania moralnej po­prawności poprzez wytrwałą pracę nad sobą.
+
+[^2]: Takie przekonanie wyraził Kościół na synodach w Kartaginie (418) i Orange (529) jako uwieńczenie burzliwego sporu pelagiańskiego.
+
+[^3]: Statut Neokatechumenatu został podpisany 29 czerwca 2001 roku przez Papieską Radę do Spraw Świeckich.
+
+[^4]: Zgodnie z ustaleniami współczesnej egzegezy, traktujemy te teksty jako metahistoryczne opowiadania opisujące ponadczasową rzeczywistość rodzaju ludzkiego - Adamem i Ewą jest w nich każdy bez wyjątku człowiek: „\[...\] nie patrzymy na nie jak na teksty starożytne, w których jest zawarta jakaś, większa czy mniejsza, ludzka mądrość pochodząca z określonych kręgów kulturowych. Nie patrzymy na te teksty jako na pośredników, dzięki którym chcemy i możemy odkrywać jakieś ludzkie poznanie czy stan ludzkiej świadomości na pewnym etapie rozwoju. \[...\] Patrzymy na te teksty jako na świadków jednego Objawienia Bożego, które - posługując się różnymi i różnorodnymi opisami, rozwijając się i pogłębiając - wykazuje nieporównywalną z żadnym innym świadectwem wewnętrzną jedność, a mianowicie stały i nieodwołalny zamysł Boży i jego wypełnienie, osiągające swój punkt kulminacyjny w dziele Jezusa Chrystusa". Z. Kiernikowski, _Dwoje jednym ciałem w Chrystusie,_ Warszawa 2000, s. 28-29.
+
+[^5]: Por. H. Dziadosz, _Miłosierdzie Boże na nowo odkrywane,_ Kraków 1999, s. 9-11.
+
+[^6]: Potwierdza to np. nasze codzienne doświadczenie konieczności nocnego odpoczynku, bez którego ludzkie życie jest niemożliwe.
+
+[^7]: Por. Kiernikowski, _Dwoje jednym ciałem w Chrystusie,_ s. 30-31. Sobór wypowiada tę prawdę mówiąc, że człowiek Jest jedynym na ziemi stworzeniem, którego Bóg chciał dla niego samego" (KDK 24).
+
+[^8]: Por. _Libro dei Giubilei_ w: P. Sacchi (red.), _Apocrifi dell'Antico Testamento,_ Torino 1981, s. 295; _Testamento dei XII Patriarchi: del Testamento di Nephtali 2,6,9, 3,1-5,_ tamże, s. 860-861.
+
+[^9]: Jako przykład szerokiej bibliografii na ten temat podajemy kilka klasycznych opracowań w języku włoskim: L.F. Ladaria, _Antropologia teologica,_ Roma 1983, s. 9-17; Ruiz De La Peña, _Teologia della creazione,_ Roma 1988, s. 11-54; A. Deissler, _L'uomo secondo la Biblia,_ Roma 1989, s. 11-57; G. Gozzelino, _Il mistero dell'uomo in Christo. Saggio di protologia,_ Torino 1991, s. 19-30; G. Iammarrone, _L'uomo immagine di Dio. Antropologia e Cristologia,_ Roma 1989, s. 47-80, 120-122; E. Perettro, _Gli insegnamenti degli scrittori cristiani del II secolo sulla creazione_ w: G. De Gennaro (red.), Il _cosmo nella Bibbia_ Napoli 1982, s. 529-575; G. Basio, E. Dal Covolo, M. Maritano _Introduzione ai Padri della Chiesa, Secoli II e III,_ Torino 1991, s. 249- 251; G. Iammarrone, _La cristologia francescana,_ Padova 1997, s. 145-161; A.G. Hamman (red.), _L'uomo immagine somigliante di Dio_ Milano 1991, s. 153-158; 161-173; 177-185; 263-274; G. Panteghini_, Limiti e aperture del cristocentrismo bonaventuriano_ w: AA.VV, _Contributi di spiritualità bonaventuriana_, Padova 1975, s. 75-121.
+
+[^10]: Por. G. Bentivegna, _Dimensione antroplogica della teologia in s. Ireneo,_ „Asprenas" 18(1971), s. 43-55.
+
+[^11]: _Divinum illud mundus,_ D 3326.
+
+[^12]: Por. Kiernikowski, _Dwoje jednym ciałem_ w _Chrystusie,_ s. 32-33.
+
+[^13]: Należy koniecznie pamiętać o biblijnym znaczeniu czasownika „_znać_", które wykracza daleko poza abstrakcyjną funkcję samego rozu­mu, ale wyraża intymny związek z poznawaną osobą.
+
+[^14]: Celowo sięgamy do porównania, zaczerpniętego z teologii Pawiowej (zob. Ga 4,6-7; Rz 8,15-17).
+
+[^15]: Kiedy mówimy tutaj o _zaufaniu_ czy _nieufności_ człowieka w sto­sunku do Boga, nie mamy na myśli pewnych stanów psychicznych o charakterze przejściowym, lecz myślimy o postawie zakorzenionej i utrwalonej na płaszczyźnie ontycznej, która konstytuuje go jako istotę ludzką.
+
+[^16]: To gwałtowne _przejście_ ze Starego do Nowego Testamentu jest uzasadnione w świetle prawdy o Chrystusie jako _Pośredniku w dziele stworzenia,_ która pozwala widzieć w _drugim Adamie_ (Chrystusie) peł­ną realizację powołania _pierwszego Adama_ (por. Rz 5,14).
+
+[^17]: Człowiek-Adam, nie mając odpowiedniej relacji do nikogo dru­giego, nie był jeszcze dziełem w pełni _ukończonym_ i dlatego w sensie ścisłym nie był jeszcze obrazem Boga. Por. Kiernikowski, _Dwoje jed­nym ciałem_ w _Chrystusie,_ s. 34-35.
+
+[^18]: Taką chrystologiczną interpolację uzasadnia tradycja patrystycz­na, która interpretowała werset Rdz 2,24 w świetle wypowiedzi św. Pawła o odniesieniu małżeństwa do wzajemnej relacji Chrystusa i Ko­ścioła (por. Ef 5,32). Syn Boży _wyszedł od Ojca i przyszedł na świat_ (por. J 16,28) jako człowiek, _nowy Adam_ (por. J 1,14), opuścił Synagogę, która była mu matką _według ciała_ (Rz 1,3), aby zjednoczyć się ze swoją oblubienicą, grzeszną ludzkością (_Ewa_), którą przemienił w Kościół, rodząc go ze swego boku, aby byli _dwoje jednym ciałem_ (por. Kol 1,18; Ef 2,11-22). Por. Kiernikowski, _Dwoje jednym ciałem w Chrystusie_, s. 43.
+
+[^19]: Chodzi np. o rozumienie nagości przez Hioba (por. Hi 1,21) lub Dawida (por. 2 Sm 6).
+
+[^20]: Poczucie wstydu można interpretować jako naturalną reakcję obronną człowieka wobec zagrożenia utratą integralności duszy i ciała poprzez pożądające spojrzenie. Por. K. Wojtyła, _Mężczyzną i kobietą stworzył ich,_ Vaticano 1986, n. 47-49.
+
+[^21]: Dla uniknięcia nieporozumień zwracamy uwagę, że przez _natural­ny stan_ człowieka rozumiemy sytuację, wyrażającą jego właściwe i pierwotne powołanie w planach Bożych, a więc przede wszystkim re­lację do Stwórcy. Wobec powyższego, nie należy temu pojęciu nadawać sensu, jaki miało ono w scholastyce, która przez _status naturæ puræ_ rozumiała hipotetyczny stan naturalnej szczęśliwości (skonstruowany na potrzeby doktryny o łasce), w którym człowiek mógłby żyć przed grzechem pierworodnym, gdyby został pozbawiony darów pozaprzyrodzonych (nieśmiertelność cielesna, wolność od cierpień, wiedza wlana, zdolność do zdobywania wiedzy bez trudu, skłonność woli do autentycznego dobra, harmonia wewnętrzna) oraz nadprzyrodzonych (łaska uświęcająca, cnoty wlane, dary Ducha Świętego, łaska uczynkowa).
+
+[^22]: Por. Wojtyła, _Mężczyzną i kobietą stworzył ich,_ n. 46-47.
+
+[^23]: Człowiek jest _homo religiosus,_ gdyż religijność została wpisana w jego naturę i powinna kierować go ku Bogu, jednak po upadku uległa wypaczeniu i przedstawia karykaturę Stwórcy (jeśli się jej nie korygu­je) i jak każda ludzka rzeczywistość wymaga odkupienia.
+
+[^24]: Taka postawa przyjmuje kształt konkretnej religii, w której czło­wiek się wychowuje (islam, buddyzm, hinduizm...). Można także nadać swojej religijności formę chrześcijańską np. sakramenty mogą być _uży­wane_ jako środek do zapewnienia sobie przychylności Boga – _ugłaskania, udobruchania_ i zagwarantowania sobie Jego opieki (np. podczas trudnego egzaminu).
+
+[^25]: Była to przede wszystkim funkcja proroków, którzy demaskowali religijne dewiacje Izraela: „Co mi po mnóstwie waszych ofiar? - mówi Pan. Syt jestem całopalenia kozłów i łoju tłustych cielców. Krew wo­łów i baranów, i kozłów mi obrzydła. Gdy przychodzicie, by stanąć przede Mną, kto tego żądał od was, żebyście wydeptywali me dziedziń­ce? Przestańcie składania czczych ofiar! Obrzydłe Mi jest wznoszenie dymu; święta nowiu, szabaty, zwoływanie świętych zebrań… Nie mogę ścierpieć świąt i uroczystości. Nienawidzę całą duszą waszych świąt nowiu i obchodów; stały Mi się ciężarem; sprzykrzyło Mi się je zno­sić!" (Iz 1,11-14).
+
+[^26]: Znaczące pod tym względem są słowa Sartre'a z dramatu _Za zamkniętymi drzwiami_: „Drugi człowiek to piekło", które wyrażają symbolicznie samą istotę _mentalności Kaina_.
+
+[^27]: Sugestywną ilustracją ludzkiej kondycji może być opowiadanie o dwóch jeżach, które próbują przetrwać zimę we wspólnej norze. Kiedy z powodu zimna chcą się do siebie przytulić, natychmiast ranią się wzajemnie swoimi kolcami. Trwają zatem w relacji zawieszenia: są ze sobą na tyle blisko, aby się wzajemnie ogrzać, ale na tyle daleko, aby się nie skrzywdzić. Człowiek bowiem nie ma w sobie możliwości, aby pozwolić się drugiemu zranić, i _dopuszcza_ go do siebie (czytaj: _kocha)_ tylko na tyle, na ile jest to dla niego korzystne. W ten sposób ludzka społeczność opiera się na umowie egoistów, którzy żyjąc w bezpiecznej odległości od siebie, wykorzystują się wzajemnie. Taki stan toleruje się do czasu, kiedy drugi jest w jakiś sposób użyteczny, gdy jednak taki być przestanie, a jego bliskość staje się bolesna, naturalną (w tym stanie) reakcją jest jego odrzucenie.
+
+[^28]: W świetle naszych poprzednich rozważań zrozumiała jest głębia i radykalizm tych słów: powiedzieć o drugim, że jest _głupi,_ to w rzeczywistości stwierdzić, że jest on niepotrzebny i bezwartościowy, czyli jego istnienie nie ma racji. Jest to zatem akt zabójstwa w intencji, podobnie jak w przypadku cudzołóstwa (zob. Mt 5,27-28), pociągający za sobą karę przewidzianą Prawem.
+
+[^29]: Sedno sprawy tkwi w poświęceniu siebie, a nie w daniu czegoś (podarunków) od siebie (por. Pwt 10,17), a wtedy także wszystkie składane ofiary odzyskują właściwą wartość: „Ty się bowiem nie radujesz ofiarą i nie chcesz całopaleń, choćbym je dawał. Moją ofiarą, Boże, duch skruszony, nie gardzisz, Boże, sercem pokornym i skruszonym. Panie, okaż Syjonowi łaskę w Twej dobroci: odbuduj mury Jeruzalem! Wtedy będą Ci się podobać prawe ofiary, dary i całopalenia, wtedy będą składać cielce na Twoim ołtarzu" (Ps 51,18-21; por. 40,6; 50,7-15). Mentalność merkantylną widać czasem w niedojrzałej postawie rodziców wobec dzieci, gdy nie są w stanie być dla nich (czas, cierpliwość, zrezygnowanie z własnych planów itp.), wówczas łatwo (dla rekompensaty) obsypują dzieci podarkami i ustępstwami dla zyskania ich aprobaty. Z. Kiernikowski, _Eucharystia i jedność,_ Częstochowa 2000, s. 294.
+
+[^30]: Dotyczy to także sytuacji Kościoła, gdzie istnieje swego rodzaju negatywna _sukcesja apostolska_ w sporze „o to, który z nich zdaje się być największy" (Łk 22,24). Musimy otwarcie przyznać, że wbrew woli Chrystusa _między nami_ jest tak jak w świecie. Nasza koncepcja stawania się wielkim i bycia pierwszym w praktyce niewiele różni się od powszechnie panującego sposobu postępowania (może jest nieco bardziej ogładzony i zamaskowany). W tym kontekście np. popularne wyrażenie _kariera kościelna_ brzmi jak tragiczna ironia.
+
+[^31]: W sposób obrazowy miało to miejsce już w czasie porodu, kiedy Jakub urodził się, trzymając bliźniaka Ezawa za piętę. Stąd właśnie jego imię stało się symboliczne i _Jaakow_ oznacza w języku hebrajskim: _tego, który podkłada drugiemu nogę,_ a czasownik powstały od tego imienia _(jakubować)_ oznacza _faulować._
+
+[^32]: W tym świetle głębokiego sensu nabiera sen Jakuba po ucieczce przed zemstą Ezawa (por. Rdz 28,10-22). Zmęczony zasypia na pustyni, skłoniwszy głowę na twardym kamieniu, który jest symbolem jego losu. Jednak we śnie właśnie to przeklęte miejsce napełnia się Bożą obecnością, staje się bramą i drabiną do nieba, domem i miejscem spotkania z Bogiem. Ten sen realizuje się w życiu Jakuba właśnie podczas powrotu, kiedy może doświadczyć, że to, co uważał za swoje przekleństwo, Bóg uczynił błogosławieństwem.
+
+[^33]: Tę samą rzeczywistość ukazuje Łukaszowa przypowieść w posta­wie starszego syna, który zamknięty na doświadczenie darmowej miło­ści Ojca, nie jest zdolny cieszyć się z powrotu brata i nie może zrozu­mieć bezwarunkowego przyjęcia go przez Ojca (por. Łk 15,30).
+
+[^34]: Analogia pomiędzy historią Izraela i Jezusa stanowi myśl prze­wodnią Ewangelii św. Mateusza, który pragnie ukazać Chrystusa jako Tego, który wypełnia misję narodu wybranego (por. Mt 5,17).
+
+[^35]: To samo kuszenie działa także we współczesnym społeczeństwie, które wyłącznie w nasyceniu chlebem widzi rozwiązanie swoich proble­mów. Co więcej, także w Kościele roznosi się odór tej pokusy, kiedy w imię różnorodnych _teologii wyzwolenia_ głosi się, że człowiekowi należy najpierw zapewnić chleb, a dopiero potem przepowiadać mu Ewangelię.
+
+[^36]: „Czyż może być co dobrego z Nazaretu?" (J 1,46).
+
+[^37]: To samo kuszenie działa mocno w dzisiejszym świecie, który w obliczu cierpienia i śmierci gorszy się Bogiem nieprzystającym do ludzkich zamierzeń i oczekiwań. Także w Kościele pokusa historii do­chodzi do głosu w postaci różnorodnych form triumfalizmu i pragnie­nia wymiernego, statystycznego powodzenia w ewangelizacji.
+
+[^38]: To samo kuszenie jest obecne dzisiaj, bo władza i bogactwo to dwa wielkie idole, łudzące obietnicą tymczasowego szczęścia. Także w Kościele ta sama pokusa ukazuje się w postaci różnorodnych prób ideologizacji Ewangelii i czynienia z niej programu organizacji doczes­nego życia społeczno-politycznego. Wszelkie zamiary wznoszenia współczesnej wieży Babel, czyli stworzenia na ziemi królestwa do­brobytu i pomyślności w oparciu o ludzkie siły (bez Boga lub z Bo­giem, ale traktowanym instrumentalnie) stanowią ciągłe echo pokusy bałwochwalstwa
+
+[^39]: „Jestem bowiem świadom, że we mnie, to jest w moim ciele, nie mieszka dobro; bo łatwo przychodzi mi chcieć tego, co dobre, ale wy­konać - nie. Nie czynię bowiem dobra, którego chcę, ale czynię to zło, którego nie chcę. Jeżeli zaś czynię to, czego nie chcę, już nie ja to czy­nię, ale grzech, który we mnie mieszka. A zatem stwierdzam w sobie to prawo, że gdy chcę czynić dobro, narzuca mi się zło. Albowiem we­wnętrzny człowiek \[we mnie\] ma upodobanie zgodne z Prawem Bożym. W członkach zaś moich spostrzegam prawo inne, które toczy walkę z prawem mojego umysłu i podbija mnie w niewolę pod prawo grzechu mieszkającego w moich członkach. Nieszczęsny ja człowiek!"
+
+[^40]: W duszpasterstwie bardzo często spotykamy się z praktycznym _neosemipelagianizmem_, który nie liczy się z ukazaną powyżej prawdą o ludzkiej kondycji i ogranicza się do wskazywania i egzekwowania wymaganych postaw moralnych (z konieczności okrojonych do rozsąd­nych granic). W konsekwencji wszelkie działania pastoralne skazane są na nieznośne moralizowanie, które okazuje się całkowicie bezowocne, a nawet szkodliwe, kiedy utrudnia odkrycie mocy Słowa Bożego. Oczywiście, często deklaruje się, że człowiekowi potrzebna jest pomoc łaski Bożej, ale jest ona zwykle rozumiana jako rodzaj niewidzialnego eteru, w którym człowiek się porusza i z którym ma współpracować. W praktyce należy się maksymalnie mobilizować, aby wypełnić okre­ślone wymagania moralne, a łaska dokona reszty. Takie postępowanie, przyznające inicjatywę ludzkim wysiłkom, zaciemnia naukę Kościoła o całkowitym pierwszeństwie łaski w chrześcijańskim życiu.
+
+[^41]: „Grzech jest bez wątpienia aktem wolności człowieka, ale pod jego warstwą ludzką działają czynniki, które stawiają go poza człowie­kiem, na pograniczu, tam, gdzie ludzka świadomość, wola i wrażliwość stykają się z siłami ciemności, które wg św. Pawła działają w świecie i niemal go opanowują (por. Rz 7,7-25; Ef 2,2; 6,12)". Jan Paweł II, _Recontiliatio et poenitentia,_ 14.
+
+[^42]: Tymczasem właśnie doświadczenie _umierania dla siebie_ (czyli _opuszczania siebie_ i _tracenia siebie_ dla drugiego, aby w jedności z nim _dopełniać siebie_) stanowi fundament miłości, która jest konstytutywna dla człowieka jako jego pierwotne _dobro,_ wewnętrznie rozpoznane i chciane, choć w obecnej kondycji nieosiągalne, albowiem ludzkie _ja_ staje się _ty_ w drugim, a przez to realizuje i odnajduje siebie tylko wte­dy, gdy umiera dla siebie. Ta egzystencjalna śmierć człowieka, który istnieje tylko w sobie i dla siebie, jest niezbędnym warunkiem, aby mógł on wchodzić w rzeczywistą (a nie urojoną) relację z drugim i tworzyć z nim wspólnotę, która wtedy dopiero będzie obrazem Boga Trójjedynego.
+
+[^43]: Ojcowie Kościoła powiedzą: _łańcuchem, wędzidłem, jarzmem, dybami,_ itp.
+
+[^44]: Człowiek jest niewolnikiem tego, komu daje posłuch (por. Rz 6,16), i służy temu, komu ulega (por. 2 P 2,19). Powołany do życia _du­chowego_ (por. 1 Kor 2,10-15) uwikłany został przez własny wybór w swoją _cielesność_ (por. 1 Kor 3,1-3), a odwracając się od Boga, pozostaje „w niewoli «żywiołów tego świata»" (Ga 4,3) - „kto popełnia grzech, jest niewolnikiem grzechu" (J 8,34).
+
+[^45]: Pomocą może być tutaj obraz drzewa zasadzonego nad płynącą wodą (por. Ps 1,3; Jr 17,8), którą jest dla człowieka relacja do Boga (por. J 4,10; 7,37-38; IKor 10,4). Pozbawienie dostępu do wody (grzech) oznacza odcięcie od źródła istnienia i stawia go w perspekty­wie śmierci: „\[...\] opuścili Mnie, źródło żywej wody, żeby wykopać so­bie cysterny, cysterny popękane, które nie utrzymują wody" (Jr 2,13).
+
+[^46]: Można powiedzieć zatem, że człowiek w rzeczywistości pier­wotnej nie zna zła jako zła, lecz zna je jako dobro pochodzące (tak jak wszystko) z ręki Boga. Pozwała to na przyjęcie hipotezy, że stan oryginalny człowieka nie musi wcale wykluczać z życia ludzkiego trudu, cierpienia i śmierci. Te doświadczenia nie mają jednak dla człowieka wtedy charakteru zła, lecz są przeżywane jako trwałe ele­menty zamysłu Boga wobec ludzkości, a więc jako z gruntu dobre, ponieważ zmierzają do ostatecznego celu - uszczęśliwiającego udziału w życiu Bożym. Z tego punktu widzenia śmierć w sytuacji pierwotnej byłaby tylko _przejściem_ człowieka z naturalnego do nad­przyrodzonego poznania Boga, podobnym do procesów obumierania i odradzania się, które obserwujemy w przyrodzie. Hipoteza ta jest bardzo pomocna dla zrozumienia sytuacji człowieka już odkupione­go przez Chrystusa, choć doświadczającego jeszcze skutków zła w swoim życiu.
+
+[^47]: Por. Kiernikowski, _Dwoje jednym ciałem w Chrystusie,_ s. 69-71.
+
+[^48]: _Pole_ jest niejako przeciwieństwem _ogrodu -_ to właśnie tam Kain wyprowadza Abla, aby go zabić (por. Rdz 4,8); tak też jest określany teren udręki Izraelitów w Egipcie (por. Wj 1,14).
+
+[^49]: Por. 1 Krl 11,14.25; Hi 16,9; 30,21; 1 Krn 21,1; Za 3,1-3; Mk 1,13; gr. _satanas_ jest używany także w odniesieniu do ludzi, którzy przeciwstawiają się Bogu (por. Mk 8,33; Mt 16,23).
+
+[^50]: Gr. _diaballein -_ kierować w poprzek, przeciwstawić, poróżnić, rozrzucić, powodować zniszczenie i chaos, oczerniać, oskarżać, oszu­kiwać; _diabolos -_ ktoś, kto staje w poprzek, przeciwstawia się, prze­ciwnik, oskarżyciel, wróg osobisty, oszust, zwodziciel (por. Mdr 2,24; Mt 4,1-11; Łk 4,1-13; J 8,44). Nie ma różnicy między terminem _śatan_ a _diabolos,_ tyle że oba oznaczają przywódcę, a resztę nazywa się _demo­nami_ - nie jest poprawna liczba mnoga: _szatani, diabły_.
+
+[^51]: Szatan został więc ukazany nie jako przeciwnik Jahwe w sensie ścisłym, ale raczej jako jeden z aniołów Jego dworu, spełniający tam funkcję publicznego oskarżyciela. Pod pozorem służby Bogu pragnie on jednak przeprowadzać własne plany, skierowane przeciwko czło­wiekowi (por. Hi 1-3; Za 3,1-15; Mt 13,39; 1P 5,8).
+
+[^52]: Pochodzi z upodobnienia do _Baal-Zebub_; _baal_ to bóstwo z doda­niem określenia miejsca (np. 2 Krl 1,2-6.16), faryzeusze nazywali tak księcia złych duchów (por. Mk 3,22; Mt 10,15; 12,24.27). Popularna interpretacja tego określenia wskazuje na działanie uniemożliwiające gojenie się ran duchowych człowieka, podobnie jak muchy, roznosząc zarazki, nie pozwalają na gojenie ran fizycznych.
+
+[^53]: Stara nazwa gwiazdy porannej, Wulgata przetłumaczyła hebr. _helel benszahar_: „Jakże to spadłeś z niebios, Jaśniejący, Synu Jutrzenki?" (Iz 14,12). Według Ojców _Pierworodny światłości_ stał się _Pierworodnym ciemności_ (Orygenes, Tertulian, Euzebiusz z Cezarei).
+
+[^54]: Liczba kamieni symbolizuje 9 chórów anielskich.
+
+[^55]: Do takiego sposobu działania nawiązuje symbolika węża, który pozostaje niewidoczny dla swojej ofiary i atakuje ją znienacka: „Jakby uciekał człowiek przed lwem, a trafił na niedźwiedzia; jakby skrył się do domu i oparł się ręką o ścianę, a ukąsił go wąż" (Am 5,19).
+
+[^56]: W Nowym Testamencie funkcjonuje wiele określeń oddających różne aspekty roli szatana i jego demonów: _kusiciel_ (Mt 4,3; 1 Tes 3,5), _wróg_ (Mt 13,25.28.39; Łk 10,19), _zabójca_ (J 8,44), _duch nieczysty_ (Dz 19,12.15; Ef 6,12), _zły_ (1 J 2,13-14; Mt 6,13; 13,19.38; Ef 6,16), _wielki smok_ (Ap 12,3; 13,2), _starodawny wąż_ (Ap 12,8; 20,2), _anioł (posłaniec) szatana_ (2 Kor 12,7), _antychryst_ (1 J 4,3), _książę tego świata_ (J 12,31; 14,30; 16,11; Łk 4,6; 1 Kor 2,6), _bóg tego świata_ (2 Kor 4,4; Ef 2,2), _mocarz_ (Mk 3,27 par.), _anioł ciemności_ (2 Kor 11,14), _anioł czeluści_ (Ap 9,11), _rządcy świata ciemności_ (Ef 6,12), _aniołowie szatana_ (Mt 25,41; 2 Kor 12,7; Ap 12,7.9).
+
+[^57]: Por. Kiernikowski, _Dwoje jednym ciałem w Chrystusie,_ s. 73-75.
+
+[^58]: Klasyczna teologia ten skutek grzechu pierworodnego określała mianem _rany umysłu,_ która ogranicza poznanie intelektualne człowieka oraz jego rozumienie siebie samego i rzeczywistości, w której żyje (por. DA 7). Dotyczy to przede wszystkim prawdziwego poznania Boga oraz sensu i celu własnej egzystencji, szczególnie wobec _zgorszenia,_ jakim jest fakt obecności zła, cierpienia i śmierci. Umysł w tym stanie pozba­wiony jest pierwotnego światła, które pozwalało na poznawanie całej rzeczywistości _z_ perspektywy Stwórcy i w odniesieniu do Niego, uczestnicząc niejako w Jego poznaniu. Przyjęcie punktu widzenia diabła i poznawanie dobra i zła w oderwaniu od Boga, czyni niemożliwym przeniknięcie ostatecznych racji, które rządzą całym wszechświatem i życiem każdej pojedynczej osoby.
+
+[^59]: Z tego powodu chrześcijańska tradycja często określa diabła mia­nem _błazna_ Boga, ponieważ nie będąc sam Stwórcą i nie posiadając zdolności stwarzania, potrafi tylko opacznie naśladować i przekręcać dzieła Boga.
+
+[^60]: Można powiedzieć, że akt spożycia zakazanego owocu stanowił swego rodzaju antysakrament, podczas którego człowiek wypowiada swoje _amen_ na diabelskie poduszczenie, które koresponduje z _amen,_ wypowiadanym przez wierzącego podczas przyjmowania Eucharystii - owocu z Drzewa Życia. Tak jak grzech wszedł w historię ludzkości przez spożywanie, tak przychodzi też jej odkupienie.
+
+[^61]: Ten stan, jako powszechne i uniwersalne ludzkie doświadczenie, jest teologicznie określany jako _grzech pierworodny originale originato_.
+
+[^62]: „Dwa symbole mezopotamskie oznaczające bezwzględną nie­możność powrotu o własnych siłach do stanu oznaczonego obrazem «raj»". Przypis do Rdz 3,24 z Biblii Tysiąclecia.
+
+[^63]: Por. Kiernikowski, Dwoje jednym ciałem w Chrystusie, s. 52-55.
+
+[^64]: W tej perspektywie raz jeszcze widać przebiegłą taktykę szatana, który nie tylko oskarża Boga wobec człowieka, ale także oskarża człowieka przed nim samym i czyni go w ten sposób niezdolnym do akcep­towania własnej nagości (słabości), zmuszając do szukania sprawiedli­wości na własną rękę.
+
+[^65]: „Zraniony w ten sposób człowiek niejako w sposób nieuchronny narusza tkankę łączącą go z innymi ludźmi i ze światem stworzonym. (…) jest to prawo i fakt obiektywny, który potwierdza się bardzo często w psychologii w życiu duchowym człowieka, jak również w rzeczywi­stości życia społecznego, gdzie łatwo można dostrzec skutki i oznaki owego wewnętrznego nieładu. (…) Nie ma grzechu, nawet najbardziej wewnętrznego i tajemnego, najściślej indywidualnego, który odnosiłby się wyłącznie do tego, kto go popełnia (…). Mówiąc o grzechu społecz­nym, trzeba przede wszystkim uznać to, że ze względu na ludzką soli­darność równie tajemniczą i niepojętą co rzeczywistą i konkretną grzech każdego człowieka w jakiś sposób dotyka innych". Jan Paweł II, _Reconciliatio et poenitentia,_ 15.16.
+
+[^66]: Wyraża tę prawdę najlepiej podwójne przykazanie miłości Boga i bliźniego. Przy czym relacja do Boga jest źródłem relacji międzyludz­kich (nigdy odwrotnie!): „My miłujemy \[Boga\], ponieważ Bóg sam pierwszy nas umiłował" (1 J 4,19), natomiast relacja do bliźniego jest sprawdzianem odniesienia do Boga (nigdy odwrotnie!): „(…) kto nie miłuje brata swego, którego widzi, nie może miłować Boga, którego nie widzi" (1 J 4,20).
+
+[^67]: Bardzo często ten podstępny mechanizm jest głęboko ukryty pod pozorami dobra, np. troskliwa miłość macierzyńska może ukrywać za­borcze pragnienie posiadania dziecka dla siebie.
+
+[^68]: Jan Paweł II, _Solicitudo rei socialis,_ 36. Właśnie ten społeczny wymiar grzechu jest teologicznym uzasadnieniem aktów wspólnotowe­go rachunku sumienia i obciążenia się winami poprzednich pokoleń, które zaproponował całemu Kościołowi Papież z okazji Jubileuszu 2000. Dzięki zrozumieniu wspólnotowego charakteru grzechu, akty te nie są obłudnym biciem się w cudze piersi, lecz autentycznym wyzna­niem grzechów, w których także współcześni członkowie Kościoła mają swój rzeczywisty udział i mogą stawać wobec swoich przodków jako bracia grzesznicy, świadomi własnej potrzeby nawracania się z podobnych nastawień ducha.
+
+[^69]: W. Granat, _Dogmatyka katolicka,_ t. 2, Lublin 1961, s. 385.
+
+[^70]: _I Modlitwa eucharystyczna o pojednaniu_.
+
+[^71]: W tym sensie liturgia uroczystości Wniebowzięcia nazywa Maryję _znakiem pociechy i niezawodnej nadziei_.
+
+[^72]: Maryja jest pierwszą wierzącą, pierwszą chrześcijanką, pierwszą uczennicą Jezusa: „(…) błogosławiona Dziewica szła naprzód w piel­grzymce wiary" (LG 58).
+
+[^73]: Wystarczającym uzasadnieniem dla takiego zestawienia jest tekst Apostoła, odnoszący się wprost do Księgi Rodzaju: „A zatem, jak prze­stępstwo jednego sprowadziło na wszystkich ludzi wyrok potępiający, tak czyn sprawiedliwy Jednego sprowadza na wszystkich ludzi usprawiedliwienie dające życie. Albowiem jak przez nieposłuszeństwo jednego człowieka wszyscy stali się grzesznikami, tak przez posłuszeństwo Jednego wszyscy staną się sprawiedliwymi" (Rz 5,18-19).
+
+[^74]: _Aniołem_ Apokalipsa nazywa biskupa (por. Ap 1,20).
+
+[^75]: Z tego powodu niektórzy Ojcowie nazywają Słowo Boże _spermą Ducha Świętego_.
+
+[^76]: Jan Paweł II w encyklice _Ecclesia de Eucharistia vivit_ sięga do klasycznej myśli o Maryi jako figurze Kościoła, która domaga się na­śladowania, także w relacji do Eucharystii (por. n. 53). Papież odnosi je do tajemnicy zwiastowania, kiedy „Maryja poczęła Syna Bożego rów­nież w fizycznej prawdzie ciała i krwi, antycypując w sobie to, co w ja­kiejś mierze realizuje się sakramentalnie w każdym wierzącym, który przyjmuje pod postacią chleba i wina Ciało i Krew Pańską" (n. 55). W tej perspektywie Ojciec święty mówi o _prawdziwej postawie eucha­rystycznej,_ której wzór znajdujemy w _Magnificat_ Maryi: „Eucharystia jest bowiem, podobnie jak hymn Maryi, przede wszystkim uwielbie­niem i dziękczynieniem. Kiedy Maryja wznosi okrzyk: «Wielbi dusza moja Pana i raduje się duch mój w Bogu, Zbawicielu moim», nosi już w łonie Jezusa. Wielbi Ojca «przez» Jezusa, lecz wielbi Go także «w» Jezusie i «z» Jezusem. To jest właśnie prawdziwa «postawa euchary­styczna»" (n. 58). Na tak przygotowany grunt pada kluczowe sformu­łowanie: „Istnieje ponadto głęboka analogia pomiędzy _fiat_ wypowie­dzianym przez Maryję na słowa archanioła i _amen,_ które wypowiada każdy wierny, kiedy otrzymuje Ciało Pańskie" (n. 55).
+
+[^77]: W takim sensie wolno rozumieć nakaz Jezusa z Ostatniej Wie­czerzy. „(…) to czyńcie na moją pamiątkę" (Łk 22,19). Nie chodzi tylko o powtarzanie tych samych słów i gestów - pamiątką Chrystusa nie jest tylko sam fakt celebracji, ale przede wszystkim jej dojrzały owoc, a więc człowiek wyzwolony z lęku o siebie, czyli ikona swego Mistrza. W Eucharystii jest niejako _zakodowana_ ta zdolność (czy nawet władza) wydania czy złamania siebie dla innych. Taka prawda o Bogu, po­świadczana w każdej mszy świętej oznacza, że życie to nie jest owoc ludzkich starań, lecz darmowy dar i dlatego nie trzeba się go kurczowo trzymać, ale można je stracić i nie zginąć. Można więc być jak „Baranek Boży, który gładzi grzechy świata", można nie stawiać oporu złemu (por. Mt 5,39) i dać się _połamać z_ miłości, a nie ze strachu! Por. Kiernikowski, _Eucharystia i jedność,_ s. 56.
+
+[^78]: Udział Abrahama w jego zawarciu ograniczał się tylko do przy­gotowania zwierząt i odpędzania od nich drapieżnych ptaków (por. Rdz 15,11).
+
+[^79]: Tradycja judaistyczna utrzymuje, że Abram rozpoznał w odwie­dzających samego Boga dzięki temu, że nieznajomi przybysze pozdra­wiając go, użyli imienia _Abraham,_ a tak dotąd zwracał się do niego tylko On.
+
+[^80]: W taki sposób, odnosząc się do dojrzałej wiary Abrahama, tłuma­czy jego wierność Hbr 11,17-19.
+
+[^81]: Jest to nieświadoma próba uczynienia siebie jedynym bogiem i królem nad Izraelem. Takie tendencje Dawid przejawiał niejednokrot­nie, np. gdy postanowił, wbrew woli Bożej, policzyć swoje wojsko (por. 2 Sm 24).
+
+[^82]: Pod tym względem zasadniczo różnił się od króla Saula, który własne błędy przypisywał Bogu i opierał się na woli ludu (por. 1 Sm 13,11-14). Tymczasem ogarnięcie Dawida przez Ducha Bożego spra­wiało, że jego reakcje i dokonywane przez niego wybory były zawsze odwrotne od oczekiwań otaczających go ludzi.
+
+[^83]: „Pan odpuszcza ci też twój grzech - nie umrzesz, lecz dlatego, że przez ten czyn odważyłeś się wzgardzić Panem, syn, który ci się urodzi, na pewno umrze" (2 Sm 12,13-14).
+
+[^84]: Warto zwrócić uwagę, że wszystkie epizody w Ewangeliach, w których ludzie nazywają Jezusa _Synem Dawida,_ dotyczą uzdrowienia ze ślepoty. Przejrzenie wiąże się tutaj z uznaniem własnej grzeszności w przeciwieństwie do utrzymywania siebie w przekonaniu o własnej doskonałości.
+
+[^85]: Przykładem interioryzacji prawa i jego wewnętrznego przeżywania może być np. regularne spożywanie posiłków, do czego nie trzeba zobowiązywać zdrowego człowieka, ponieważ doświadcza takiej nie­odpartej konieczności. Tylko w przypadku zaburzeń chorobowych je­dzenie staje się zewnętrznym prawem, do którego pacjent jest nakłania­ny dla własnego dobra. Stan człowieka po grzechu pierworodnym jest takim właśnie stanem patologicznym, wymagającym leczenia.
+
+[^86]: „Dziś uzyskałeś to, że Pan ci powiedział, iż będzie dla ciebie Bogiem, o ile ty będziesz chodził Jego drogami, strzegł Jego praw, po­leceń i nakazów oraz słuchał Jego głosu. A Pan uzyskał to, żeś ty dziś obiecał być ludem stanowiącym szczególną Jego własność, jak ci po­wiedział, abyś zachowywał Jego wszystkie polecenia" (Pwt 26,17-18).
+
+[^87]: Opisaliśmy już w ramach tych rozważań przymierze Boga z Abrahamem (por. Rdz 15,7-20) - typ i przygotowanie Przymierza, zapowie­dzianego przez Jeremiasza. Mówiliśmy o tym, że owocem przymierza z Abramem jest nie ten, którego patriarcha dał sam sobie jako rezultat własnych wysiłków (Izmael - Rdz 16), lecz ten, który był przedmiotem obietnicy (Izaak), a ostatecznie Ten, kogo on zapowiedział - Jezus Chrystus - to w Nim wypełniła się obietnica licznego potomstwa i bło­gosławieństwa wszystkich ludów ziemi (por. Rdz 12,2-3).
+
+[^88]: Idea _nowego stworzenia,_ związana z nową interwencją Boga w hi­storię ludzkości, występuje w różny sposób u wszystkich proroków (por. np. Ez 11,19; 18, 31; 47,7-12; Iz 41,16-21; 65,17).
+
+[^89]: „Wtedy wilk zamieszka wraz z barankiem, pantera z koźlęciem razem leżeć będą, cielę i lew paść się będą społem i mały chłopiec bę­dzie je poganiał. Krowa i niedźwiedzica przestawać będą przyjaźnie, młode ich razem będą legały. Lew też jak wół będzie jadał słomę. Niemowlę igrać będzie na norze kobry, dziecko włoży swą rękę do kryjówki żmii. Zła czynić nie będą ani zgubnie działać po całej świętej mej górze (Iz 11,6-9a; por. 65,25).
+
+[^90]: Biblijnym obrazem beznadziejnych wysiłków, zmierzających do usunięcia dzielących ludzi barier i zapewnienia pseudojedności spo­łecznej, jest historia miasta i wieży Babel (por. Rdz 11,1 -9).
+
+[^91]: To szczególne odniesienie człowieka do Boga, które stanie się możliwe dzięki przyjściu Mesjasza, będzie restytucją takiego sposobu poznania Stwórcy, jakim człowiek cieszył się od początku.
+
+[^92]: Warto w tym punkcie przytoczyć słowa Jana Pawła II wygłoszone w Łagiewnikach, podczas IX pielgrzymki do Polski: „To Duch Święty, Pocieszyciel i Duch Prawdy, wprowadza nas na drogi Bożego miłosier­dzia. Przekonując świat o grzechu, o sprawiedliwości i o sądzie (J 16,8), równocześnie odsłania pełnię zbawienia w Chrystusie. To przekonanie o grzechu dokonuje się w dwojakim odniesieniu do Krzyża Chrystusa. Z jednej strony Duch Święty pozwala nam przez Krzyż Chrystusa po­znać grzech, każdy grzech, w pełnej skali zła, jakie w sobie zawiera. Z drugiej strony, przez Krzyż Chrystusa Duch Święty pozwala nam zobaczyć grzech w świetle _mysterium pietatis,_ czyli miłosiernej, prze­baczającej miłości Boga".
+
+[^93]: Dobrowolny charakter śmierci Jezusa Chrystusa jest wielokrotnie poświadczony przez Pismo i Tradycję, stanowi też dogmat określony wyraźnie przez Magisterium. Szczególna waga tej prawdy wiary wyni­ka z jej soteriologicznego znaczenia.
+
+[^94]: Ta sama logika powtarza się w przepowiadaniu apostolskim: „Lecz teraz wiem, bracia, że działaliście w nieświadomości, tak samo jak zwierzchnicy wasi" (Dz 3,17).
+
+[^95]: Tak pojmowali swoją służbę Bogu faryzeusze (dosłownie: _odłą­czeni_), którzy chcieli skrupulatnie wypełnić Prawo i pozostać odłączeni od grzeszników, wolni od odpowiedzialności za cudze winy. W tej po­stawie jednak nie było tego, co należy do istoty Prawa, czyli miłości do grzesznika.
+
+[^96]: Konsekwencją uznania się za grzesznika i jednocześnie spraw­dzianem rzetelności tej deklaracji jest zawsze zgoda na traktowanie siebie jako takiego, to znaczy niegodnego miłości, szacunku, uznania ze strony innych ludzi (ale nie Boga!). Odmowa takiej zgody w sposób oczywisty stawia pod znakiem zapytania świadomość własnej winy i demaskuje hipokryzję takiego samooskarżenia.
+
+[^97]: Wydaje się, że powyższe zdanie to klucz do interpretacji całego rozdziału dziewiątego tej Ewangelii, stanowiącego katechezę chrzcielną pierwotnego Kościoła. Gest nałożenia przez Jezusa błota ze śliny na oczy niewidomego od urodzenia może być odczytany tutaj jako działa­nie, które miało mu uświadomić jego ślepotę, wyrwać ze stanu otępienia grzechem i wzbudzić pragnienie chrztu. W tym sensie potoczne stwier­dzenie o _rzucaniu komuś błota w oczy_ zyskuje nieoczekiwaną głębię.
+
+[^98]: W tym kontekście odkrywamy symboliczne znaczenie ran Jezusa: skrępowane ręce i nogi ukazują ograniczenie ludzkiej woli w wyniku grzechu, cierniem ukoronowana głowa przedstawia zranienie sfery po­znawczej człowieka, a przebite serce reprezentuje ranę jego nieuporząd­kowanych uczuć.
+
+[^99]: Mamy tu do czynienia z dwoma różnymi koncepcjami Mesjasza, istniejącymi w judaizmie. Barabasz to obraz mesjasza politycznego (wskazuje na to także źródłosłów jego imienia) - jego celem było za­pewnienie Izraelowi świetności i potęgi w wymiarze doczesnym. Ewangelie (zwłaszcza św. Marka) świadczą o tym, że podczas publicz­nej działalności Jezus zdecydowanie starał się uniknąć utożsamienia Go z mesjanizmem tego typu.
+
+100.Poniższy cytat pochodzi z Pierwszego Listu św. Piotra, w którym zwraca się on do niewolników, niesprawiedliwie traktowanych przez swoich panów, i zachęca ich do przyjęcia postawy Chrystusa: „Do tego bowiem jesteście powołani. Chrystus przecież również cierpiał za was i zostawił wam wzór, abyście szli za Nim Jego śladami. _On grzechu nie popełnił, a_ w _Jego ustach nie było podstępu._ On, gdy Mu złorzeczono, nie złorzeczył, gdy cierpiał, nie groził, ale oddawał się Temu, który są­dzi sprawiedliwie". Godny uwagi jest fakt, że powyższe porównanie ukazuje w dalszej kolejności zbawcze skutki znoszonego ulegle cierpie­nia dla tych, którzy je zadają: „On sam, w swoim ciele _poniósł_ nasze _grzechy_ na drzewo, abyśmy przestali być uczestnikami grzechów, a żyli dla sprawiedliwości - _Krwią Jego zostaliście uzdrowieni_" (1 P 2,21-25). [↑](#footnote-ref-100)
+
+101.Na tym tle wybór Barabasza przez tłumy to oczywistość - jest on patriotą, bohaterem narodowym, symbolem walki za ich _sprawę_, który w zamieszkach ulicznych zabił przedstawiciela znienawidzonego okupanta. To - wydaje się - tłumaczy, dlaczego te same tłumy, które wcze­śniej wołały: _Hosanna_, teraz tak łatwo dały się przekupić i przekonać do skazania Jezusa. [↑](#footnote-ref-101)
+
+102.W tym świetle bardzo jasno brzmią słowa Apostoła: „(…) my głosimy Chrystusa ukrzyżowanego, który jest zgorszeniem dla Żydów, a głupstwem dla pogan, dla tych zaś, którzy są powołani, tak spośród Żydów, jak i spośród Greków, Chrystusem, mocą Bożą i mądrością Bożą" (1 Kor 1,23-24). [↑](#footnote-ref-102)
+
+103.Jak np. w tekście religijnej piosenki: „To nie gwoździe Cię przy­biły, lecz mój grzech". [↑](#footnote-ref-103)
+
+104.„Chociaż nie znaleźli w Nim żadnej winy zasługującej na śmierć, zażądali od Piłata, aby Go stracił" (Dz 13,28). [↑](#footnote-ref-104)
+
+105.W świetle powyższych rozważań głębi nabierają słowa proroka Jeremiasza: „Dobry jest Pan dla ufnych, dla duszy, która Go szuka. Dobrze jest czekać w milczeniu ratunku od Pana. Dobrze dla męża, gdy dźwiga jarzmo w swej młodości. Niech siedzi samotny w milczeniu, gdy On na niego je włożył. Niech usta pogrąży w prochu! A może jest jeszcze nadzieja? Bijącemu niech nadstawi policzek, niechaj nasyci się hańbą!" (Lm 3,25-30). [↑](#footnote-ref-105)
+
+106.Klasycznym tego przykładem jest powszechne zjawisko lęku, przeżywanego przez osoby w podeszłym wieku, aby nie być bezpro­duktywnym ciężarem dla otoczenia. W perspektywie takiej przyszłości zdecydowanie wyrażają one pragnienie śmierci, bo ta wobec bezsensu nieużytecznej wegetacji wydaje się najlepszym rozwiązaniem. [↑](#footnote-ref-106)
+
+107.Jan Paweł II, DM 7. [↑](#footnote-ref-107)
+
+108.Por. C. Spicq, _Carità e libertà secondo il Nuovo Testamente_, Roma 1962, s. 45-62; P. Coda, _L'agàpe come grazia e libertà. Alla radice della teologia e prassi dei cristiani_, Roma 1994, s. 122-128. [↑](#footnote-ref-108)
+
+109.Trzeba jednak zaraz koniecznie zauważyć, że nie zamierzamy w ten sposób szukać dowodów na bóstwo Chrystusa poza jego człowieczeństwem. Wręcz przeciwnie, twierdzimy, że bóstwo Jezusa daje się uchwycić w tym świecie tylko i wyłącznie za pośrednictwem Jego człowieczeństwa, ale dodajmy - wyzwolonego z niewoli grzechu. [↑](#footnote-ref-109)
+
+110.„Stąd grzesznicy są piękni, bo są kochani, a nie dlatego są kocha­ni, że są piękni". M. Luther, _Die Werke,_ b. 1, Stuttgart 1969, s. 393. Bardziej _po katolicku_ to zdanie brzmiałoby: „Stąd grzesznicy mogą być piękni, bo są kochani, a nie dlatego są kochani, że są piękni". Por. T. Węcławski, _Gdzie jest Bóg? Małe wprowadzenie dla tych, którzy nie boją się myśleć_, Poznań 1989, s. 24. [↑](#footnote-ref-110)
+
+111.Mówiąc inaczej, miłość Boga do człowieka nie jest rodzajem pożyczki czy kredytu, udzielanego na ściśle określonych zasadach, który należy w końcu zwrócić pod groźbą jego cofnięcia i innych po­ważnych konsekwencji. [↑](#footnote-ref-111)
+
+112.Jan Paweł II, DM 3. [↑](#footnote-ref-112)
+
+113.Jan Paweł II, DM 8. [↑](#footnote-ref-113)
+
+114.Tamże. [↑](#footnote-ref-114)
+
+115.Nie zagłębiamy się tutaj w rozważania o tym, czy, na ile i w jaki sposób Zmartwychwstanie było wydarzeniem historycznym, lecz przyjmujemy je jako artykuł wiary Kościoła, z którym wyznajemy, że śmierć nie zniszczyła osobowej egzystencji Jezusa Chrystusa. [↑](#footnote-ref-115)
+
+116.Taka może być teologiczna wymowa opisów pozbawienia Chrystusa szaty podczas męki i rzucania o nią losów. [↑](#footnote-ref-116)
+
+117.„(…) dążność ciała wroga jest Bogu, nie podporządkowuje się bowiem Prawu Bożemu, ani nawet nie jest do tego zdolna. A ci, którzy żyją według ciała, Bogu podobać się nie mogą" (Rz 8,7). [↑](#footnote-ref-117)
+
+118.„(…) Pismo poddało wszystko pod \[władzę\] grzechu" (Ga 3,22). [↑](#footnote-ref-118)
+
+119.„Do czasu przyjścia wiary byliśmy poddani pod straż Prawa i trzymani w zamknięciu aż do objawienia się wiary. (…) Gdy jednak wiara nadeszła, już nie jesteśmy poddani wychowawcy. Wszyscy bo­wiem dzięki tej wierze jesteście synami Bożymi - w Chrystusie Jezusie" (Ga 3,23.25-26). [↑](#footnote-ref-119)
+
+120.Jan Paweł II, _Sollicitudo rei socialis,_ 31. [↑](#footnote-ref-120)
+
+121.Wydaje się, że ta prawda nie jest jeszcze dostatecznie uświado­miona w zachodniej teologii, która bazując na anzelmiańskiej koncep­cji zadośćuczynienia, widzi dzieło odpuszczenia grzechów przede wszystkim w zasługach męki i śmierci Chrystusa. [↑](#footnote-ref-121)
+
+122.„Bóg wywyższył Go na prawicę swoją jako Władcę i Zbawiciela, aby dać Izraelowi nawrócenie i odpuszczenie grzechów" (Dz 5,31). [↑](#footnote-ref-122)
+
+123.„Nie zostawię was sierotami: Przyjdę do was. Jeszcze chwila, a świat nie będzie już Mnie oglądał. Ale wy mnie widzicie, ponieważ Ja żyję i wy żyć będziecie. W owym dniu poznacie, że Ja jestem w Ojcu moim, a wy we Mnie i Ja w was" (J 14,18-20; por. 15,1-11). [↑](#footnote-ref-123)
+
+124.„Tak mówi Pan Bóg: Oto otwieram wasze groby i wydobywam was z grobów, ludu mój, i wiodę was do kraju Izraela, i poznacie, że Ja jestem Pan, gdy wasze groby otworzę i z grobów was wydobędę, ludu mój. Udzielę wam mego ducha po to, byście ożyli, i powiodę was do kraju waszego, i poznacie, że Ja, Pan, to powiedziałem i wykonam - wyrocznia Pana Boga" (Ez 37,12-14). [↑](#footnote-ref-124)
+
+125.Por. Kardynał Joseph Ratzinger, _Duch liturgii,_ Poznań 2002, s. 12. [↑](#footnote-ref-125)
+
+126.V. Grossi, B.. Por. A. Ganoczy, _Podręcznik teologii dogmatycznej. Traktat III Nauka o stworzeniu_, Kraków 1999, Wydawnictwo M, s. 84-87, 91. [↑](#footnote-ref-126)
+
+127.V. Grossi, B. Sesboüé, _Grzech pierworodny i grzech początków: od św. Augustyna do końca Średniowiecza_, dz. cyt., s. 162. Por. C. Bartnik, _Dogmatyka katolicka_, Lublin 2009, Wydawnictwo KUL, t. 1, s. 350-353. [↑](#footnote-ref-127)
+
+128.Por. tamże. [↑](#footnote-ref-128)
+
+129.Tamże, s. 140. [↑](#footnote-ref-129)
+
+130.Por. tamże, s. 252. [↑](#footnote-ref-130)
