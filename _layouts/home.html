@@ -14,12 +14,15 @@ layout: default
 
 <h2>Spis treści</h2>
 
+{% comment %} Jawnie sortujemy WSZYSTKIE strony alfabetycznie po ich ścieżkach na dysku (path) {% endcomment %}
+{% assign sorted_pages = site.pages | sort: "path" %}
+
 <ul>
-  {% comment %} 1. Znajdź i wyświetl wszystkie pliki index.md w podfolderach (czyli Strony Główne Rozdziałów) {% endcomment %}
-  {% for chapter in site.pages %}
+  {% comment %} 1. Iterujemy po posortowanych stronach w poszukiwaniu index.md rozdziałów {% endcomment %}
+  {% for chapter in sorted_pages %}
     {% assign parts = chapter.path | split: '/' %}
     
-    {% comment %} Rozdział to plik index.md znajdujący się dokładnie w podfolderze (np. rozdzial1/index.md) {% endcomment %}
+    {% comment %} Rozdział to plik index.md dokładnie w podfolderze {% endcomment %}
     {% if parts.size == 2 and parts[1] == 'index.md' %}
       {% assign folder_name = parts[0] %}
       
@@ -28,12 +31,11 @@ layout: default
           <a href="{{ chapter.url | relative_url }}">{{ chapter.title | default: folder_name }}</a>
         </strong>
 
-        {% comment %} 2. Znajdź podrozdziały przypisane do tego katalogu {% endcomment %}
+        {% comment %} 2. Iterujemy po posortowanych podrozdziałach w tym samym folderze {% endcomment %}
         <ul style="margin-top: 6px; margin-left: 20px;">
-          {% for subpage in site.pages %}
+          {% for subpage in sorted_pages %}
             {% assign sub_parts = subpage.path | split: '/' %}
             
-            {% comment %} Podrozdział to plik w tym samym folderze, ale NIE index.md {% endcomment %}
             {% if sub_parts.size == 2 and sub_parts[0] == folder_name and sub_parts[1] != 'index.md' %}
               <li>
                 <a href="{{ subpage.url | relative_url }}">{{ subpage.title | default: sub_parts[1] }}</a>
