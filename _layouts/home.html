@@ -14,40 +14,34 @@ layout: default
 
 <h2>Spis treści</h2>
 
-{% comment %}
-  Grupujemy wszystkie strony według folderu, w którym się znajdują
-{% endcomment %}
-{% assign grouped_pages = site.pages | group_by_exp: "page", "page.path | split: '/' | first" %}
-
 <ul>
-  {% for group in grouped_pages %}
-    {% comment %} Ignorujemy pliki znajdujące się w głównym katalogu (np. główny index.md, 404.md itp.) {% endcomment %}
-    {% unless group.name contains '.' or group.name == '' %}
+  {% comment %} 1. Znajdź i wyświetl wszystkie pliki index.md w podfolderach (czyli Strony Główne Rozdziałów) {% endcomment %}
+  {% for chapter in site.pages %}
+    {% assign parts = chapter.path | split: '/' %}
+    
+    {% comment %} Rozdział to plik index.md znajdujący się dokładnie w podfolderze (np. rozdzial1/index.md) {% endcomment %}
+    {% if parts.size == 2 and parts[1] == 'index.md' %}
+      {% assign folder_name = parts[0] %}
       
-      {% comment %} Szukamy pliku index.md danego rozdziału {% endcomment %}
-      {% assign chapter_index = group.items | where: "name", "index.md" | first %}
-      
-      <li>
+      <li style="margin-bottom: 15px;">
         <strong>
-          {% if chapter_index %}
-            <a href="{{ chapter_index.url | relative_url }}">{{ chapter_index.title | default: group.name }}</a>
-          {% else %}
-            {{ group.name }}
-          {% endif %}
+          <a href="{{ chapter.url | relative_url }}">{{ chapter.title | default: folder_name }}</a>
         </strong>
 
-        {% comment %} Wyświetlamy podrozdziały (wszystkie pliki poza index.md) {% endcomment %}
+        {% comment %} 2. Znajdź podrozdziały przypisane do tego katalogu {% endcomment %}
         <ul style="margin-top: 6px; margin-left: 20px;">
-          {% for child in group.items %}
-            {% unless child.name == 'index.md' %}
+          {% for subpage in site.pages %}
+            {% assign sub_parts = subpage.path | split: '/' %}
+            
+            {% comment %} Podrozdział to plik w tym samym folderze, ale NIE index.md {% endcomment %}
+            {% if sub_parts.size == 2 and sub_parts[0] == folder_name and sub_parts[1] != 'index.md' %}
               <li>
-                <a href="{{ child.url | relative_url }}">{{ child.title | default: child.name }}</a>
+                <a href="{{ subpage.url | relative_url }}">{{ subpage.title | default: sub_parts[1] }}</a>
               </li>
-            {% endunless %}
+            {% endif %}
           {% endfor %}
         </ul>
-
       </li>
-    {% endunless %}
+    {% endif %}
   {% endfor %}
 </ul>
