@@ -1,5 +1,6 @@
 ---
 layout: katalog
+title: "6. Zmartwychwstając zwyciężył śmierć i odnowił życie"
 ---
 
 ## 6. Zmartwychwstając zwyciężył śmierć i odnowił życie  
