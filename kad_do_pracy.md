@@ -6,8 +6,6 @@ Bóg wysłał do serc naszych Ducha, który woła: Abba, Ojcze! (Ga 4,6)
 
 Człowiek uformowany przez przyjęcie chrztu na obraz Syna i obdarzony Jego Duchem wchodzi w całkowicie nową relację
 
-<sup>139</sup> Chodzi o pięć narodów, przesiedlonych przez Nabuchodonozora do Samarii, które wprowadziły tam swoje bałwochwalcze kulty.
-
 159
 
 z Bogiem - w tę, którą Bóg zamierzył dla niego od początku, a która została zniszczona przez grzech pierworodny. Jej istotę stanowi całkowite zaufanie Bogu, zaufanie, którego źródłem jest Duch Święty, wlany w serce człowieka. Św. Paweł opisuje tę rzeczywistość jako wewnętrzne doświadczenie dziecięctwa, które otrzymuje chrześcijanin: „Sam Duch wspiera swym świa­dectwem naszego ducha, że jesteśmy dziećmi Bożymi" (Rz 8,16). Nie jest to doświadczenie, ograniczone jedynie do sfery intelektualnej czy emocjonalnej, lecz dotyka ono samego cen­trum jestestwa człowieka, jego _serca_ w sensie biblijnym. To doświadczenie stanowi zasadnicze odniesienie do Boga jako Źródła czy Fundamentu życia człowieka i bardzo konkretnie określa jego wybory.
