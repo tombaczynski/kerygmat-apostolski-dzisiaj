@@ -1,25 +1,4 @@
 0
-
-_1A._ Gwarancja odrodzenia
-
-Wiemy, że przeszliśmy ze śmierci do życia, bo miłujemy braci (U 3,14)
-
-Udzielenie stworzeniu Ducha miłości to „wykonanie tajemni­czego planu, ukrytego przed wiekami w Bogu, Stwórcy wszech­rzeczy" (Ef 3,9), planu, który oznacza w istocie usunięcie skut­ków grzechu. Dlatego w ewangelicznym przekazie i w przepo­wiadaniu apostolskim Duch Święty został ukazany jako dar, po­zostający w bezpośrednim związku z odpuszczeniem grzechów: „Weźmijcie Ducha Świętego! Którym odpuścicie grzechy, są im odpuszczone, a którym zatrzymacie, są im zatrzymane" (J 20,22- 23). Kto otrzymuje tego Ducha, dostępuje jednocześnie odpusz­czenia grzechów, ponieważ staje się wolny od niewoli strachu przed śmiercią i zdolny do bezinteresownego dawania siebie in­nym, do wypełniania w swoim życiu Prawa miłości, _Prawa Ducha:_ „Albowiem prawo Ducha, który daje życie w Chrystusie Jezusie, wyzwoliło cię spod prawa grzechu i śmierci" (Rz 8,2). Odpuszczenie grzechów polega właśnie na wyjęciu człowieka z sytuacji terroryzowania go przez śmierć i na umożliwieniu mu tym samym posiadania siebie w dawaniu siebie.
-
-W świetle pierwotnego kerygmatu jasno widać, że odpuszcze­nie grzechów nie jest tylko pewną teorią, rodzajem dramatu, roz­grywającego się poza ludzkim życiem, w abstrakcyjnym świecie rachunków do zapłacenia i hipotetycznych długów do uregulo­wania. Tak jak grzech dotyka i rani człowieka, ma rzeczywisty niszczycielski wpływ na jego życie i odbija się w jego postępowa­niu, tak też odpuszczenie grzechu jest wydarzeniem egzystencjal­nym, którego człowiek musi doświadczyć w konkretny sposób. Tym fundamentalnym doświadczeniem, które winno potwierdzać fakt odpuszczenia grzechów przez Boga, jest bezwarunkowa mi­
-
-162
-
-łość do drugiego, także do nieprzyjaciół. Właśnie umiejętność kochania i przebaczania, która nie może pochodzić od człowieka, lecz jest darem Boga, stanowi dla człowieka gwarancję odpusz­czenia mu grzechów - to dowód, że został wyzwolony _spod pra­wa grzechu i śmierci:_ „My wiemy, że przeszliśmy ze śmierci do życia, bo miłujemy braci" (1J 3,14). Komu odpuszczono grzechy, ten ma w sobie zdolność do ich odpuszczania, a ta nic jest owo­cem jego wysiłków, lecz darmowym dziełem Boga w nim[^141]. Kto jednak nie ma takiej umiejętności, tego realnie nie dotknęło dzie­ło odpuszczenia grzechów, którego Bóg dokonał w Chrystusie: „[...] kto zaś nie miłuje, trwa w śmierci" (U 3,14).
-
-Według Apostoła zdolność do odpuszczania grzechów innym i przebaczania to „zadatek Ducha" (2Kor 1,22; por. 5,5; Ef 1,14), otrzymywany przez człowieka od Boga na potwierdzenie, że jego grzechy są mu przebaczone. Dopiero w takim sensie może­my poprawnie rozumieć wezwanie Modlitwy Pańskiej: „[...] przebacz nam nasze grzechy, bo i my przebaczamy każdemu, kto nam zawini" (Łk 11,4). Przebaczenie grzechów, którego udziela Bóg, staje się w człowieku konkretną rzeczywistością i jest wi­doczne w jego życiu, w takim stopniu, w jakim okazuje się on zdolny do przebaczenia swoim winowajcom. Miłość do nieprzy­jaciół i przebaczenie im jest więc miarą osobistego przyjęcia przebaczenia, którego dostępuje się, będąc nieprzyjacielem Boga (por. Rz 5,10).
-
-[^141] „Bądźcie dla siebie nawzajem dobrzy i miłosierni! Przebaczajcie sobie, tak jak i Bóg wam przebaczył w Chrystusie" (Ef 4,32); „[...] zno­sząc jedni drugich i wybaczając sobie nawzajem, jeśliby miał ktoś za­rzut przeciw drugiemu: jak Pan wybaczył wam, tak i wy!" (Kol 3,13). Chodzi tu oczywiście o przebaczenie na miarę, którą Chrystus ukazał na krzyżu - tak _jak_ On nas, to znaczy _do końca_ (J 13,1).
-
-163
-
-Miłość do nieprzyjaciół i przebaczenie są zatem skutkiem a nie warunkiem miłosierdzia doznanego ze strony Boga. Rozumienie powyższego wezwania z modlitwy _Ojcze nasz_ w takim sensie, jakoby Bóg przebaczał nam dopiero w następstwie naszego prze­baczenia i od niego uzależniał swoje przebaczenie, jest nieporo­zumieniem i świadczy o zasadniczym niezrozumieniu zarówno chrześcijańskiej antropologii, jak i soteriologii. Przebaczenie ze strony człowieka jest tutaj jedynie znakiem oraz zewnętrznym świadectwem otrzymanego od Boga odpuszczenia grzechów. W tej perspektywie należy rozumieć słowa Chrystusa: „Jeśli bowiem przebaczycie ludziom ich przewinienia, i wam przebaczy Ojciec wasz niebieski. Lecz jeśli nie przebaczycie ludziom, i Ojciec wasz nie przebaczy wam waszych przewinień" (Mt 6,14-15).
-
 **7.5.** Pokora dłużnika
 
 Ile razy mam przebaczyć? (Mt 18,21)
@@ -34,7 +13,7 @@ Rabbi z Nazaretu, o którym mówiono, że to _przyjaciel celników i grzesznikó
 
 Jezus zwraca się do faryzeusza po imieniu: „«Szymonie, mam ci coś powiedzieć». On rzekł: «Powiedz, Nauczycielu!»" (Łk 7,40). Wszystko, co teraz usłyszy ten człowiek, będzie miało je­den cel: ukazać prawdę o nim samym, obnażyć rzeczywistość jego grzechu, aby Szymon mógł zaprosić i przyjąć Jezusa do swe­go życia już nie z pozycji pysznego faryzeusza, ale w taki sposób, jak uczyniła to owa prostytutka. Właśnie dlatego Jezus opowiada Szymonowi przypowieść o wierzycielu, który chciał rozliczyć się
 
-[^142] Prawo surowo zakazywało wszelkiego kontaktu z takimi kobieta­mi. Pod tym względem faryzeusz nie miał sobie nic do zarzucenia: modlił się kilka razy dziennie (wstawał nawet w nocy!), surowo pościł dwa razy w tygodniu, dziesięć procent swoich zarobków dawał na po­trzeby biednych - miał więc wszelkie podstawy, aby uważać się za człowieka sprawiedliwego i dziękować Bogu, że nie jest taki, jak inni ludzie: zdziercy, oszuści, cudzołożnicy...
+[142]: Prawo surowo zakazywało wszelkiego kontaktu z takimi kobieta­mi. Pod tym względem faryzeusz nie miał sobie nic do zarzucenia: modlił się kilka razy dziennie (wstawał nawet w nocy!), surowo pościł dwa razy w tygodniu, dziesięć procent swoich zarobków dawał na po­trzeby biednych - miał więc wszelkie podstawy, aby uważać się za człowieka sprawiedliwego i dziękować Bogu, że nie jest taki, jak inni ludzie: zdziercy, oszuści, cudzołożnicy...
 
 165
 
@@ -42,11 +21,11 @@ ze swymi sługami - przytaczamy ją w redakcji św. Mateusza (zob. Mt 18,24-27)<
 
 Aby Szymon mógł zobaczyć wyraźnie bezmiar otrzymanego przebaczenia, Chrystus chce odkryć przed nim także prawdę o jego grzechu. Temu służy druga część przypowieści, która opisuje dal­sze losy szczodrze potraktowanego sługi (zob. Mt 18,28-30)[^145].
 
-[^143] „[...] przyprowadzono mu jednego, który mu był winien dziesięć tysięcy talentów. Ponieważ nie miał z czego ich oddać, pan kazał sprze­dać go razem z żoną, dziećmi i całym jego mieniem, aby tak dług odzy­skać. Wtedy sługa upadł przed nim i prosił go: «Panie, miej cierpliwość nade mną, a wszystko ci oddam». Pan ulitował się nad tym sługą, uwol­nił go i dług mu darował".
+[143]: „[...] przyprowadzono mu jednego, który mu był winien dziesięć tysięcy talentów. Ponieważ nie miał z czego ich oddać, pan kazał sprze­dać go razem z żoną, dziećmi i całym jego mieniem, aby tak dług odzy­skać. Wtedy sługa upadł przed nim i prosił go: «Panie, miej cierpliwość nade mną, a wszystko ci oddam». Pan ulitował się nad tym sługą, uwol­nił go i dług mu darował".
 
-[^144] Trzeba uświadomić sobie, jak zawrotną sumą było _dziesięć tysięcy talentów:_ 1 talent to cena ok. 34 kg srebra, a zadłużenie tego człowieka stanowiło równowartość pracy 16 tysięcy ludzi przez 10 lat(!), nierealna zatem była obietnica zwrotu tak ogromnej sumy - w praktyce człowiek ten należał (wraz z całą rodziną) do wierzyciela jako niewolnik.
+[144]: Trzeba uświadomić sobie, jak zawrotną sumą było _dziesięć tysięcy talentów:_ 1 talent to cena ok. 34 kg srebra, a zadłużenie tego człowieka stanowiło równowartość pracy 16 tysięcy ludzi przez 10 lat(!), nierealna zatem była obietnica zwrotu tak ogromnej sumy - w praktyce człowiek ten należał (wraz z całą rodziną) do wierzyciela jako niewolnik.
 
-[^145] „[...] spotkał jednego ze współsług, który mu był winien sto dena­rów. Chwycił go i zaczął dusić, mówiąc: «Oddaj, coś winien!». Jego współsługa upadł przed nim i prosił go: «Miej cierpliwość nade mną, a oddam tobie». On jednak nie chciał, lecz poszedł i wtrącił go do wię­zienia, dopóki nie odda długu".
+[145]: „[...] spotkał jednego ze współsług, który mu był winien sto dena­rów. Chwycił go i zaczął dusić, mówiąc: «Oddaj, coś winien!». Jego współsługa upadł przed nim i prosił go: «Miej cierpliwość nade mną, a oddam tobie». On jednak nie chciał, lecz poszedł i wtrącił go do wię­zienia, dopóki nie odda długu".
 
 166
 
@@ -54,7 +33,7 @@ Aby Szymon mógł zobaczyć wyraźnie bezmiar otrzymanego przebaczenia, Chrystus
 
 Aby nawrócenie serca było możliwe, Szymon musi stanąć w trudnej prawdzie o własnym grzechu i odkryć to, co rzeczywi­ście znajduje się w jego sercu-po to Jezus porównuje go z grzesz­ną kobietą (zob. Łk 7,44-48)[^146]. Faryzeusz, w swoim mniemaniu sprawiedliwy dzięki własnym zasługom, nie potrzebował Chrystusa-Zbawiciela: od czego miałby go On wyzwolić, z jakiej choroby uleczyć i cóż takiego mógłby mu przebaczyć? Tyle, że _komu się wiele przebacza, ten wiele miłuje, a komu się mało prze­bacza, ten mało miłuje._ Dlatego Szymon faryzeusz przyjął Jezusa w sposób tak chłodny i wyrachowany, bez gestów szacunku i mi­łości, jakie gościnność przewidywała dla osób najgodniejszych:
 
-[^146] „[...] zwrócił się do kobiety i rzekł Szymonowi: «Widzisz tę ko­bietę? Wszedłem do twego domu, a nie podałeś Mi wody do nóg; ona zaś łzami oblała Mi stopy i swymi włosami je otarła. Nie dałeś Mi po­całunku; a ona, odkąd wszedłem, nie przestaje całować nóg moich. Głowy nie namaściłeś Mi oliwą; ona zaś olejkiem namaściła moje nogi. Dlatego powiadam ci: Odpuszczone są jej liczne grzechy, ponieważ bardzo umiłowała. A ten, komu mało się odpuszcza, mało miłuje». Do niej zaś rzekł: «Twoje grzechy są odpuszczone»".
+[146]: „[...] zwrócił się do kobiety i rzekł Szymonowi: «Widzisz tę ko­bietę? Wszedłem do twego domu, a nie podałeś Mi wody do nóg; ona zaś łzami oblała Mi stopy i swymi włosami je otarła. Nie dałeś Mi po­całunku; a ona, odkąd wszedłem, nie przestaje całować nóg moich. Głowy nie namaściłeś Mi oliwą; ona zaś olejkiem namaściła moje nogi. Dlatego powiadam ci: Odpuszczone są jej liczne grzechy, ponieważ bardzo umiłowała. A ten, komu mało się odpuszcza, mało miłuje». Do niej zaś rzekł: «Twoje grzechy są odpuszczone»".
 
 167
 
@@ -74,7 +53,7 @@ wać z siebie, aby tworzyć jedność z drugim, ukazuje się w Ko­ściele. W za
 
 W takim sensie Kościół jest widzialnym Ciałem Chrystusa zmartwychwstałego, wspólnotą ludzi kochających się _do końca_ (J 13,1) dzięki Duchowi, którego darmowo otrzymali i dobrowol­nie przyjęli. Kto spotyka się z takim Kościołem, nie tylko znajdu­je Chrystusa, ale także _widzi_ Go żyjącego, zmartwychwstałego - przeżywa prawdziwą chrystofanię. W ten sposób Kościół jest w planach Bożych wspólnotą, która dzięki otrzymanemu darowi Ducha miłości Ojca i Syna, odzwierciedla w rzeczywistości stworzonej tajemnicę trynitamą: „I także chwałę, którą Mi dałeś, przekazałem im, aby stanowili jedno, tak jak My jedno stanowi­my" (J 17,22; por. 17,11). Dlatego Sobór, za św. Cyprianem, określił Kościół jako „lud zjednoczony jednością Ojca i Syna, i Ducha Świętego" (KK 4)[^147].
 
-[^147] Taka eklezjologia powinna znajdować wyraz w architektonice bu­dynków kościelnych, które mają symbolicznie przedstawiać rzeczywi­stość Kościoła i zapraszać do jej realizacji, a więc także katechizować.
+[147]: Taka eklezjologia powinna znajdować wyraz w architektonice bu­dynków kościelnych, które mają symbolicznie przedstawiać rzeczywi­stość Kościoła i zapraszać do jej realizacji, a więc także katechizować.
 
 169
 
@@ -92,13 +71,13 @@ Na zakończenie pragnę napisać kilka słów o celu każdego przepowiadania ker
 
 Tymczasem biblijna koncepcja nawrócenia ma głębszą treść i ukazuje to wydarzenie raczej jako długotrwały i stopniowy pro­ces niż jednostkowy epizod. Hebrajskie _sub_ wyraża ideę zawró­cenia z obranej drogi, powrotu i oznacza autentyczną zmianę postawy wewnętrznej oraz zewnętrznej człowieka - zwrócenie całej osoby i wszystkich dziedzin ludzkiego życia ku Jahwe i Je­go woli[^148]. Ideę przemiany wewnętrznej w Nowym Testamencie wyraża termin _metanoiw._ zmiana _(meta)_ sposobu myślenia _(nous)._ W kontekście naszych rozważań możemy powiedzieć, że _meta- noia_ oznacza radykalną zmianę fałszywego sposobu myślenia
 
-[^148] Staranniejsze rozróżnienie wewnętrznego i zewnętrznego aspek­tu nawrócenia dokonało się dopiero przy okazji tłumaczenia Biblii he­brajskiej na język grecki.
+[148]: Staranniejsze rozróżnienie wewnętrznego i zewnętrznego aspek­tu nawrócenia dokonało się dopiero przy okazji tłumaczenia Biblii he­brajskiej na język grecki.
 
 172
 
 o Bogu, który na początku zaszczepił rodzajowi ludzkiemu sza­tan. Nie chodzi tutaj jednak o teoretyczną ideę Boga, ale o utrwa­lony w głębinach ludzkiego bytu stan nieufności wobec Niego, a konsekwencją tego stanu jest strach przed umieraniem, czyli bezinteresownym traceniem swego życia, czyniący człowieka niezdolnym do miłości. W takiej sytuacji nawrócenie to dla chrześcijanina sprawa codzienna, jego chleb powszedni, ponie­waż każdego dnia jest on narażony na zamęt w swojej relacji do Boga, zamęt spowodowany działaniem złego ducha. Tylko nie­ustanne słuchanie (i głoszenie) Dobrej Nowiny powoduje we­wnętrzną przemianę całego człowieka, „przez którą zaczyna on myśleć, sądzić i układać swoje życie przepojony tą światłością i miłością Boga, które zostały ujawnione w Synu i nam w pełni udzielone"[^149]. Takiej przemiany życzę sobie i wszystkim czytel­nikom tej książki.
 
-[^149] Paweł VI, _Poenitemini_, PPK, t. 2, z. 2, n. 649, Warszawa 1969.
+[149]: Paweł VI, _Poenitemini_, PPK, t. 2, z. 2, n. 649, Warszawa 1969.
 
 ZAWARTOŚĆ
 
