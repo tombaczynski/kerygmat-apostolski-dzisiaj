@@ -1,0 +1,53 @@
+---
+layout: default
+---
+
+{% comment %} Pobieramy nazwę folderu rozdziału ze ścieżki pliku (np. z "rozdzial1/podrozdzial.md" wyciągamy "rozdzial1") {% endcomment %}
+{% assign path_parts = page.path | split: '/' %}
+{% assign folder_name = path_parts[0] %}
+
+{% comment %} Szukamy strony głównej tego rozdziału (rozdzial1/index.md) w site.pages {% endcomment %}
+{% assign chapter_page = nil %}
+{% for p in site.pages %}
+  {% assign p_parts = p.path | split: '/' %}
+  {% if p_parts.size == 2 and p_parts[0] == folder_name and p_parts[1] == 'index.md' %}
+    {% assign chapter_page = p %}
+    {% break %}
+  {% endif %}
+{% endfor %}
+
+<div style="margin-bottom: 20px; display: flex; align-items: center; gap: 10px; flex-wrap: wrap;">
+  <a href="{{ '/' | relative_url }}" class="btn btn-outline">🏠 Początek</a>
+  
+  <span>/</span>
+  
+  {% if chapter_page %}
+    <a href="{{ chapter_page.url | relative_url }}"><strong>{{ chapter_page.title | default: folder_name }}</strong></a>
+  {% else %}
+    <a href="{{ '/' | relative_url }}{{ folder_name }}/"><strong>{{ folder_name }}</strong></a>
+  {% endif %}
+</div>
+
+<hr>
+
+<div class="main-content">
+  {{ content }}
+</div>
+
+{% comment %} Wyszukiwanie innych podrozdziałów w tym samym katalogu {% endcomment %}
+{% assign siblings = '' | split: '' %}
+{% for doc in site.pages %}
+  {% assign doc_parts = doc.path | split: '/' %}
+  {% if doc_parts.size == 2 and doc_parts[0] == folder_name and doc_parts[1] != 'index.md' and doc.path != page.path %}
+    {% assign siblings = siblings | push: doc %}
+  {% endif %}
+{% endfor %}
+
+{% if siblings.size > 0 %}
+  <h3>Inne podrozdziały</h3>
+  <ul>
+    {% for sibling in siblings %}
+      <li><a href="{{ sibling.url | relative_url }}">{{ sibling.title | default: sibling.name }}</a></li>
+    {% endfor %}
+  </ul>
+{% endif %}

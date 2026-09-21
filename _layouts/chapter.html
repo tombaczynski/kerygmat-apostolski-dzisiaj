@@ -1,0 +1,39 @@
+---
+layout: default
+---
+
+{% assign chapter_base = page.url | replace: 'index.html', '' %}
+{% if chapter_base == '' %}
+  {% assign chapter_base = '/' %}
+{% endif %}
+
+<div style="margin-bottom: 20px; display: flex; gap: 10px; flex-wrap: wrap;">
+  <a href="{{ site.baseurl }}/" class="btn btn-outline">🏠 Początek</a>
+  <a href="{{ site.baseurl }}/" class="btn btn-outline">📚 Spis treści</a>
+</div>
+
+<hr>
+
+<div class="main-content">
+  {{ content }}
+</div>
+
+{% assign children = '' | split: '' %}
+{% for doc in site.pages %}
+  {% unless doc.name == 'index.md' %}
+    {% assign relative = doc.url | remove_first: chapter_base | strip %}
+    {% assign relative_parts = relative | split: '/' %}
+    {% if relative != '' and relative_parts.size == 1 and relative_parts[0] != '' %}
+      {% assign children = children | push: doc %}
+    {% endif %}
+  {% endunless %}
+{% endfor %}
+
+{% if children.size > 0 %}
+  <h3>Podrozdziały</h3>
+  <ul>
+    {% for child in children %}
+      <li><a href="{{ site.baseurl }}{{ child.url }}">{{ child.title | default: child.name }}</a></li>
+    {% endfor %}
+  </ul>
+{% endif %}
