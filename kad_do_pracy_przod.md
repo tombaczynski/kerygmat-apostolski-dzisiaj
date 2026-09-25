@@ -1104,10 +1104,6 @@ W pracy niniejszej omówiony został temat grzechu pierworodnego i grzeszności 
 
 , z nauką chrześcijańską, na którą się powoływał.
 
-[^1]: Począwszy od wielu form cierpiętnictwa w imię przyszłej nagrody, aż po różne odmiany samodoskonalenia i zdobywania moralnej po­prawności poprzez wytrwałą pracę nad sobą.
-
-[^2]: Takie przekonanie wyraził Kościół na synodach w Kartaginie (418) i Orange (529) jako uwieńczenie burzliwego sporu pelagiańskiego.
-
 [^3]: Statut Neokatechumenatu został podpisany 29 czerwca 2001 roku przez Papieską Radę do Spraw Świeckich.
 
 [^4]: Zgodnie z ustaleniami współczesnej egzegezy, traktujemy te teksty jako metahistoryczne opowiadania opisujące ponadczasową rzeczywistość rodzaju ludzkiego - Adamem i Ewą jest w nich każdy bez wyjątku człowiek: „\[...\] nie patrzymy na nie jak na teksty starożytne, w których jest zawarta jakaś, większa czy mniejsza, ludzka mądrość pochodząca z określonych kręgów kulturowych. Nie patrzymy na te teksty jako na pośredników, dzięki którym chcemy i możemy odkrywać jakieś ludzkie poznanie czy stan ludzkiej świadomości na pewnym etapie rozwoju. \[...\] Patrzymy na te teksty jako na świadków jednego Objawienia Bożego, które - posługując się różnymi i różnorodnymi opisami, rozwijając się i pogłębiając - wykazuje nieporównywalną z żadnym innym świadectwem wewnętrzną jedność, a mianowicie stały i nieodwołalny zamysł Boży i jego wypełnienie, osiągające swój punkt kulminacyjny w dziele Jezusa Chrystusa". Z. Kiernikowski, _Dwoje jednym ciałem w Chrystusie,_ Warszawa 2000, s. 28-29.
