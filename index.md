@@ -3,6 +3,11 @@ layout: home
 title: "Kerygmat apostolski dzisiaj"
 ---
 
-# Kerygmat apostolski dzisiaj
+# Kerygmat apostolski dzisiaj. Biblijno-teologiczna synteza dla nowej ewangelizacji
 
-To jest zawartość głównego pliku index.md, który jest używany jako strona główna dla projektu "Kerygmat apostolski dzisiaj".
+**Ks. Robert Pisula**  
+  
+Norbertinum  
+  
+Lublin 2005  
+  

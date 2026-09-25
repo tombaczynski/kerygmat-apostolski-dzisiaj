@@ -1,15 +1,5 @@
 # KERYGMAT APOSTOLSKI DZISIAJ
 
-Ks. Robert Pisula
-
-Kerygmat apostolski dzisiaj. Biblijno-teologiczna synteza dla nowej ewangelizacji
-
-Norbertinum
-
-Lublin 2005
-
-© Copyright by Norbertinum, 2005
-
 Na s. 1 okładki reprodukcja ikony
 
 Austin Kachek _Saints Peter and Paul_ (Elizabeth, New Jersey, USA)
