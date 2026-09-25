@@ -1,9 +1,6 @@
 ---
 layout: chapter
-title: "Strona tytułowa i wstępy"
+title: "Strona redakcyjna i wstępy"
 ---
 
-## Epilog
-
-© Copyright by Norbertinum, 2005  
-  
+**_Dla tych, którzy głosili mi Dobrą Nowinę_**
