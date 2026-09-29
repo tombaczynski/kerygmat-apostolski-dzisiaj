@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: "1. Ojsze, stworzyłeś człowieka"
+title: "1. Ojcze, stworzyłeś człowieka"
 ---
 
 ## 1. Ojcze, stworzyłeś człowieka
