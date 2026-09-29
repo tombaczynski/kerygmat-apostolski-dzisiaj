@@ -1,41 +1,4 @@
 
-
-[^5]: Por. H. Dziadosz, _Miłosierdzie Boże na nowo odkrywane,_ Kraków 1999, s. 9-11.
-
-[^6]: Potwierdza to np. nasze codzienne doświadczenie konieczności nocnego odpoczynku, bez którego ludzkie życie jest niemożliwe.
-
-[^7]: Por. Kiernikowski, _Dwoje jednym ciałem w Chrystusie,_ s. 30-31. Sobór wypowiada tę prawdę mówiąc, że człowiek Jest jedynym na ziemi stworzeniem, którego Bóg chciał dla niego samego" (KDK 24).
-
-[^8]: Por. _Libro dei Giubilei_ w: P. Sacchi (red.), _Apocrifi dell'Antico Testamento,_ Torino 1981, s. 295; _Testamento dei XII Patriarchi: del Testamento di Nephtali 2,6,9, 3,1-5,_ tamże, s. 860-861.
-
-[^9]: Jako przykład szerokiej bibliografii na ten temat podajemy kilka klasycznych opracowań w języku włoskim: L.F. Ladaria, _Antropologia teologica,_ Roma 1983, s. 9-17; Ruiz De La Peña, _Teologia della creazione,_ Roma 1988, s. 11-54; A. Deissler, _L'uomo secondo la Biblia,_ Roma 1989, s. 11-57; G. Gozzelino, _Il mistero dell'uomo in Christo. Saggio di protologia,_ Torino 1991, s. 19-30; G. Iammarrone, _L'uomo immagine di Dio. Antropologia e Cristologia,_ Roma 1989, s. 47-80, 120-122; E. Perettro, _Gli insegnamenti degli scrittori cristiani del II secolo sulla creazione_ w: G. De Gennaro (red.), Il _cosmo nella Bibbia_ Napoli 1982, s. 529-575; G. Basio, E. Dal Covolo, M. Maritano _Introduzione ai Padri della Chiesa, Secoli II e III,_ Torino 1991, s. 249- 251; G. Iammarrone, _La cristologia francescana,_ Padova 1997, s. 145-161; A.G. Hamman (red.), _L'uomo immagine somigliante di Dio_ Milano 1991, s. 153-158; 161-173; 177-185; 263-274; G. Panteghini_, Limiti e aperture del cristocentrismo bonaventuriano_ w: AA.VV, _Contributi di spiritualità bonaventuriana_, Padova 1975, s. 75-121.
-
-[^10]: Por. G. Bentivegna, _Dimensione antroplogica della teologia in s. Ireneo,_ „Asprenas" 18(1971), s. 43-55.
-
-[^11]: _Divinum illud mundus,_ D 3326.
-
-[^12]: Por. Kiernikowski, _Dwoje jednym ciałem_ w _Chrystusie,_ s. 32-33.
-
-[^13]: Należy koniecznie pamiętać o biblijnym znaczeniu czasownika „_znać_", które wykracza daleko poza abstrakcyjną funkcję samego rozu­mu, ale wyraża intymny związek z poznawaną osobą.
-
-[^14]: Celowo sięgamy do porównania, zaczerpniętego z teologii Pawiowej (zob. Ga 4,6-7; Rz 8,15-17).
-
-[^15]: Kiedy mówimy tutaj o _zaufaniu_ czy _nieufności_ człowieka w sto­sunku do Boga, nie mamy na myśli pewnych stanów psychicznych o charakterze przejściowym, lecz myślimy o postawie zakorzenionej i utrwalonej na płaszczyźnie ontycznej, która konstytuuje go jako istotę ludzką.
-
-[^16]: To gwałtowne _przejście_ ze Starego do Nowego Testamentu jest uzasadnione w świetle prawdy o Chrystusie jako _Pośredniku w dziele stworzenia,_ która pozwala widzieć w _drugim Adamie_ (Chrystusie) peł­ną realizację powołania _pierwszego Adama_ (por. Rz 5,14).
-
-[^17]: Człowiek-Adam, nie mając odpowiedniej relacji do nikogo dru­giego, nie był jeszcze dziełem w pełni _ukończonym_ i dlatego w sensie ścisłym nie był jeszcze obrazem Boga. Por. Kiernikowski, _Dwoje jed­nym ciałem_ w _Chrystusie,_ s. 34-35.
-
-[^18]: Taką chrystologiczną interpolację uzasadnia tradycja patrystycz­na, która interpretowała werset Rdz 2,24 w świetle wypowiedzi św. Pawła o odniesieniu małżeństwa do wzajemnej relacji Chrystusa i Ko­ścioła (por. Ef 5,32). Syn Boży _wyszedł od Ojca i przyszedł na świat_ (por. J 16,28) jako człowiek, _nowy Adam_ (por. J 1,14), opuścił Synagogę, która była mu matką _według ciała_ (Rz 1,3), aby zjednoczyć się ze swoją oblubienicą, grzeszną ludzkością (_Ewa_), którą przemienił w Kościół, rodząc go ze swego boku, aby byli _dwoje jednym ciałem_ (por. Kol 1,18; Ef 2,11-22). Por. Kiernikowski, _Dwoje jednym ciałem w Chrystusie_, s. 43.
-
-[^19]: Chodzi np. o rozumienie nagości przez Hioba (por. Hi 1,21) lub Dawida (por. 2 Sm 6).
-
-[^20]: Poczucie wstydu można interpretować jako naturalną reakcję obronną człowieka wobec zagrożenia utratą integralności duszy i ciała poprzez pożądające spojrzenie. Por. K. Wojtyła, _Mężczyzną i kobietą stworzył ich,_ Vaticano 1986, n. 47-49.
-
-[^21]: Dla uniknięcia nieporozumień zwracamy uwagę, że przez _natural­ny stan_ człowieka rozumiemy sytuację, wyrażającą jego właściwe i pierwotne powołanie w planach Bożych, a więc przede wszystkim re­lację do Stwórcy. Wobec powyższego, nie należy temu pojęciu nadawać sensu, jaki miało ono w scholastyce, która przez _status naturæ puræ_ rozumiała hipotetyczny stan naturalnej szczęśliwości (skonstruowany na potrzeby doktryny o łasce), w którym człowiek mógłby żyć przed grzechem pierworodnym, gdyby został pozbawiony darów pozaprzyrodzonych (nieśmiertelność cielesna, wolność od cierpień, wiedza wlana, zdolność do zdobywania wiedzy bez trudu, skłonność woli do autentycznego dobra, harmonia wewnętrzna) oraz nadprzyrodzonych (łaska uświęcająca, cnoty wlane, dary Ducha Świętego, łaska uczynkowa).
-
-[^22]: Por. Wojtyła, _Mężczyzną i kobietą stworzył ich,_ n. 46-47.
-
 [^23]: Człowiek jest _homo religiosus,_ gdyż religijność została wpisana w jego naturę i powinna kierować go ku Bogu, jednak po upadku uległa wypaczeniu i przedstawia karykaturę Stwórcy (jeśli się jej nie korygu­je) i jak każda ludzka rzeczywistość wymaga odkupienia.
 
 [^24]: Taka postawa przyjmuje kształt konkretnej religii, w której czło­wiek się wychowuje (islam, buddyzm, hinduizm...). Można także nadać swojej religijności formę chrześcijańską np. sakramenty mogą być _uży­wane_ jako środek do zapewnienia sobie przychylności Boga – _ugłaskania, udobruchania_ i zagwarantowania sobie Jego opieki (np. podczas trudnego egzaminu).
