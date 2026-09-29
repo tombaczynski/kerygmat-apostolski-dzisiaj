@@ -2,7 +2,7 @@
 
 ## Ojcze stworzyłeś człowieka
 
-W pierwszym rzędzie pragniemy spojrzeć na pierwotny plan Boga wobec ludzkości, ukazany przede wszystkim w dwóch opi­sach stworzenia człowieka, które znajdujemy w pierwszych roz­działach Księgi Rodzaju[^4].
+
 
 ### Zdany na Stwórcę
 
